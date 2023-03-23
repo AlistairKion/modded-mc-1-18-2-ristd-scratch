@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "7c1d958682751676771662814e04d6d7a842e4a1c3634f1ab1747fedbebdb3fa"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "ce5d2baed88bd178956579872719f896f6531ed3692dab4d368cf12445e8f231"
+metafile = true
+
+[[files]]
+file = "mods/laserio.pw.toml"
+hash = "f34598ec685d32abe98ea14ad6e422332de7ada1e31c35edb14f0c0ab2599b3d"
+metafile = true
+
+[[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "912c22ba96ab5abbbc24fdffa68f95a1f21d9360ac39bb05f4dc5b3777dfc11f"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
