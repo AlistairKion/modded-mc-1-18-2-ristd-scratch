@@ -6,3 +6,6 @@
 
 # Exclude zipped client
 /RISTDScratch.zip
+
+# Exclude modJars
+modJars/
