@@ -30,6 +30,16 @@ hash = "29ff817f8b0414165a4a63079c719db55c7f12c052b2af21a505ef4e80364ff9"
 metafile = true
 
 [[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "5e817210ce0652cec8fd1b78b0b24c1a2d9b5a1f54fcd13b87aa2ec362fc7c4d"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "eb085aa1680bb07e24c4b92fa5c72d56585a77803256d7b80bae34226aac6216"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "ce5d2baed88bd178956579872719f896f6531ed3692dab4d368cf12445e8f231"
 metafile = true
