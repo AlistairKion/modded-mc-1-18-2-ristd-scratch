@@ -5,8 +5,18 @@ file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "7c1d958682751676771662814e04d6d7a842e4a1c3634f1ab1747fedbebdb3fa"
+metafile = true
+
+[[files]]
+file = "mods/dragon-magic-and-relics.pw.toml"
+hash = "719d962679983005aa960020de5707eeb821dbe29d60d705205ccf3975cfd154"
 metafile = true
 
 [[files]]
@@ -15,13 +25,33 @@ hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
 metafile = true
 
 [[files]]
+file = "mods/hexerei.pw.toml"
+hash = "fcb294ed1867ab61af110c5ff455f4b5ec8feefc41bc94b4ddad2211277479e8"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "ce5d2baed88bd178956579872719f896f6531ed3692dab4d368cf12445e8f231"
 metafile = true
 
 [[files]]
+file = "mods/libx.pw.toml"
+hash = "1abd6b14897b96bd995cca1da58bffc0637207f4854fe7afd1fe9aad228988a7"
+metafile = true
+
+[[files]]
 file = "mods/mana-and-artifice.pw.toml"
 hash = "912c22ba96ab5abbbc24fdffa68f95a1f21d9360ac39bb05f4dc5b3777dfc11f"
+metafile = true
+
+[[files]]
+file = "mods/mana-and-storage.pw.toml"
+hash = "d04bd0c9bbc3c87e2b11516200dca5e906897aa6629bfc34f2bb940e03c3a4a8"
+metafile = true
+
+[[files]]
+file = "mods/mythicbotany.pw.toml"
+hash = "548b6245f3345e5a1a1754022c03a6f359ac76803e6fd57ef7ec0e7ddf9867cd"
 metafile = true
 
 [[files]]
