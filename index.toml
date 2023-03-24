@@ -6,7 +6,7 @@ hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
-hash = "b9879a920a6d4f3fc26350e52bb53c68db15fcf739b5ba175372cc20231c4555"
+hash = "e95335c7cd315114e9facd91d9a2764930a575394abf3092b54d9096c692163a"
 
 [[files]]
 file = "mods/botania.pw.toml"

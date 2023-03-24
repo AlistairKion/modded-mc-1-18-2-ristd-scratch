@@ -13,10 +13,10 @@
 	[wires.copper]
 		#The maximum length of copper wires
 		#Range: > 0
-		maxLength = 16
+		maxLength = 48
 		#The transfer rate of copper wire in IF/t
 		#Range: > 0
-		transferRate = 2048
+		transferRate = 16384
 		#The percentage of power lost every 16 blocks of distance in copper wire
 		#Range: 0.0 ~ 1.0
 		loss = 0.05
@@ -27,10 +27,10 @@
 	[wires.electrum]
 		#The maximum length of electrum wires
 		#Range: > 0
-		maxLength = 16
+		maxLength = 48
 		#The transfer rate of electrum wire in IF/t
 		#Range: > 0
-		transferRate = 8192
+		transferRate = 65536
 		#The percentage of power lost every 16 blocks of distance in electrum wire
 		#Range: 0.0 ~ 1.0
 		loss = 0.025
@@ -41,10 +41,10 @@
 	[wires.hv]
 		#The maximum length of hv wires
 		#Range: > 0
-		maxLength = 32
+		maxLength = 80
 		#The transfer rate of hv wire in IF/t
 		#Range: > 0
-		transferRate = 32768
+		transferRate = 2147483647
 		#The percentage of power lost every 16 blocks of distance in hv wire
 		#Range: 0.0 ~ 1.0
 		loss = 0.025
@@ -55,27 +55,27 @@
 	[wires.rope]
 		#The maximum length of rope wires
 		#Range: > 0
-		maxLength = 32
+		maxLength = 64
 
 	[wires.cable]
 		#The maximum length of cable wires
 		#Range: > 0
-		maxLength = 32
+		maxLength = 64
 
 	[wires.redstone]
 		#The maximum length of redstone wires
 		#Range: > 0
-		maxLength = 32
+		maxLength = 64
 
 	[wires.insulated_copper]
 		#The maximum length of insulated_copper wires
 		#Range: > 0
-		maxLength = 16
+		maxLength = 48
 
 	[wires.insulated_electrum]
 		#The maximum length of insulated_electrum wires
 		#Range: > 0
-		maxLength = 16
+		maxLength = 48
 
 [machines]
 	#The base Flux that is output by the dynamo. This will be modified by the rotation modifier of the attached water- or windmill
