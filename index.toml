@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexerei.pw.toml"
-hash = "D7A68945BAB167843C5A50FF8B226D8456D7C0FCBC103DC8B6DEF3BACB371A5A"
+hash = "d7a68945bab167843c5a50ff8b226d8456d7c0fcbc103dc8b6def3bacb371a5a"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/mana-and-storage.pw.toml"
-hash = "B821C236806607B7AA9C314226AA1CDAD3B3F623A8A344B2650EC79EF83A3B9D"
+hash = "b821c236806607b7aa9c314226aa1cdad3b3f623a8a344b2650ec79ef83a3b9d"
 metafile = true
 
 [[files]]
