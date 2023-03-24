@@ -3,11 +3,6 @@ filename = "mns-1.18.2-1.0.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7b3db89a03f2403c1c27521f9d03be2e479fe41d"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3937243
-project-id = 661053
+url="https://github.com/AlistairKion/modded-mc-1-18-2-ristd-scratch/raw/main/modJars/mns-1.18.2-1.0.0.1.jar"
+hash-format = "sha256"
+hash = "16EBF4A8FDFF5F3BFC3FE40AC7859439AE03F1827E01CB542A80DD29CEDDEB04"
