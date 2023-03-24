@@ -119,6 +119,16 @@ hash = "1abd6b14897b96bd995cca1da58bffc0637207f4854fe7afd1fe9aad228988a7"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "4789a3b3ee03aacb18449adcdeced8dba0cd27903ca97797e65f3ffb4d27c93b"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "1067da6e817909b6e8c6a8e0f568e180ff17251800b54a976693dd4f7f5afbb8"
+metafile = true
+
+[[files]]
 file = "mods/mana-and-artifice.pw.toml"
 hash = "912c22ba96ab5abbbc24fdffa68f95a1f21d9360ac39bb05f4dc5b3777dfc11f"
 metafile = true
