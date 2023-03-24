@@ -1,0 +1,161 @@
+,
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "0"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_0"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "1"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_1"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "2"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_2"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "3"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_3"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "4"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_4"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "5"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_5"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "6"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_6"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "7"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_7"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "8"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_8"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "9"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_9"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "10"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_10"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "11"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_11"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "12"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_12"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "13"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_13"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "14"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_14"
+		  }
+		},
+		{
+		  "when": {
+				"north": "up",
+				"south": "up",
+				"power": "15"
+			  },
+		  "apply": {
+			"model": "minecraft:block/redstone_bridge_15"
+		  }
+		}

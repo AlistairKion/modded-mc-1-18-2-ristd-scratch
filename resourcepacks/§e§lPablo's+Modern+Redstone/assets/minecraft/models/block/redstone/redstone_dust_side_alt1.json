@@ -1,0 +1,65 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/betterwiring/cable",
+		"1": "block/betterwiring/cables1",
+		"particle": "block/betterwiring/cable"
+	},
+	"elements": [
+		{
+			"from": [6.5, 0, 8],
+			"to": [7.25, 0.75, 15.9],
+			"faces": {
+				"north": {"uv": [0, 15, 1, 16], "texture": "#0"},
+				"east": {"uv": [0, 15, 8, 16], "texture": "#0"},
+				"south": {"uv": [15, 15, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 15, 8, 16], "texture": "#0"},
+				"up": {"uv": [0, 15, 8, 16], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 15, 8, 16], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.625, 0, 8],
+			"to": [8.375, 0.75, 15.9],
+			"faces": {
+				"north": {"uv": [0, 14, 1, 15], "texture": "#0"},
+				"east": {"uv": [0, 15, 8, 16], "texture": "#0"},
+				"south": {"uv": [15, 15, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 15, 8, 16], "texture": "#0"},
+				"up": {"uv": [0, 14, 8, 15], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 15, 8, 16], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.75, 0, 8],
+			"to": [9.5, 0.75, 15.9],
+			"faces": {
+				"north": {"uv": [0, 13, 1, 14], "texture": "#0"},
+				"east": {"uv": [0, 15, 8, 16], "texture": "#0"},
+				"south": {"uv": [15, 15, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 15, 8, 16], "texture": "#0"},
+				"up": {"uv": [0, 13, 8, 14], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 15, 8, 16], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 0, 15],
+			"to": [10, 1.5, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 4, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 1, 4], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 12],
+			"children": [0, 1, 2, 3]
+		}
+	]
+}
