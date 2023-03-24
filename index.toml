@@ -184,12 +184,532 @@ hash = "189c5ae00a47a3419aebab9f0be2b08d2fea2d36c95ad3e48b890351f9d8b384"
 metafile = true
 
 [[files]]
-file = "resourcepacks/QuietRain_but_not_thunder__r931643.zip"
-hash = "76a6c0bf4f35d3749d72db512ef9efb466671d474e9246ac29ca55746229285c"
+file = "resourcepacks/QuietRain_but_not_thunder__r931643/Selected Packs.txt"
+hash = "f35b52425e038de3f98967dc997769f0c029ccebfc960cb0e579c502a2b36c3d"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r117513.zip"
-hash = "f3f0f7baa5a8957de69b48af8517eea7b17b22adba4df6ea4c69d2ec98f975ff"
+file = "resourcepacks/QuietRain_but_not_thunder__r931643/assets/minecraft/sounds/ambient/weather/rain1.ogg"
+hash = "017da9d2d4c14ed9dd8843da57ff868c0e5b444eb346e79349fa0183f3676f67"
+
+[[files]]
+file = "resourcepacks/QuietRain_but_not_thunder__r931643/assets/minecraft/sounds/ambient/weather/rain2.ogg"
+hash = "ada01ef667301a59da457c11587ec9063bbce7d75406935bef560b4208a400dc"
+
+[[files]]
+file = "resourcepacks/QuietRain_but_not_thunder__r931643/assets/minecraft/sounds/ambient/weather/rain3.ogg"
+hash = "3e8a99f08513dbc742384cdc958675833748c0d9d7641da7dd9dee26f8b3d360"
+
+[[files]]
+file = "resourcepacks/QuietRain_but_not_thunder__r931643/assets/minecraft/sounds/ambient/weather/rain4.ogg"
+hash = "e7fd121cbb7180265a3340a957095bcb4616feff5bc8257db25aa66a0e09cf6b"
+
+[[files]]
+file = "resourcepacks/QuietRain_but_not_thunder__r931643/assets/minecraft/sounds/ambient/weather/rain5.ogg"
+hash = "887fb2cafc06323f690424b9d8e45addc9bf4e75f41a058fa34aa62a57f678e8"
+
+[[files]]
+file = "resourcepacks/QuietRain_but_not_thunder__r931643/assets/minecraft/sounds/ambient/weather/rain6.ogg"
+hash = "6ee6138bf6654aa10c76dde16a5b3e7e6965b430dfa4ef9ada21aea19839ae0c"
+
+[[files]]
+file = "resourcepacks/QuietRain_but_not_thunder__r931643/assets/minecraft/sounds/ambient/weather/rain7.ogg"
+hash = "8d67abebab4e89135f18a6990f8f91694ce2742e894266e6c67df55f682819c0"
+
+[[files]]
+file = "resourcepacks/QuietRain_but_not_thunder__r931643/assets/minecraft/sounds/ambient/weather/rain8.ogg"
+hash = "352ef1d98a4b5fd6a34312f92b13d2f47b8c52d274bca9ab3337933f3aafc20f"
+
+[[files]]
+file = "resourcepacks/QuietRain_but_not_thunder__r931643/pack.mcmeta"
+hash = "814c82c29bc8c04bdafc1348e3e7d2238725c0ea328ae8989967bc6b2ff2acbc"
+
+[[files]]
+file = "resourcepacks/QuietRain_but_not_thunder__r931643/pack.png"
+hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/Selected Packs.txt"
+hash = "923190d85176ff4a4c9251215f18897691375727a9b82da4477c4a2ee125fabb"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/blockstates/coarse_dirt.json"
+hash = "a68ba2df01ced463a3520b556f63f322367357960c8d78b3e1b9678436311d65"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/blockstates/moss_block.json"
+hash = "d9012fa80c4cefe791b3da991957ba6e3cac3cabaf9d12db228b69ffbf434cc7"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/blockstates/moss_carpet.json"
+hash = "fdc6c88b3a84715a1e2b5b005ce653b28b9117eddddf5833cc51e674997766b3"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/blockstates/note_block.json"
+hash = "5d7015bb2f9e9a4da3897c594269ce3f59e09b331e1d8a4b12a85ca840129b7f"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/dispenser.json"
+hash = "d427baa5d021e6435e06d75ae0452242655da5df9fc20a6be9fa1684e9238b8d"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/dispenser_vertical.json"
+hash = "557ac98949a066bef6a1ce7dced98bf1fdec8b6ee6463dd9492ce2a75e96bee4"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/dropper.json"
+hash = "af443836323bc00276a99094b0e5e4cc0a0f8f69ec28b3b74c00bb0afd0d9e75"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/dropper_vertical.json"
+hash = "12e50246ff3b1260c2bb1f33497480a257861c580cc826d1e8944cedfec9f9d2"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/hopper.json"
+hash = "087cf1f98bcd4ab0c335a465639e4711f86dd44eb193d70aec5ec24c70958ef6"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/hopper_side.json"
+hash = "33aa86979ee79d7d5f8b19d0782306464a38cf2c0761cfd9c960fbd36a06d109"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/lever.json"
+hash = "802da934ea5a5354bbdbab3e3bb4174070f3a6b74d5131c7f0155da813583ae4"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/lever_on.json"
+hash = "dce71bd75e5e8e2d2aa91a00508a088c06143db3ac79e065c877fcb8d3a9b527"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/0.json"
+hash = "df13390235415618f2a936bf1f1c9eee91e626570af354c26d18a050d124d678"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/1.json"
+hash = "36264ac2b8db36f9d881e4c28d4662db0dadedcfa6c9591207fcf91591f108c4"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/10.json"
+hash = "d59cf62a13c4e7ad33bb6c1d35332eab7954889b6806f53fa40ac6077bc06c2d"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/11.json"
+hash = "b1bb0b0b5d4ee08543e870d59a706d1bc5cfbd48eb873c3e3fc78dae06c52dc1"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/12.json"
+hash = "c68d397d7d03ededdaa15ea6e4f6ed8aeca6f532fc9e82619425a1f0deb778d4"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/13.json"
+hash = "4ec89831e82c75089dbb0df81b223a2a77e08edfeb0a20ab4364a7135098bc6c"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/14.json"
+hash = "88bebfcead1b641aca37b3d32631ea9ebf22493fa757f2f4209dce7b39dfb7de"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/15.json"
+hash = "29fdd57cd215ea617ac5e76321a7e9c3db34b13186fe35cebc261a04683ce396"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/16.json"
+hash = "e865cca9a679f2cfeb382495784b4331883175032001d457ad067695c483b3ef"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/17.json"
+hash = "a16e9c9bc94e13ece447bb7b18638c5d59c8a3cee662e2df0abf3e404c1965dc"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/18.json"
+hash = "6bb2ea78980ece063f862c4ad307341d3b7c5fb70331a52b0c60c76e7150e7c8"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/19.json"
+hash = "e62786d996b386414e43e4f162efbbf9ae541ccd964fa8a18b06506509c763e9"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/2.json"
+hash = "6cd7583610429e0c939a1f000c31ef15b2052ed3bd283a6ea23134ef52f797d9"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/20.json"
+hash = "5ba428286533a5cf908fd4be29e418512cb2c1a72a4f3a898a4368c0f55c508c"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/21.json"
+hash = "215acf4cc1ea0b8650f8d0c42b2a52191eea84bbf3b6328ed9388fc4c959d1c9"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/22.json"
+hash = "824e4e63aae6c92889928b48efe1f4e4fe7cce9d58ab81e85a5a585739344761"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/23.json"
+hash = "fa508dabb6857012e3596992a0b9fcd1863a8ae6d15d4c1234640d1339294b0a"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/24.json"
+hash = "9fffb069552b99ae6a2541ccb30e611f53f5a72ea02e2a726400390ff1963eeb"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/3.json"
+hash = "ad4497ffa318f6482b8c238c30a27f8482bcb6975568e7e4cd94eef1f9d236ea"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/4.json"
+hash = "95e4c02fb3509e249762f5e25c4a8b4a1492cb2127dc1a4bb590a058e44c94c0"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/5.json"
+hash = "ee4d26563532c6c2290d7f98a5730e6f164b7b76d86f76ef12204ebf02938bbf"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/6.json"
+hash = "0a31c115a59f1280f1626eb1b73522e22d5dcea6cc016737bbd4635f36f65a64"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/7.json"
+hash = "33ab4d8539a86d11a6b437d53b0e952aa82de0494dfe3075ef28be11d0eaf732"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/8.json"
+hash = "489fb14ad0995eb18617ef70848b754eef5b92df96f54e35563917838d6868c7"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/note_block/block/9.json"
+hash = "57cde52f674c75c691c95a7c510cba9e12ffb2a4ec175b31ba9c31c3cae41668"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/observer.json"
+hash = "045a4a0a5eb23ae5f20caec2489b5b2cc38d93ac3f99c91cf1b98989395f6835"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/observer_on.json"
+hash = "8c6560432e5995ace577afc2409af1d8d620d9b73aeba06c9f908e925e651b98"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/piston_head_sticky.json"
+hash = "bcc8171c967d2cfbeb7f3b2b126ea093d82519c679463e515f8947395f2d61f3"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/sticky_piston.json"
+hash = "eaf778c19899548c6490c61d5b993eaf6a52573f10987317dbf0a2deacf903d2"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/block/sticky_piston_inventory.json"
+hash = "fc14ffec4f7472286718179902a22dcc109fdc8bbcdca8184eee6d03dbf4108c"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/models/item/sticky_piston.json"
+hash = "fcd7fb9069f94602a20ba50400d16df019320ca16f97152d7501ecd5ae27696c"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/dispenser_back.png"
+hash = "d1b0b002a5d9a3c57b696c55e27e769b968f113d288b88df8356795769f1affd"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/dispenser_side_l.png"
+hash = "ff59be768a2edda30361685b745e64c2feca6e23e1957ca4138bd2ed3c986280"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/dispenser_side_r.png"
+hash = "3b254caf5b3b1a714b73c92f80bab7b45a77e0e61bb08c17ee92ab25f2e7a1cb"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/dispenser_top.png"
+hash = "a43430ab074cefad407811d7b85c429f81a742081d1126346be4d129a492e9ef"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/hopper_back.png"
+hash = "82096147097d6f840c5ec550e0306bf506190df6db417c01a77e072b5719563e"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/hopper_inside_side.png"
+hash = "7628a957fb7680e82b8ab74c72b3e7fb759d0e84fdcd5d2c4d3c7aa39f032bb7"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/hopper_outside.png"
+hash = "8d7549c7ad544add640352f93ccc2ed8ba00d3bd273c64f45b285fed2c340c07"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/hopper_outside_flipped.png"
+hash = "daa6785b9b02313fdabbe64c22360d9417dd76b8dd0006eaff0f1e261a36ab25"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/lever_base.png"
+hash = "36894a0b40539d4581e1da4c94d527a2e3bda4245763317a171ad41eb1c11426"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/note_block_side.png"
+hash = "cfdae28fa8a7b2826c611d22b74e360ab25f1c3f0d5bed371792cbdaea347f41"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_0.png"
+hash = "2b72df31b87d90cdfe75131ea17621a01a33e9adbb3c4dd503e4da8d8142e155"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_1.png"
+hash = "257c3bcfd8ebe44126b6efbdbe13607c823183456b8cc0d865191bf94ba5cd94"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_10.png"
+hash = "81b22dad1d6444bbaffc1dafd10f0bce71ed64bdc028dcfd1c2992d18f6b3687"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_11.png"
+hash = "f5a8ecea16d3ef71284752b2c6ddb3059c05c05cb3a35ddc2fbba4b7c73bd0c7"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_12.png"
+hash = "a953ac0fb1b4beaac524a558ed97beb8bd5626dfcfa221240cf129d788988a25"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_13.png"
+hash = "3322ee1783777080973b0a2219615a591ffe5d25d28ca6f31062bd8f043644dc"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_14.png"
+hash = "639311b6b6fadfe33c5f4db727ee299568334ffd10d8650beae5cfb74adbc51a"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_15.png"
+hash = "90bf193be2be66af8e30b228cc5598f671bf76b3b864339078956d653b881e13"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_16.png"
+hash = "9edf064dc58e0dc97d4157468718e6ee11aa7de35bf25571c9eb061979fff318"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_17.png"
+hash = "8f76a04ea4aeb7a609a5c716949ba03a4ab7c77165fb6c35577e68f9cd70ba55"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_18.png"
+hash = "dce0989539abd37f94c4094188f4a020b4b767fd787f311d712451e07d821686"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_19.png"
+hash = "cb067ccedb8c9c8e2d2e903b18bdb1c63262a6757ab9aca1df5e06772ae0c072"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_2.png"
+hash = "2d2f35db27b01e32d4c726fe1e9acd9f831b26b821b92fdb95529f3fd1e8a19c"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_20.png"
+hash = "4971f46c053a544653fa78fa5e18c5ebd03ff94cccff74c74e39c80bc7f1823a"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_21.png"
+hash = "415b86db873ad2e9c345a9332d5edfcab163687442aaba8e44e3a7651d1cfebc"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_22.png"
+hash = "2be40162c82c0b7df0c587340400406fd26faee017f4ce96f1a13d17ffff23dc"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_23.png"
+hash = "863eea044a5b6b7dcfb4f055fb23820f2e48bc72511f032e99763e77af450a64"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_24.png"
+hash = "2a91feaf49051e594178e516df0038ac461b7e8b6dd0aa9eff60e163f180be42"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_3.png"
+hash = "eb5d9c0afb621cb3308fee011831120793edd58264534c05cbfd13fa98d54d5f"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_4.png"
+hash = "9fc6c57c7eaabcfa18e294a68429e5243751f0bef500fb5dbd01a4ae02416587"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_5.png"
+hash = "460a622251a8f811dae5c2470493ef798464ea8de7247c3487bcf9aba1366533"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_6.png"
+hash = "e8bd25c1d477805092a466a02728362563476d3e496a4bfa0064ccb4b188dc4a"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_7.png"
+hash = "3483a85cb5dbaf779a028b31a1d84a8896dd5407f709089217f516c730d78378"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_8.png"
+hash = "a4235237f27b7f9f90b73a82d1ed303b7a8c6b97f9e16cf0244f21d719ab1c19"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/numerical_9.png"
+hash = "6f32bbc0e8cc2c95d67daafaa1231568e9c9b97322f592b81a3bec10291c8754"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_0.png"
+hash = "569804bba8091a57b87f750cf00914490c26f17e2acc741a9a714521ded6cd1f"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_1.png"
+hash = "848f1955d8924d559e0940bf346908ade07a6f56bb13b9e25dd01119c312b6b9"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_10.png"
+hash = "cbd98a69a2feb0d0917382ff902f9e61c2a4bd8cd297c6a03505422bc3f9f3b9"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_11.png"
+hash = "c770a4b9bee78049896155e918f8f70fd93e7e294a08599bdf4e687faa6a6fed"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_12.png"
+hash = "24a3708586767dcb7e9bd38c4e39f1be6522e758fb6328099f07adb105a1a935"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_13.png"
+hash = "ea90f654d5fbd43146e9eefb3dd6cd5184b4fdd072ad20abb7e5f488eb1ac349"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_14.png"
+hash = "889d6d246eb05de467d9ce3715c9f813e3344d21f874bacccc7a1877a7f51ecd"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_15.png"
+hash = "566bf07b961b01a1a151ae72a70f27f7bfad5e785f36ac48de7c1eb655d577cf"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_16.png"
+hash = "a6adba30cc379066e6d66163e7494bd0392ed43b3e3d83cb865be8102273936d"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_17.png"
+hash = "546c7f6c6d55d316c46a95bf2fcd2d20fa7d10ded386c293a90d9ff930622e3f"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_18.png"
+hash = "168242549f3c2ce5edf46bc4d8671e9aed3cb7506fe454c746575f04a1daa8f8"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_19.png"
+hash = "0b99c2d54d8d540a496f416aad5701493f4c9c887600b0f46940736d2287e351"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_2.png"
+hash = "2cb16a54d51b7f490ba29ca4782ba744b1c6d2f440a50d84ba6b97ff444a24a5"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_20.png"
+hash = "f7507844f7e5da19541da7155f94f9a1df633ea60ddc513c061103efa7155f96"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_21.png"
+hash = "2077849402a1a9ca6b961f15386dbb181733746f601063473aa7a9cc70381a75"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_22.png"
+hash = "3e6ce1145e6224077aabfb52794ac275263fbbeeb80a1bb88b159db1925019cf"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_23.png"
+hash = "962512c4eda7ca917a6e69787c315b0e048c140df35aac4f2c65fd6e8dfea24f"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_24.png"
+hash = "9c10820d0ca7062d926e8c0174cf4dd3cc0540693219c4e1a3967d543d0bbba3"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_3.png"
+hash = "321f6ac5d8ca31f444bcbe55ab5fb1c401435eb80fd9b270a4d4289dcaaf106f"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_4.png"
+hash = "b3abb560f4e51e22f8300c5c7d39c27ba17c7579393ffdf799beb082c17af864"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_5.png"
+hash = "7c05f8cfd78f5e47f903c4f260e02b24b574d7600dcb1cb27a37c16589c171ac"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_6.png"
+hash = "34e6c2b239914a856650efcc22441fada11a3b013e172971e52df9d0db499f8a"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_7.png"
+hash = "1d10497c4a24a614fbe055b6176d52f9eb45e3ada7c4d965fe2f0a1470fd614a"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_8.png"
+hash = "e422cfa116906b50fb5b4ebd6c480d2b4d6233dfe332f3d24c3db3c22e0495dd"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/note_block_pitch/pitch_9.png"
+hash = "0569fe3a0e6289a8f496e673eb707edaf053eda71f0fa98a54ac3d7398a334fc"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/observer_back.png"
+hash = "fba67e5afac02ffb66b715e0c1c54b157dd02f7c927bb80768a14abb739c5b7e"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/observer_back_on.png"
+hash = "11ba461422fabcff1bf67879b513086837516379d299e6e027d1594b6a44dfd9"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/observer_front_powered.png"
+hash = "4748e032606d87f7559b2f07c64f3034aab39a3821445ea7e1872ea83598235a"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/observer_side.png"
+hash = "721ccfb5cbf9b34646d90f7c0f2290a36404db11b1f6fe294152aaf55a3fb0d6"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/observer_side_powered.png"
+hash = "7db1854f195e3c83eca4b0f2378798b2d3d9c3f3e6f399f9f002c7a7756cacdf"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/observer_top.png"
+hash = "8ae4b1885740740cb1aa546284130d03104281751206d56ddba2622fd854efc0"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/observer_top_powered.png"
+hash = "00e0bce07e1599ddb19a09b60a2fc508495fa48bd8ce893da0df27bb58db3454"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/piston_bottom_sticky.png"
+hash = "16171cb8fa35076860febfc9b62385f03efcd3bf4e5572de82195eb614c9ae39"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/block/piston_side_sticky.png"
+hash = "4d0881e15b5676d583de28b3e0b9fd17aff95d265292e706843d135e85f3d15e"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/break/hopper.png"
+hash = "f855c8f2ade0b2563ee74e429847b32e2dcb0d81ffd9531fc5a2fff9202dbfa6"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/item/campfire.png"
+hash = "00adbd0874e61ef51ad45398fabb6cfa47cc5f4fea616d6da080cb3abcb75288"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/item/campfire.png.mcmeta"
+hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/item/experience_bottle.png"
+hash = "76dea2f5144eb6a995e62adb8c2ad11f533827f653234a7fb77d4bedd9586429"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/item/soul_campfire.png"
+hash = "b2cb2b0c693a03748c992981d7ffd36c85d898cc5415079fe143e188039f3690"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/assets/minecraft/textures/item/soul_campfire.png.mcmeta"
+hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/pack.mcmeta"
+hash = "07eb2ec104ba731e34ef193f48f34242023ef7477384fcdaf9b271528180d9dd"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r117513/pack.png"
+hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
 
 [[files]]
 file = "resourcepacks/§e§lPablo's+Modern+Redstone/assets/minecraft/blockstates/redstone_wire.json"
