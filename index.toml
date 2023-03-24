@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
+file = "defaultconfigs/immersiveengineering-server.toml"
+hash = "b9879a920a6d4f3fc26350e52bb53c68db15fcf739b5ba175372cc20231c4555"
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
 metafile = true
