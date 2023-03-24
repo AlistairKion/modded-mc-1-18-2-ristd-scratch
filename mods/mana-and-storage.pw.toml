@@ -3,6 +3,6 @@ filename = "mns-1.18.2-1.0.0.1.jar"
 side = "both"
 
 [download]
-url="https://github.com/AlistairKion/modded-mc-1-18-2-ristd-scratch/raw/main/modJars/mns-1.18.2-1.0.0.1.jar"
+url="http://mc.risingthunder.info/mns-1.18.2-1.0.0.1.jar"
 hash-format = "sha256"
 hash = "16EBF4A8FDFF5F3BFC3FE40AC7859439AE03F1827E01CB542A80DD29CEDDEB04"

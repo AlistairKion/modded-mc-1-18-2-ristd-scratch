@@ -3,6 +3,6 @@ filename = "hexerei-0.2.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/AlistairKion/modded-mc-1-18-2-ristd-scratch/raw/main/modJars/hexerei-0.2.2.jar"
+url = "http://mc.risingthunder.info/hexerei-0.2.2.jar"
 hash-format = "sha256"
 hash = "E05E05D76B720E15A62425FE74B32552753CE973423D1C1CDB9FED3B2EE642C8"
