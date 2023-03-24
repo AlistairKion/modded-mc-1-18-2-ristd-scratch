@@ -1,0 +1,13 @@
+name = "Create: Steam 'n' Rails"
+filename = "Steam_Rails-1.18.2-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba848791eec4e45b571af883e23f448d4c7a368a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4356736
+project-id = 688231

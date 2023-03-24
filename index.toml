@@ -14,6 +14,26 @@ hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "dab8e6c5c085a24598bc2d6569b7fa3e50dd01a34874bda1a5319bdde4bf8a63"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "514c0735e7e465faa2d3f1dd58c53467452d3fec2d8eac50307f8c97c8087619"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "07812fba8335ba94648fe700014b78cfb3e070ddb0508581cb3f5031baa04619"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "7c1d958682751676771662814e04d6d7a842e4a1c3634f1ab1747fedbebdb3fa"
 metafile = true
@@ -21,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/dragon-magic-and-relics.pw.toml"
 hash = "719d962679983005aa960020de5707eeb821dbe29d60d705205ccf3975cfd154"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
 metafile = true
 
 [[files]]
