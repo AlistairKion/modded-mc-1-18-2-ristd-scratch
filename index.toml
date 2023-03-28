@@ -39,6 +39,11 @@ hash = "902e82fd9cff5ba26db563e0995ab8c4f632cb68f26bc05c2ce6ed6aae30a425"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "23c80ede3b259c1c908ace792f0b95d7c6cb2155f2fcc1b3493e569b656162c2"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "2525c4774e1b6f182cfb549a622653e7fd8457473dd9a0c97fe1090d8a61a1cb"
 metafile = true
@@ -66,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
+metafile = true
+
+[[files]]
+file = "mods/cable-tiers.pw.toml"
+hash = "9d3449eab6fa1d374c16d4426333c88e4bde93e4b346bc16e630d04470b5a50a"
 metafile = true
 
 [[files]]
@@ -101,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "63f1ab59061fb126cdabf39d74329ca1831e761b798c8aed0a79816c3874c04c"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "12ca499aff1c91c2e2ec3d094d4b9d6799bc2d2c8445827ed2ca07419f323605"
 metafile = true
 
 [[files]]
@@ -194,6 +209,11 @@ hash = "2ecdf3ae76d4ad10da711a93c966f6306c1bfdec39fe9f6c356000e600bf5844"
 metafile = true
 
 [[files]]
+file = "mods/extra-disks.pw.toml"
+hash = "477217a9ff516da4cc731d47033178ea7f0619d4fdb30610a373091ae58a4dd5"
+metafile = true
+
+[[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "2047bfc9f05d71ca26602f0ce473edc71da087a44ce6a69e31bc552d13331ae7"
 metafile = true
@@ -216,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "1c1e5702853d4c4245b4a47f5899e03c073baa20db70a8b0fb2c1e2fda9e0c52"
+metafile = true
+
+[[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "c4babd9244a155a23d10b0f73a1823908897eb0144c830ccf440064817216c55"
 metafile = true
 
 [[files]]
@@ -404,6 +429,26 @@ hash = "875855abfd82319b7d0a3c03bdb11e8ca20a9896ecc3283be3e50bb93d039a2c"
 metafile = true
 
 [[files]]
+file = "mods/rebornstorage.pw.toml"
+hash = "3baaa168e8351621ade13a82834cd26d33ad69e538b22e5fa190f148a3f502f2"
+metafile = true
+
+[[files]]
+file = "mods/refined-cooking.pw.toml"
+hash = "347ac91a3ba6f67fd214ed50b864d6e989ce552119d2f9d5a1545c48652a12b6"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "d686dfe4c17f95e626b1414f6e7f830adb7dcb6a47368b4c8bafda9b27a3c308"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "ef29b4bf32fa3c12cceed621dbeb7a04481b90d86883c327af33b87719cd9b50"
+metafile = true
+
+[[files]]
 file = "mods/reliquary-v1-3.pw.toml"
 hash = "2ee731f49898cec35c7c223ceed26a597aa0aba1506e518915308c259edbfad9"
 metafile = true
@@ -411,6 +456,21 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "43375678708cd812b22ab1ecbc3f5452bc0910bac6f544c69f9ccf8bd14d420f"
+metafile = true
+
+[[files]]
+file = "mods/rs-requestify.pw.toml"
+hash = "03ee69b801ff5c5e357b876f7a97a9d9002c84460c366097ee5c337f4408fc7c"
+metafile = true
+
+[[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "a76c956d56c9d423875d63e1d0aaca00a0da4854edd28f64d96ddf6bf54fafdd"
+metafile = true
+
+[[files]]
+file = "mods/sebastrnlib.pw.toml"
+hash = "cd7a5339652c81f9e489b07036ca24a435c4c8ce87e91c3c2c47c36f7fc604dd"
 metafile = true
 
 [[files]]
@@ -429,6 +489,11 @@ hash = "4eb6803c72eadf91bc1d8c0cdc2a528e193c40d0027357ba1e5f95ec8920dd54"
 metafile = true
 
 [[files]]
+file = "mods/simple-storage-network.pw.toml"
+hash = "94574626f381bddf5eb7fcad8e0103226d9b4ad92b680ea809acb822c8a36c85"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "632c748338d71584f869f2ee35448de1b5576ea5ef0384d4046342a54d44f91c"
 metafile = true
@@ -436,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "5e0caaa7e70f3563a7f4ac701967c5d701d23d5f7a0e92a919445429b3e85c42"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "e1c059e28d866b1e8aba5c02ceef7c3970f3c361df35b065fabd3d8ad0c74693"
 metafile = true
 
 [[files]]
@@ -474,6 +544,11 @@ hash = "c456c53fcd79b8cbad7c3907b48e3e1041f5af50a07cfab8238134a10dbc1cdf"
 metafile = true
 
 [[files]]
+file = "mods/titanium.pw.toml"
+hash = "61f884e89092a648306513b93b33191641775aad6ac188c90000acea7c480b5d"
+metafile = true
+
+[[files]]
 file = "mods/tool-kit.pw.toml"
 hash = "c367a5aa9df6bb2359db9a3c8f46f9f8ba5decb226fbca53becf5b22cea6a809"
 metafile = true
@@ -481,6 +556,16 @@ metafile = true
 [[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "99137d37e647c2ee012d5dd100627c54243b29eabcc36efbe9acc5a69296e06e"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "b05f6b58ef441c7d352d0cef840813c33441f80c70bd04c5c4409fc4f9499726"
+metafile = true
+
+[[files]]
+file = "mods/universal-grid.pw.toml"
+hash = "14149b93f61832955f6f0813e4dc99e8d561b1e7001c2e99ae9cc3f2ae140c17"
 metafile = true
 
 [[files]]
