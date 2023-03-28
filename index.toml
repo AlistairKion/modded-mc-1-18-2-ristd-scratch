@@ -14,6 +14,11 @@ hash = "009d1f8a8fb42ae5efa8357eb1c1c47dda13ac29034b1e50890cc129a470913b"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "aab7dbc375d3813e891fee920397f3724c4dbf1fa9d3b948cb41ee4677610aa9"
+metafile = true
+
+[[files]]
 file = "mods/biggerreactors.pw.toml"
 hash = "3a8df3d71bfa5d5c5f0b42155f4ae59e26640e79f52d3ef6cfc1ce82383b5d80"
 metafile = true
@@ -24,6 +29,11 @@ hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "ce2aa209b10a5ca89af90a5cb67292117dee46165dab91538d543782c49dace3"
 metafile = true
@@ -31,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "9a56d3c04cb0669a68cfb29278d32144719d3016edb77f178286bc53d597b32e"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "1d4cbe411ab2aa943d6f9ab878416b53ff9a683d395fb413f841579c5b470f39"
 metafile = true
 
 [[files]]
@@ -66,6 +81,16 @@ metafile = true
 [[files]]
 file = "mods/dragon-magic-and-relics.pw.toml"
 hash = "719d962679983005aa960020de5707eeb821dbe29d60d705205ccf3975cfd154"
+metafile = true
+
+[[files]]
+file = "mods/enigmatic-legacy.pw.toml"
+hash = "ce755dc205b74e58431c2e40422a1cfcff5e9c6ca7f2d25c7ec5cd537193888d"
+metafile = true
+
+[[files]]
+file = "mods/expandability.pw.toml"
+hash = "2ecdf3ae76d4ad10da711a93c966f6306c1bfdec39fe9f6c356000e600bf5844"
 metafile = true
 
 [[files]]
@@ -161,6 +186,21 @@ metafile = true
 [[files]]
 file = "mods/quartz.pw.toml"
 hash = "875855abfd82319b7d0a3c03bdb11e8ca20a9896ecc3283be3e50bb93d039a2c"
+metafile = true
+
+[[files]]
+file = "mods/reliquary-v1-3.pw.toml"
+hash = "2ee731f49898cec35c7c223ceed26a597aa0aba1506e518915308c259edbfad9"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "632c748338d71584f869f2ee35448de1b5576ea5ef0384d4046342a54d44f91c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "5e0caaa7e70f3563a7f4ac701967c5d701d23d5f7a0e92a919445429b3e85c42"
 metafile = true
 
 [[files]]
