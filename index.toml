@@ -414,11 +414,6 @@ hash = "43375678708cd812b22ab1ecbc3f5452bc0910bac6f544c69f9ccf8bd14d420f"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "fb77d538004a30c70e644413abce31a9b72edaeaf6baad799129039717d8a8b4"
-metafile = true
-
-[[files]]
 file = "mods/server-tab-info.pw.toml"
 hash = "e4ef615daeba70206a2cb29675ec8686c67bcde5d9adc59e5300ceef5ee8d531"
 metafile = true
@@ -461,11 +456,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
-metafile = true
-
-[[files]]
-file = "mods/textrues-rubidium-options.pw.toml"
-hash = "52ee1ced2362cd096a31167f55c77034a4f207201e180a73d107de1ce7933864"
 metafile = true
 
 [[files]]
