@@ -1,0 +1,13 @@
+name = "Item Filters"
+filename = "item-filters-forge-1802.2.8-build.47.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "680af87d5ae503749e138b3cdfa73b2172477251"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4055445
+project-id = 309674
