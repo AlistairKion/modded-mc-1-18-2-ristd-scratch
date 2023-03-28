@@ -79,6 +79,11 @@ hash = "8cc06b1241ffccecf5c6ab9502a6b877cc8437a8a4a7ae955dc52ed7e1b5c860"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "5efeaf4bd4f61ce68e1a58a6e0a5c54a72c97572d008c6b2743f509cb5f8b59d"
+metafile = true
+
+[[files]]
 file = "mods/dragon-magic-and-relics.pw.toml"
 hash = "719d962679983005aa960020de5707eeb821dbe29d60d705205ccf3975cfd154"
 metafile = true
@@ -86,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/enigmatic-legacy.pw.toml"
 hash = "ce755dc205b74e58431c2e40422a1cfcff5e9c6ca7f2d25c7ec5cd537193888d"
+metafile = true
+
+[[files]]
+file = "mods/evilcraft.pw.toml"
+hash = "17aa1bb064ddf184f0bfaf8924157b92ff968300c725277ef81532e9c47bd096"
 metafile = true
 
 [[files]]
