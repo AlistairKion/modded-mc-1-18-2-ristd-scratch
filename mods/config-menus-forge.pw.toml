@@ -1,0 +1,13 @@
+name = "Config Menus for Forge"
+filename = "ConfigMenusForge-v3.2.0-1.18.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69ced2f9b27dcaa8049e928f829925fd12d229b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3671318
+project-id = 544048

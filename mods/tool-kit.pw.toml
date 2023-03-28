@@ -1,0 +1,13 @@
+name = "Tool Kit"
+filename = "ToolKit-2.2.4-build.14+mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0dc1755fb6021e6f40e555ee4be2ef026d17bc44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4377192
+project-id = 324888

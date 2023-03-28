@@ -14,6 +14,11 @@ hash = "009d1f8a8fb42ae5efa8357eb1c1c47dda13ac29034b1e50890cc129a470913b"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "06f7c48a87a485cd01a5ff4f7a2a8fdd25eed78c35ab7ecc386fa18bf2316909"
 metafile = true
@@ -36,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "2525c4774e1b6f182cfb549a622653e7fd8457473dd9a0c97fe1090d8a61a1cb"
+metafile = true
+
+[[files]]
+file = "mods/better-mods-button.pw.toml"
+hash = "3644086e67102ae4fed30e65e421e5eee630865b1904cad95e479eca5c8b684a"
 metafile = true
 
 [[files]]
@@ -79,6 +89,16 @@ hash = "9a56d3c04cb0669a68cfb29278d32144719d3016edb77f178286bc53d597b32e"
 metafile = true
 
 [[files]]
+file = "mods/config-menus-forge.pw.toml"
+hash = "a0ffeb0594fe461bb2ea048477484990875c47ee682009528c5b7eb50a830fc7"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "15405c43e9dade209198ecb2907944c2c5ada78dda2e680c0ecd44b494ae2671"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "63f1ab59061fb126cdabf39d74329ca1831e761b798c8aed0a79816c3874c04c"
 metafile = true
@@ -86,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "1d4cbe411ab2aa943d6f9ab878416b53ff9a683d395fb413f841579c5b470f39"
+metafile = true
+
+[[files]]
+file = "mods/crash-utilities.pw.toml"
+hash = "2758d099575738f73fe355773bbd28fee02bcf0033a862c2fbddcf165bbbb122"
 metafile = true
 
 [[files]]
@@ -199,6 +224,11 @@ hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
 metafile = true
 
 [[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "027c8c104eb2eaef7281aec4aad31a360e8a7413a6130ba333252c4b11c9ab52"
+metafile = true
+
+[[files]]
 file = "mods/hexerei.pw.toml"
 hash = "d7a68945bab167843c5a50ff8b226d8456d7c0fcbc103dc8b6def3bacb371a5a"
 metafile = true
@@ -259,8 +289,18 @@ hash = "ee1ee7a327ab99accfd09c935272f85188fee63aa0e77807b9dea39067f5a3dc"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "38fbc001be74391f468243701fbde93eef6e067a433cdcd84acb7d0750b7054d"
+metafile = true
+
+[[files]]
 file = "mods/laserio.pw.toml"
 hash = "f34598ec685d32abe98ea14ad6e422332de7ada1e31c35edb14f0c0ab2599b3d"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
 
 [[files]]
@@ -354,6 +394,11 @@ hash = "5999f9c35dc54c19d570b20fcbe0551e835236a0dca442b9279fd852590eec68"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "b1f1cd08541e4bc1dee1fc3858acce03cfb2184e2abc709f570fdbab6e1a605b"
+metafile = true
+
+[[files]]
 file = "mods/quartz.pw.toml"
 hash = "875855abfd82319b7d0a3c03bdb11e8ca20a9896ecc3283be3e50bb93d039a2c"
 metafile = true
@@ -361,6 +406,26 @@ metafile = true
 [[files]]
 file = "mods/reliquary-v1-3.pw.toml"
 hash = "2ee731f49898cec35c7c223ceed26a597aa0aba1506e518915308c259edbfad9"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "43375678708cd812b22ab1ecbc3f5452bc0910bac6f544c69f9ccf8bd14d420f"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "fb77d538004a30c70e644413abce31a9b72edaeaf6baad799129039717d8a8b4"
+metafile = true
+
+[[files]]
+file = "mods/server-tab-info.pw.toml"
+hash = "e4ef615daeba70206a2cb29675ec8686c67bcde5d9adc59e5300ceef5ee8d531"
+metafile = true
+
+[[files]]
+file = "mods/serverconfig-updater.pw.toml"
+hash = "6f31db23489f56f01c482894f3a1da16146490172ec15ac9bcaa0d9f754a6fa4"
 metafile = true
 
 [[files]]
@@ -379,6 +444,11 @@ hash = "5e0caaa7e70f3563a7f4ac701967c5d701d23d5f7a0e92a919445429b3e85c42"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "1bf0ec860c221529a273f499943e232d9a719cf24d83acc6f82c2e4047752f4d"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "5f62a1b53954ac5f25d506f24755c7bde75b179895219260612f4ccad31bf2c5"
 metafile = true
@@ -394,6 +464,11 @@ hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
 metafile = true
 
 [[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "52ee1ced2362cd096a31167f55c77034a4f207201e180a73d107de1ce7933864"
+metafile = true
+
+[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "93853173512757a92f560d4289d80d0b1b5835b0e0143afbb6b3485163dc5d4f"
 metafile = true
@@ -406,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-integration.pw.toml"
 hash = "c456c53fcd79b8cbad7c3907b48e3e1041f5af50a07cfab8238134a10dbc1cdf"
+metafile = true
+
+[[files]]
+file = "mods/tool-kit.pw.toml"
+hash = "c367a5aa9df6bb2359db9a3c8f46f9f8ba5decb226fbca53becf5b22cea6a809"
 metafile = true
 
 [[files]]
