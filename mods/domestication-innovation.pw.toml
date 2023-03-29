@@ -1,0 +1,13 @@
+name = "Domestication Innovation"
+filename = "domesticationinnovation-1.4.2-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d91da50800215ef2554d94c8cf1f5746f9c99217"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3826903
+project-id = 591149

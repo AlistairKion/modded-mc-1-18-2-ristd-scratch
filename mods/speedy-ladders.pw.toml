@@ -1,0 +1,13 @@
+name = "Speedy Ladders"
+filename = "speedyladders-1.18.2-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c947887afd31138263f5de2f07b50450a8217f9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3724636
+project-id = 323126

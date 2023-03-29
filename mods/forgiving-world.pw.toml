@@ -1,0 +1,13 @@
+name = "Forgiving World - Dimension Stacking[Forge/Fabric]"
+filename = "fallingthrough-1.18.2-2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1bd658af5caa12f617cb74b907ad99bb3a78d7d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3757278
+project-id = 523233
