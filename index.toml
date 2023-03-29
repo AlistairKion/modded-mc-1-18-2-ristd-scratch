@@ -554,6 +554,11 @@ hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
 
 [[files]]
+file = "mods/neat.pw.toml"
+hash = "961a956df524c3509c02a21ad94d4220bfddd42f5242512a0910dce5fa8c75d8"
+metafile = true
+
+[[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
 hash = "2b52c4a67b2f8261c7833e0b62cd3aeccd6b47996d9bec3b4582e613ba90b406"
 metafile = true
@@ -571,6 +576,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "4a5234958a5656afaf5c8cd1c907cbc89a58c6fa0f806e6f8e8b3f98b39dcfe8"
+metafile = true
+
+[[files]]
+file = "mods/ores-above-diamonds.pw.toml"
+hash = "f4085e81ab55288159b0cfd23275177ff331191f0fe6b97e97f17e515d99c3aa"
 metafile = true
 
 [[files]]
