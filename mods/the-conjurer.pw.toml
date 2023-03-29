@@ -1,0 +1,13 @@
+name = "The Conjurer"
+filename = "the-conjurer-1.18.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ad86aaa623754605dd46472bd8848422d4c5c29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3749502
+project-id = 377798
