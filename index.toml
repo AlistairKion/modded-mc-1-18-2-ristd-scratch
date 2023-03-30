@@ -134,11 +134,6 @@ hash = "c441d3d39f1abd18ffbe9c187b91dde1edf421513cf493ffef9bc33a960f36c2"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-hash = "3882c802ffa760a9c7581bb04bde212173edb903d54a931c5cbdf83eff6053b9"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
@@ -226,11 +221,6 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "07812fba8335ba94648fe700014b78cfb3e070ddb0508581cb3f5031baa04619"
-metafile = true
-
-[[files]]
-file = "mods/ctm.pw.toml"
-hash = "aaeab662940679b8ef5074189d480bd04934334bc32d29931538c8bf2d7050cd"
 metafile = true
 
 [[files]]
