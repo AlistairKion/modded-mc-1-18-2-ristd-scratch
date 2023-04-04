@@ -84,11 +84,6 @@ hash = "3a8df3d71bfa5d5c5f0b42155f4ae59e26640e79f52d3ef6cfc1ce82383b5d80"
 metafile = true
 
 [[files]]
-file = "mods/blockcarpentry.pw.toml"
-hash = "36f67dc18bbd64db07e957c356d11db4ed032e7f5ebdd2f993df836f6c32b450"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "53fb2cfb3988b88b9587a5a0ba4b5612d7f26a989b05c911975f6af7be343364"
 metafile = true
@@ -101,11 +96,6 @@ metafile = true
 [[files]]
 file = "mods/brutal-bosses-dungeon.pw.toml"
 hash = "6de44c3eccb162fda32e288af48bb5dc529bf64a843a8b5847f46e3fadaaee72"
-metafile = true
-
-[[files]]
-file = "mods/building-gadgets.pw.toml"
-hash = "29f7a1cfbc20432885d12c36245b503103857c068b27865d804cbd06d9b386f9"
 metafile = true
 
 [[files]]
@@ -199,11 +189,6 @@ hash = "2758d099575738f73fe355773bbd28fee02bcf0033a862c2fbddcf165bbbb122"
 metafile = true
 
 [[files]]
-file = "mods/create-deco.pw.toml"
-hash = "f4e3a51e946b16734f99bbbc3ce0334e53b01f7231deb5925f340b5f54fdfd50"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "dab8e6c5c085a24598bc2d6569b7fa3e50dd01a34874bda1a5319bdde4bf8a63"
 metafile = true
@@ -291,11 +276,6 @@ metafile = true
 [[files]]
 file = "mods/endremastered.pw.toml"
 hash = "201c75733a848fecde779385a89591f1d42a4834c353e5513c73eff08c3a91f8"
-metafile = true
-
-[[files]]
-file = "mods/engineers-decor.pw.toml"
-hash = "c0e2bf268b415c2ba72f743e42624aaff4000aa301b597cbf0355adc35594b83"
 metafile = true
 
 [[files]]
@@ -534,26 +514,6 @@ hash = "a07ca452fc02b838bb65109e69790a3e76bd65d4801957c8ce305bdc244e7096"
 metafile = true
 
 [[files]]
-file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "d5df32b81d9ddd8863e66c8f02952355428f793cf6b0d5386b7ef1038f9ae333"
-metafile = true
-
-[[files]]
-file = "mods/macaws-fences-oh-the-biomes-youll-go.pw.toml"
-hash = "23f7ff11f82f1ea91d091cfcfafeb61b6bca6fa22fbf333e9f5918b105cfda18"
-metafile = true
-
-[[files]]
-file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "868293df6ca42ae362247416b443eaa134046853bafc4697de150365c27cf45b"
-metafile = true
-
-[[files]]
-file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "a7ea2f92beff4ce9ad0c9b48bf5ad1f9d98a6270b01251197c17f35b80972cd3"
-metafile = true
-
-[[files]]
 file = "mods/mana-and-artifice.pw.toml"
 hash = "912c22ba96ab5abbbc24fdffa68f95a1f21d9360ac39bb05f4dc5b3777dfc11f"
 metafile = true
@@ -581,11 +541,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
-metafile = true
-
-[[files]]
-file = "mods/moving-elevators.pw.toml"
-hash = "9bf8b9a92a742e66b253d7eaa7f0bdabd453474ba0a51587beb198ee953fb582"
 metafile = true
 
 [[files]]
@@ -654,11 +609,6 @@ hash = "5999f9c35dc54c19d570b20fcbe0551e835236a0dca442b9279fd852590eec68"
 metafile = true
 
 [[files]]
-file = "mods/prefab.pw.toml"
-hash = "c298401510b9070acfef022bf43cfa3aa7ea77c8cae6eda9a68f32c9ed0fbe7b"
-metafile = true
-
-[[files]]
 file = "mods/probejs.pw.toml"
 hash = "b1f1cd08541e4bc1dee1fc3858acce03cfb2184e2abc709f570fdbab6e1a605b"
 metafile = true
@@ -686,11 +636,6 @@ metafile = true
 [[files]]
 file = "mods/rebornstorage.pw.toml"
 hash = "3baaa168e8351621ade13a82834cd26d33ad69e538b22e5fa190f148a3f502f2"
-metafile = true
-
-[[files]]
-file = "mods/redstone-gauges-and-switches.pw.toml"
-hash = "d42a26416b67d76d8f083ff31c15b592e4cc7a5719d2663a7169c9234812e439"
 metafile = true
 
 [[files]]
