@@ -6,7 +6,7 @@ hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "2a25069bade0f7120eb7f12f41033aca6c674dc3e7a7fafa9ccf362571e84bc1"
+hash = "5ee51b74cdadea542a4833ef5efc9f0a861e96bb88d4bf065bc281b9df699bdf"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
