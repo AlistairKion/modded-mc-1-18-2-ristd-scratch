@@ -21,6 +21,10 @@ file = "config/dungeon_crawl.toml"
 hash = "7494ac03bf0f63489510a26453c71ab535a862b3cc9a9926d2b2492f19f557fa"
 
 [[files]]
+file = "config/evilcraft-common.toml"
+hash = "78fa829cc259cb5f5f60e9ac201ae8523d175ed6f70c22b17e989277ad568a67"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "5ee51b74cdadea542a4833ef5efc9f0a861e96bb88d4bf065bc281b9df699bdf"
 
