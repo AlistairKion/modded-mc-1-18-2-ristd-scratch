@@ -9,16 +9,16 @@ file = "config/MouseTweaks.cfg"
 hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
 
 [[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "f4804c6977a83c269763cca4c29d69f9e00251c784fd3d071404fbf46b7ea83e"
+
+[[files]]
 file = "config/byg/biomepedia.json5"
 hash = "b85eddc432493748ad2e604f67729d892ba5fe5f2bf1122eb460eb16147ed18a"
 
 [[files]]
 file = "config/dungeon_crawl.toml"
 hash = "7494ac03bf0f63489510a26453c71ab535a862b3cc9a9926d2b2492f19f557fa"
-
-[[files]]
-file = "config/evilcraft-common.toml"
-hash = "78fa829cc259cb5f5f60e9ac201ae8523d175ed6f70c22b17e989277ad568a67"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
