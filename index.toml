@@ -37,6 +37,10 @@ file = "config/repurposed_structures-forge/wells.toml"
 hash = "b52f115e8dab5faf91e005cbeb3b4d31f9b9b81946311f022d7dd021da66591c"
 
 [[files]]
+file = "config/secondchanceforge-common.toml"
+hash = "7a67ec68bcb6c3b81b3067a98e5392d1ed5cde891091f1592dc569fd848cf6f2"
+
+[[files]]
 file = "defaultconfigs/champions-affixes.toml"
 hash = "13523f0727b41f59ce40c5486b2fa584855a59fede12397b6cecd991b25f7d32"
 
