@@ -41,6 +41,10 @@ file = "config/secondchanceforge-common.toml"
 hash = "7a67ec68bcb6c3b81b3067a98e5392d1ed5cde891091f1592dc569fd848cf6f2"
 
 [[files]]
+file = "config/waystones-common.toml"
+hash = "557ef31ac5cc5cf93057c077a71c4ae764b677f87f4fcda4b80a9b52a6169f7c"
+
+[[files]]
 file = "defaultconfigs/champions-affixes.toml"
 hash = "13523f0727b41f59ce40c5486b2fa584855a59fede12397b6cecd991b25f7d32"
 
