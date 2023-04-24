@@ -2901,50 +2901,6 @@ file = "kubejs/data/repurposed_structures/worldgen/structure_set/pyramids_overwo
 hash = "fa0695899f8fcb62eb96ec8b08f0b995107b23637dbe2c4752a38059e44035fd"
 
 [[files]]
-file = "kubejs/data/repurposed_structures/worldgen/template_pool/pyramids/badlands.json"
-hash = "eb5d5433d42272fe2f3eaa48290eb29fc6e4fbf1c0111d9fb9db4571467f0ebb"
-
-[[files]]
-file = "kubejs/data/repurposed_structures/worldgen/template_pool/pyramids/dark_forest.json"
-hash = "a8cc945f274c07d5026c05b59d65206a8dfa0aed1bafb6bcdd2a87faf4fa0ea8"
-
-[[files]]
-file = "kubejs/data/repurposed_structures/worldgen/template_pool/pyramids/end.json"
-hash = "31aa482976166699c3a48932a5e998a88daedd37b27bddde9aa2bd66ddb17ba5"
-
-[[files]]
-file = "kubejs/data/repurposed_structures/worldgen/template_pool/pyramids/flower_forest.json"
-hash = "39ef138c63ce1afc3ae10b3c0e361729d92fbc08c11a9afeff62dfe3d1989661"
-
-[[files]]
-file = "kubejs/data/repurposed_structures/worldgen/template_pool/pyramids/giant_tree_taiga.json"
-hash = "c3133ffa3e6396889ee11dc8b0e9b97569445372874e182ea5ad235737339e33"
-
-[[files]]
-file = "kubejs/data/repurposed_structures/worldgen/template_pool/pyramids/icy.json"
-hash = "3c3432c8b5adf8252bcc4e3dfe3b46642a13a4e5cb05cbb8bd0294d99396a1c3"
-
-[[files]]
-file = "kubejs/data/repurposed_structures/worldgen/template_pool/pyramids/jungle.json"
-hash = "439eacb99753f872e5038adc78708e44c567b9e8355433e6d8664dd9fa3747c5"
-
-[[files]]
-file = "kubejs/data/repurposed_structures/worldgen/template_pool/pyramids/mushroom.json"
-hash = "035e31b1e646dff00ee6ef4452af5e6afdc7e18931eb2870c02527c6a8049bef"
-
-[[files]]
-file = "kubejs/data/repurposed_structures/worldgen/template_pool/pyramids/nether.json"
-hash = "4b424b46f5845017718ae467f47ea074ae761f08ad5ca35f2413801f7f8c1c3e"
-
-[[files]]
-file = "kubejs/data/repurposed_structures/worldgen/template_pool/pyramids/ocean.json"
-hash = "7b58b34bd658461dbeb640e5eb625e6fd8e743d71cbe803101a438b6466482f0"
-
-[[files]]
-file = "kubejs/data/repurposed_structures/worldgen/template_pool/pyramids/snowy.json"
-hash = "8cea8e34e41cd9aa6fd6044e7e9b17a296db10d68132460b04f74635b5013f7a"
-
-[[files]]
 file = "kubejs/data/repurposed_structures/worldgen/template_pool/strongholds/end/start_pool.json"
 hash = "c5a1c4f3c7ce0de95df002a921ff1190ee4bd75dd7bc5fbf9172c829d1e6bf8b"
 
