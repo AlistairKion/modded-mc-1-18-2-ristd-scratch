@@ -2049,6 +2049,3218 @@ file = "kubejs/data/dungeoncrawl/worldgen/structure_set/dungeons.json"
 hash = "89958f082738086188c1a992334c8a1bcc4bec9c7e0ac88d7f6ebc7d7479aa21"
 
 [[files]]
+file = "kubejs/data/dungeons_arise/loot_tables/chests/pillager_palace_supply.json"
+hash = "e1d05a3a5873e8865637bdb9985b4d4dba0688e1661f1d7a26205f2209451393"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/loot_tables/chests/pillager_palace_treasure.json"
+hash = "4c7d1a6ea0a0334bb4b66255e012f162c3496e6b40269a156a2ecbfa3df07d5c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/abandoned_temple/abandoned_road_0.nbt"
+hash = "e74e62d584ae9206947e5a1ad84ae31e9c7bb4fd735dcd53c05089f0fa75074c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/abandoned_temple/abandoned_road_1.nbt"
+hash = "e9649d94238903720224d00fa6131155d82de030639648031f70b07613cd1a8c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/abandoned_temple/abandoned_road_entrance.nbt"
+hash = "4282c5035bcef28081362ef704b9cc9f0c1c690126286f2bba280a49a2a0ccc8"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/abandoned_temple/abandoned_temple_0.nbt"
+hash = "ac98710a34f369b1dc7c94bd2ec5278bcfe9b7f1577b5799f15550608a94b563"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/abandoned_temple/abandoned_temple_1.nbt"
+hash = "cf7070605d5ac0e54bc1e5917f2f25eb5eaa4908dda3fab5cfed81bd98e71909"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/abandoned_temple/abandoned_temple_deco_0.nbt"
+hash = "d42fc58b4447f4d37028411221ac0d5ed1e59cd8fcecb8d9835eb0bae3e17fcc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/abandoned_temple/abandoned_temple_deco_1.nbt"
+hash = "be99757e167663fc5d2b86aa15a0f6aef5557df47e548c24a5d3d097f0b58f67"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/abandoned_temple/abandoned_temple_deco_2.nbt"
+hash = "adf96d1fbb8a39f8cd243c9dc5e46d10464ebd5336461b9cad1aacdb0a1a1da2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/abandoned_temple/illusioner_normal_0.nbt"
+hash = "d970b42f986b5b5ec22fb803a925a83b558f0decb3f7813969475fc15d2847e7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/abandoned_temple/skeleton_armored_0.nbt"
+hash = "a27c5ee380531fb72ccb0a0102c0ed98b824d158907e023f0df1ab84f90d64f0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/abandoned_temple/skeleton_armored_1.nbt"
+hash = "4f4d01fda3e001c99bd429310200a6e028fdb42fd9b09150a125a3e05f47fc29"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_charged_creeper_0.nbt"
+hash = "e438260fb6a8db3cd3c20ec1433bd1b232d00d68d22f62d943baba4f1bd223ee"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_guardian_3.nbt"
+hash = "dbe1525856b7af37cc19aa201148c8e84ce43abe1b5a2fb6b8697f2b86f0124e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_0.nbt"
+hash = "5fbf6d025b2902c892a58b8a3c9e58175e8b8a75af3cdefd794ff79a8ee82f1e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_1.nbt"
+hash = "2e38e86573dd5384c8bd0c03f3650b8ae8debdb610008b1042ec5896fa5c926b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_10.nbt"
+hash = "087512ceaf1773385d4f37cd940cd8e43041bb03a5cfd69f3343a7cdf2963d5f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_11.nbt"
+hash = "40f0aec0651aaf474bfab41894f871e51b5a247e62aa31f2a25c34a50f152f56"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_12.nbt"
+hash = "80c08102057f825e52803a75d0960bfb382d9f45f3bca0dbfadfecbedcb970b1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_13.nbt"
+hash = "d29e0216939087cd1e620e93dfe419bf0295d01e8a5d02c1237eea1baba5ff59"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_14.nbt"
+hash = "82e8ebbb9f37187cb39af3b1f2b8605bd00981ed2956597b4048781e4e971162"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_15.nbt"
+hash = "eb1c32ed196be5f8fcbab606d6e056afbe2d9928f18efba18634d2941f74f008"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_16.nbt"
+hash = "40fad37b6246242fb6d042d44d2119458925cc6cffea0db8ab76b164d59e91c9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_17.nbt"
+hash = "73fccfcbf511874b79774264b178ae9cab042c6efe3bb443bab1d5a895fcbf1a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_18.nbt"
+hash = "d178565afbe80c3950d4bb4d1ddb78d14dbc0b25a43ca4e523fb757dd660d993"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_19.nbt"
+hash = "caab5c59e197a9f3d529538bd2735fe55a5f1fe3fc38603021743a17568f3efa"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_2.nbt"
+hash = "e4079a9d75e6f6f5d39fa4078470452eaa7d4a7197ae9d993a376d64ad33952b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_20.nbt"
+hash = "b6f3a44db7bf835af921767ff1fca8cd3f05d9b0243c8d1ebcd6ab0e7f23aa80"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_21.nbt"
+hash = "c8519777b2c3bda3e6fb3fd220aac02ef0f745693768333489f8947671ffcbb7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_22.nbt"
+hash = "0cd3c689b713c9ded74017c7975095f32ca2a9408c0a9e2b29d0598dbbde228e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_23.nbt"
+hash = "5ce1b30d86f83b2f004f22c14fd69f06a2006a66c4fc8e7eaa16b41635887f28"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_24.nbt"
+hash = "8853e51fe5b34a2b3193156368494d9e9c447ab54dd337c9ac5395b8c7503b11"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_25.nbt"
+hash = "71c4cf1b5085cbe24ca2fab6022b681b144ac00f444ca57b04e6210b2bbbf1f0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_26.nbt"
+hash = "d77588a166628531f7a366ae0049cec28653929fa2d46d5afc9032cf35031829"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_3.nbt"
+hash = "8c3399463622a0cdccf27922a13624f16561bb6baab40f15bf0acc55bdfa92c8"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_4.nbt"
+hash = "d1154ce6eea9feff28aef36e29bb1e9fa33f4d5e4a1a1e5b7df8e52accda18de"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_5.nbt"
+hash = "377fe517bcbcfccfc4a7d415d8dc550fb35acf3744bea9084325e1af16a9f502"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_6.nbt"
+hash = "b9cd214fda30846ce8e946094296ebbe90111a6f8760fe56c250d093b4f4b284"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_7.nbt"
+hash = "69a5ab347f7f2a7f1acb28af93c83e3199cc14dfcec6993a0b3932e32e1b399b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_8.nbt"
+hash = "b0e60d6a2a6606dfc1659f53a19eaa18cbe9ee45f27a3d780323a4571cab5807"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_part_9.nbt"
+hash = "7782673e7793ecef66160f3571027b5b17ebe1a77306dc1bd9cece157b9e49b2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_phantom_0.nbt"
+hash = "bca123246e6a64d492ba9951ebf73f1ea3029e20c079eff2460613e07e2395b7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_skeleton_melee_1.nbt"
+hash = "f071bebc3621725c97acc3fc0a3c3c53546698832de9f9fec26dc1bd72508d3b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/aviary/aviary_skeleton_ranged_0.nbt"
+hash = "b990553c6a8534fb2e67ddda6978e3671f09c33cce6923e86276f4dbf034fbd5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_base_terminator_0.nbt"
+hash = "a266f61dfa9df078458bf0db6eb2c08f3d18d5885b6486f0dda3a8883d6b22dc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_crossing_0.nbt"
+hash = "18d1cf47502ef677ada061a4ec12c60bce14e38e374eb2e204ceb62c6adeabc9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_crossing_1.nbt"
+hash = "c05040bbc2a5ec5c17298a806418d7ab9763ccfb7d28c4d6f6d3ef8746f9cfcb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_crossing_2.nbt"
+hash = "b8b9fe729af02351695b768c46b9a0ca36e0260d377e36b4cf044142519c1b1b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_crossing_3_bridge.nbt"
+hash = "624de5f7147043e6988beb5056bb66dd31319be5759c928f94bedfa6de71dd19"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_crossing_4_bridge_mini.nbt"
+hash = "d387d414d8bd5d3cdae5e9ce815e4b75d1549d50907a031fde4d825b1322b18e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_crossing_5.nbt"
+hash = "c48326d59d8b03cfae77533f2efe2329e8254ccb7f9ab538df7757ffe6159733"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_crossing_terminator_0.nbt"
+hash = "30cd27d82cb818e66c47389d9aee7244b35425be3d6252193061ef6b75cb64fc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_part_0.nbt"
+hash = "b40d52544f14b31b18eff0353aaff42bf4a8f6f9f515110f23ada3c0a3ba2906"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_part_1.nbt"
+hash = "0251d2fff0b2be7fa9bdea51a1fffc6d1066be43d56430783e71d61a9626d968"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_part_2.nbt"
+hash = "fafa05c8b3a7387a32d98378419c2226b8bd4b421a71600df0c221a6c89d49bd"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_part_3.nbt"
+hash = "6bf58f6eba3bf40b74fddae39002d8e476f1abac20ce62624e852c9f3279e601"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_part_4.nbt"
+hash = "13981227fb77ac04c0c4216439ab52c4a08cd15504352546bb858b7abf3188d8"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_ranged_illager_0.nbt"
+hash = "fc7627f4e268c2f5499c1a2ced567c12c228ec461428eedc52b90894f37168db"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_ranged_skeleton_1.nbt"
+hash = "da3c234c39740892ca3527f5f1dc4a9a2cb043ba38020e0b581b6dc42ab393a7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_roof_terminator_0.nbt"
+hash = "20296b3e300ac3a5b20fe3d5f94782a9b895d5c4253db3ed3cd543d8bd863fa4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_skeleton_assassin_0.nbt"
+hash = "d3e5a81d049930fbf4ac7b9b5808c3af0d568e734469de8e59b042d0755a06f6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_skeleton_assassin_1.nbt"
+hash = "8a6250c90f4ab50fb0121f3a6006a502f0241dda3f21a66acf7a2c569006ccee"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_skeleton_juggernaut_0.nbt"
+hash = "ed627c1876d3f4fdd0f0e63d51035ef2e283b861d84e937f3a9442fa12af3c75"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_skeleton_juggernaut_1.nbt"
+hash = "dd90bd2d1c0c66f5659c9002837f76274965e99490d0652cf1d35f486d1f4e2f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_skeleton_juggernaut_2.nbt"
+hash = "71602cccab0580fb521cb48dc6f5efcb91a3096172dc1e2bb645c657c5e75d78"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_small_room_0.nbt"
+hash = "ae65dd2c6f1a9d04f3d4e67776d082ffde683c965981707fed56980fa3439db6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_small_room_1.nbt"
+hash = "c11c71cd579cadd972637006ea3d0771175f6d8d8aeb1f80fe097eceadb771c6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_small_room_2.nbt"
+hash = "dc34eb9a48ec205d9050bad7e907e404c66de53058c8e9f9dca971f198177e4d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_small_room_3.nbt"
+hash = "fb2dd9883f658de94a3cf00ff11c6d1d3cfe147c3741f60b33cc747391656932"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_towers/bandit_towers_small_room_terminator_0.nbt"
+hash = "c3f0f737fbfab85a9a117360ade56f89703434ebe8241d3f0e1148f8b0b2ca59"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_archer_0.nbt"
+hash = "e6979b631e19b73517a6720c38f36844f4f819652ea97c9dfe820b379b54a581"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_assassin_0.nbt"
+hash = "6bf4eb0519178d716a3c242d273fd9a014706fef76ac0d7d86665d18319f7772"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_deco_0.nbt"
+hash = "3c0de24b44f17f5528151c94efbc931fefb4aafb5144409e4aac87a280cf9938"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_deco_1.nbt"
+hash = "5a11089f29a95c5db28f6ca28b95bb1060fbc0d9d9dd21dfbf8adb2cd2fb11aa"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_deco_10.nbt"
+hash = "e62430dd2884da6ae1bfcab5eed70ee4964ae2b5945007cb8bac18596d261e25"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_deco_11.nbt"
+hash = "2724f53aacf525fca1bb4de9e44c38de8bec3c4aa54a78d910ff97a713b9b37f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_deco_12.nbt"
+hash = "ff0200094eaaeda35a6d61d18d8150e1f32e188f520a2392cd9eabe6078d3362"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_deco_13.nbt"
+hash = "f58cb7e83ab14c08157358e1908cd8c7a6bd63aa8b23d4f46e16c063250f63ee"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_deco_2.nbt"
+hash = "f234757c05cddf09507f517268c233243c2914780ff87924abc85ac526272d4b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_deco_4.nbt"
+hash = "1648d6adb17a31c2bc7d372a1b49875e08d407754b4db5a4dda41610e0c75c71"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_deco_5.nbt"
+hash = "a1996a608fd86d52c4620ccff6189f58aaffdcac13b638ec8e45ebc6d4eaab82"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_deco_6.nbt"
+hash = "ffca3712d968171e7d949ca0e265c5dae1618929b0b991562d53d5802dd20703"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_deco_7.nbt"
+hash = "05f5140084330ecc46a57fbb21f0aba262df8dd517827b3e747c0644aafeb9a2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_deco_8.nbt"
+hash = "159b3310c0ec92fd1ad63fab7846d55803338fb41624145fa2c341ed06c1f216"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_deco_9.nbt"
+hash = "5f6aa3bbd33d81e3867f80fac4c08fbc079c361232a295911f697764c34c1b16"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_hoglin_0.nbt"
+hash = "2cdca1e196c9f6e737fecafa838b6abfc86470ae3ec8ba1aa136b12a21b57b78"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_hoglin_1.nbt"
+hash = "df2dc4ff725f854051a6b76637299f552dc047f61b5fde1f36caf4cd0abc4994"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_house_0.nbt"
+hash = "eebfc9302ec60468ed9112cc1d1c8628cd7ea1c3885e1c3459eaa7bc422e6c10"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_house_1.nbt"
+hash = "734a4037509c2581a105f75bcccbe984ac8a96df81145aa213e0416132fc3675"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_house_2.nbt"
+hash = "44996f125ec0a5c17a2516253630629afb7b5a4c87620933f4e7ed9a719676a9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_house_3.nbt"
+hash = "ddca9cc55e5e81028fe884fb97926b36549b31677a31ea81b2176076b62ba3cb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_house_4.nbt"
+hash = "d2a91203f7434d399f19980bfd81c065d61a91867565422c9f61dd8e10b81030"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_house_5.nbt"
+hash = "66a24aac9bce020ec10cb8eea058249fee8b7886cc2c5ef4af6b6b04523c3945"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_house_6.nbt"
+hash = "00a88b4f326f157719fba2363354a9729176b505efa69e055c79033c941dfe42"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_house_7.nbt"
+hash = "a366ae0a553613cc80abee45f93fcfe001158c270dc3a9f9015bfdd6deff38a4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_house_8.nbt"
+hash = "873cffbe4bf26f6ad066684faed298e7d4308874b04c48b21c74a0a9b48e37a6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_house_9.nbt"
+hash = "aa3b4ed3c7159f1cfbdb4821fa5385422e46f0bdb1492dc46820d5feccadce49"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_street_0.nbt"
+hash = "60a82851afd03d58bf75128ccf0e6fb28aebfb5a5d5594c623097ce83b5e7a1f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_street_1.nbt"
+hash = "f874ee6ead75911b5e3a0dc641d60731e92b759666c3eaca234f49c943ad2943"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_street_2.nbt"
+hash = "cc370fe8c05e5b943d700d822ec841b53e2e34c56862d17b249819c52e34db06"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_street_3.nbt"
+hash = "d55e2edb6241702330662a8fb9dfa38fcdf5fbfaa748679363f2af374e32b254"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_street_4.nbt"
+hash = "6a56f9972488e01ed82901b112e98699a0dcb5b764535d701eb74666afd0573d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/bandit_village/bandit_village_street_5.nbt"
+hash = "5eb4932f154556ec772855b51248868dc30b5316ec804475d62a6b698f349147"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/ceryneian_hind/ceryneian_hind_part_0.nbt"
+hash = "e6e9f88749119a0a15472f27de88de127fab39a4b9ffceee76e1bb84941b6d57"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/ceryneian_hind/ceryneian_hind_part_1.nbt"
+hash = "1bcc5b024d526817f4c19989421971fe55e77a05ab88cfe5292da8f1cdf11d0f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/ceryneian_hind/ceryneian_hind_part_2.nbt"
+hash = "2eb73da83dc3842382beb02ca990dc0db33d9b317fa467e60808a18cc621dcf9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/coliseum/coliseum_enemy_0.nbt"
+hash = "bba0696fa992f0f38af2321138c075cd51a474ee3274d056ced24cd5a0c95f89"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/coliseum/coliseum_part_0.nbt"
+hash = "1131075b7655de19610953217bad84b6fc8d9bc4b2dee7d35ff54be3f6169364"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/coliseum/coliseum_part_1.nbt"
+hash = "23d8c1445e06b5e6e926ff80718f4a52660c6754ea2092c44aa883ec0d90a380"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/coliseum/coliseum_part_2.nbt"
+hash = "c88764e2b0435711915006d59662f0d3c9442513e29f090da90c74276ae57f41"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/coliseum/coliseum_part_3.nbt"
+hash = "14ef77dacbc26609b375fa8437d3be04127e1cafe2c8dc6501d6ebb33653276b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/coliseum/coliseum_spawner_0.nbt"
+hash = "7b43cc6b8447aae78dbcc6c5c055415ead949fb1f60bbf56462d13038c17d9ad"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/fishing_hut/fishing_hut_main.nbt"
+hash = "1887bfce7acccb66fe436beadda4f092c25d8c815751cbc020793725d5ea7411"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/fishing_hut/fishing_hut_spawner_0.nbt"
+hash = "9be921d52bc5a9186a9c17e8e1816aa22cbf77255b759516553ad598293653df"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_blaze_0.nbt"
+hash = "a241a6f683aa30a11e533f72af1324583f22a64f48c32430d0cb31bde2c1af81"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_0.nbt"
+hash = "19feb576d1be8313a896d3c5a3e25ff3f009a3d3da0a57681dcc4eecb8ae70db"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_1.nbt"
+hash = "d94132a664969e72d1c446089b9f8d7bd18caf3c07715d1e0d0ae2b48d740042"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_2_stairway.nbt"
+hash = "fe3e75610d4df2f2639b9238e66f5d51f549dfc4bfa5ecf691d98a89d8302313"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_3_passages.nbt"
+hash = "5eba7f72480a1a98389e13d139723821eb5c5e315120549e4870d0ba324b1968"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_4_door.nbt"
+hash = "651b7fad4431b65a601eea7773f730503b13a95050e72cfbfb45f13faacefe0b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_chain_0.nbt"
+hash = "013470f49b71e6be39fddaa921a6596e12c3b743112c44367d1df89b78b94ca3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_chain_1.nbt"
+hash = "0e044fe5de2ad566ebc4765af083e312f50d24a9d3b4cd8019140237d35bc7db"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_chain_2.nbt"
+hash = "2286db59ee1659e23414b44b3f768e72d044bdc1f80b67a542b80c2d82aab6e5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_chain_3.nbt"
+hash = "43657aaf0683f8c3cada56a97a1f9e87734d7e835b6c9d922562c45880a1608c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_chain_4.nbt"
+hash = "bd70d66ed43201ee9c006a1bdb72c5caed62f39ab32edeea7d03e08cc905daf0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_chain_5_blaze.nbt"
+hash = "bb6360ea708ed547ce8ea9e43cf5f1533b4d8308c275cd5c5792377828682e33"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_chain_6_chest.nbt"
+hash = "c29f5641dec3bf08423e7e99cb2e5f8e87a8b3865dc6e500901a2817207058bb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_crossing_0.nbt"
+hash = "df63bb88589e8469b556e0667f787963030c77f18bb9b177b831ec8d42f214da"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_crossing_1.nbt"
+hash = "bf3548216a3ba6d4ba56d66c5c9b13d66a913e73f96e0ab197cd3bc1b77b8d8a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_crossing_2.nbt"
+hash = "886156282eee7aac07affe76fd85e177c3b29c1f42383570b42243891be60beb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_crossing_3.nbt"
+hash = "d118af749f2cc3ba3fccd3b8d071d2e69616baca66cc56781715dd1d3100ba0d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_crossing_4.nbt"
+hash = "9cee4243f4d18aa65e02952d2dab5db2006b1e1972ec3c426725a770eb67d51f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_gear_0.nbt"
+hash = "b0f051c442486cda7aa3cd9df89405df32a7411eef9b75b9d14ffee8fe04411b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_gear_1.nbt"
+hash = "0a0fb077477e945dc5352e0202024044a22064c1fbfccfac7d788ae19c0afa4a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_lava_pit_0.nbt"
+hash = "42e938ca23c439decc13b6a9c4d1b47d1b4beef2d6b0ffc892e74ea9518fec59"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_pedestal_0.nbt"
+hash = "dad78cc7316b63dd4bc3b7eb72976747bf8b7f9b6a0fa107743e7922db4d9c94"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_pedestal_1.nbt"
+hash = "d38ab8f23174c05e6a83bde88bfa0f26f1de2a233b89520891860ee8cf2ba2ad"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_pedestal_2.nbt"
+hash = "95b8c1492ac8566398c933780cb06e05edd5494c668aad4e3e0c07fa679e945b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_pedestal_3.nbt"
+hash = "22f63f36b4044ddd12b87ba375de2f144443038f07e645a73835ad63c10b74c6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_pedestal_4.nbt"
+hash = "04dd2a96844b1557c92f5e47e3a994fa9a55b0d3073be0ff522375e1c06262e5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_terminator_0.nbt"
+hash = "f2050630a476c7c1fa3690e3188d4a17409f0589ddd27981ba8d023ffbee957c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_corridor_terminator_1.nbt"
+hash = "80d616abb5e58c25ae37e732ae99cb239d339f1345174cde51c7f8a903611e98"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_crossing_start_0.nbt"
+hash = "bd9ee453d35ad166c4b0583ee2a0c863c841be0568b4a8b92e2aef000deefccc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_magma_0.nbt"
+hash = "3a2b507e9857a6b1cc4e5fe9c36af9a11d7f6df47d55434fcf65431f46a68104"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_magma_1.nbt"
+hash = "3033f2827becd26a828036f3fea47e1d24ad4f801642d10550d5777ea09520f1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_passage_0_stairway.nbt"
+hash = "e36d6f00623fd27b9df966dd5a85bc4288e19ed2e063353f835fc0408f8badaa"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_passage_0_stairway_exterior.nbt"
+hash = "0314781ab588bdb657c5dcaf6040c3c34a5a234ffbd3bea2208704d769510c61"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_passage_1_quad.nbt"
+hash = "39d4fbeada286320debd262781cdc724f456a9fe7bb3abef79bffd112332a58a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_passage_1_quad_exterior.nbt"
+hash = "167a18d5d4850ad0dd15ff65be67e91e9dd1ca516301f0d747f0348d7363b6e8"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_passage_2_straight.nbt"
+hash = "4e6d20ae310f1da2bf01c60180e3246acd4eca08f4a1814491a9a8e2c92888fa"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_passage_2_straight_exterior.nbt"
+hash = "4d81ae84e9a5f8f672a86abf60c362ad4239dcd5976aa8e5e909d77dec3ab54e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_passage_3_exterior_spawner.nbt"
+hash = "fd74dd422fdfc65f0012f261a2dcdfdc24b347e5ad3d215a3b48be4cfc2e1b92"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_passage_3_terminator.nbt"
+hash = "6c64729ef2b0373070632925191c106985ca78310b463b8564098cbf81ab0e7b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_passage_4_terminator.nbt"
+hash = "9309c06b4411a8d1dbfca8d979db547fb02f56695059606ca85c415b3e00c502"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_passage_5_straight_debris.nbt"
+hash = "099449afd2967aabb03047f1c8c8a63f3f518a59b1fcd7d4cad15bda63c745ab"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_passage_6_stairway.nbt"
+hash = "d1530d38eddde5d07670dde818f0c3a859c50f89d23d440f59d2f70fbe2b3860"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_piglin_0.nbt"
+hash = "9407b241b2f21a2e56f8129985137cfe7c9a6bb0284d56d0784edcee84405178"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_wither_skeleton_0.nbt"
+hash = "8ff7f51ee67f3ea65a073f6a3a8364fe7cf8849b23107b8e797e2120736bd1d7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_wither_skeleton_1.nbt"
+hash = "2de11fc0455762c04ef8cebf31ef1f0a347d5963cbdfe1e0e907bd0053af93fc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_wither_skeleton_2.nbt"
+hash = "ad9e542872a185dda563a04ae62ba8742b6c95c5e21c5289a954d151b260ce2e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/foundry/foundry_wither_skeleton_3.nbt"
+hash = "cd161d684832841ec9842bc3c04f57d19289686d682659131e16db25496823cc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/giant_mushroom_skeleton_0_red.nbt"
+hash = "2245d0ab095d5bacf337f9d3a2870df527895f9079e3979692c9e4fd83bb6d91"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/giant_mushroom_skeleton_0_twins.nbt"
+hash = "dcda08f59947ce9df129389ecf2a150ad9d4a633209f286c52a7c547912c5446"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/red_giant_mushroom_part_0.nbt"
+hash = "e41cc51dd503779e0d2059d8eb0cbf43ca802be99e772acee30dd09e576537c2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/red_giant_mushroom_part_1.nbt"
+hash = "e6ffe1324f834813ad5c51d2abdfbda5d9653464409df9ef5837a84313916838"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/red_giant_mushroom_part_2.nbt"
+hash = "d95c84edd3575f25ec0316c327d2ae0a8f03e4dc40e98ded713a30875db33081"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/red_giant_mushroom_part_3.nbt"
+hash = "634474f289a00e5504b959441b464966aa3494baea156252d98080ca3e8a7200"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/twin_giant_mushroom_part_0.nbt"
+hash = "1f543c0202af2243e4274d82cd34cbd603cd76c21300cf36bfdbba4c13860d03"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/twin_giant_mushroom_part_1.nbt"
+hash = "3c2a88d64b28aac70e549dab54b7ae972d4c776897198108e692595abd07d8f5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/twin_giant_mushroom_part_2.nbt"
+hash = "3a8425e49d78872ce3a81a9d0642c9197df6da84448fe5c24915666b29cdba7c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/twin_giant_mushroom_part_3.nbt"
+hash = "8b2511c08c9960e6f7479dc0ac8dda7f1f6688cebe75b71ec71299f7a3f41d06"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/twin_giant_mushroom_part_4.nbt"
+hash = "3f5791b355e44bb7f7a3991fb13da812557a0e4d1bfc968ba98f936e3575bb5f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/twin_giant_mushroom_part_5.nbt"
+hash = "c012d64ed0193258d52ed3560dd7271a6a7f0a67c8ab0abe2d373bd00ad45d83"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/twin_giant_mushroom_part_6.nbt"
+hash = "97d50a18ee3def66e80c8406264da39ad8d48cf12602300f6089ac0e6296d641"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/giant_mushroom/twin_giant_mushroom_part_7.nbt"
+hash = "6fff3da128005d420928b3dd31f35def4f4290f32daf5659b4ca40f7b87bdb2e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_hoglin_rider_0.nbt"
+hash = "b4d73085ec89ea00c0fa1af3af26d81565cd9025f0a476d855c4388d12ce8594"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_part_0.nbt"
+hash = "fbb1cd61a1e03e097f605483e380b30716f298d101cd73556525b7dd3188d97f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_part_1.nbt"
+hash = "a7ad10a6762aaec3e5f2639809dee64534246666e2ea94c13dc91ee7a7c47c5c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_part_2.nbt"
+hash = "b52ff30ef0b4c073d0b7860e8002730a8b28e45c561ba8dda97a1cc80b952be6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_part_3.nbt"
+hash = "b06f0a2a08be27d54506c2dbcb4cc0fbbb02f011928d3bb8be1560de530615bf"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_part_4.nbt"
+hash = "69ff9b689dea2d8f2f1f36ea68e68425bafe6dbbebf477c34fe469428d990428"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_part_5.nbt"
+hash = "ce54d11738d3a70f8e4fa84af2dfe3462fa596a44ebdb9cb723ef36e8407792c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_phantom_rider_0.nbt"
+hash = "c0c40fb36e83c9a1b93236b220ff7888e733769c18ed9070984f5e4f0b7d7d4f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_phantom_rider_1.nbt"
+hash = "a5fd52b47c60ddcfb8453782de139de7ceb7cc400e16057b5bb074adb061eb33"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_skeleton_juggernaut_0.nbt"
+hash = "171a6f4a5a110087809e32a4f0d5e82e0d5f1032bb1b3970603facb2dfee1687"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_skeleton_juggernaut_1.nbt"
+hash = "de073808a262fca4f948876e94866f6fab7ae44a7bd0369e001cb9b3eb20f0d5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_skeleton_theater_0.nbt"
+hash = "6197931fcfcfadbf1302f737f6a3cd482335f02fb08966481046e548bc9a2128"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_skeleton_theater_2.nbt"
+hash = "c639c46e4842e38ccdd2c9743ad3ac9d8c361fb2fbdd0e06d7a11815d3489d47"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_challenger/heavenly_challenger_skeleton_theater_3_main.nbt"
+hash = "b9f9b0f2bca2d69317e5bc497503d8c522823449d1fefce60be5c3b6c682b50d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_conqueror/heavenly_conqueror_juggernaut_0.nbt"
+hash = "aa5c8aa0a3edcd749b244d39a3e7cc6849f1ad4eb3c6260591093d03831bfcda"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_conqueror/heavenly_conqueror_juggernaut_1.nbt"
+hash = "aa5c8aa0a3edcd749b244d39a3e7cc6849f1ad4eb3c6260591093d03831bfcda"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_conqueror/heavenly_conqueror_mounted_0.nbt"
+hash = "3ee191823134caf962a702b5b2e69bd7771bc1ba56b1411d1234c7271de93cc9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_conqueror/heavenly_conqueror_part_0.nbt"
+hash = "f4352cdacbf5d447c631a26a131b9c7a7c83eb4cd885ba6e0be896f946f4e3e2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_conqueror/heavenly_conqueror_part_1.nbt"
+hash = "a8bffcd3b951c4a6d1cf7d09a3faf64dcb459f8b1052587733adff1b5c34bee0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_conqueror/heavenly_conqueror_part_2.nbt"
+hash = "40f432807178749620f51e9f03e9bd770a3c54bf382b508877e5742234cf1fe7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_conqueror/heavenly_conqueror_part_3.nbt"
+hash = "ad362e17f336209f05997c3df6879e041bc39437961f2329e0bff82a3eb7175f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_conqueror/heavenly_conqueror_phantom_rider_0.nbt"
+hash = "2f6fe25cbe491a797ae0767528a7ef032d2e3a2944d94c5bf9f190c50e124740"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_rider/heavenly_rider_husk_0.nbt"
+hash = "e852e2e7a1cd955feeb30af18d232721ccb750b3ce0220b03105aabb901112be"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_rider/heavenly_rider_mounted_melee_0.nbt"
+hash = "ab29bed4db6b015344343ef0f0b445ba303add487f9c8540d054d166766cf71c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_rider/heavenly_rider_mounted_skeleton_0.nbt"
+hash = "8a325d3be741345e2120ac4ba6ae078abad0b66e33f83bfcfaec65cd80b31a10"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_rider/heavenly_rider_part_0.nbt"
+hash = "a87029cac643f9c6c53901401846e6f61ff29b3f3dc66df28548f141ae1869b7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_rider/heavenly_rider_part_1.nbt"
+hash = "e6281540dd67135fcb74ca94893121681a4f4cd57a3f15d46566b950d2cd5253"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_rider/heavenly_rider_part_2.nbt"
+hash = "1f9267181f7a5eaa30c08b24c2af788e500c7eca336f2a3832682f5e5059fd0e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_rider/heavenly_rider_part_3.nbt"
+hash = "c88e41f5caaefe68b92fcef2653c562d1c96f6cee87774b31d1c86bf07652ff3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_rider/heavenly_rider_part_4.nbt"
+hash = "bfde3d9ec44bcf9bf2f8557254df983ab76e5ee15ef970bdeba060fa9befb4c1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_rider/heavenly_rider_part_5.nbt"
+hash = "e27044a66365f733fe6ee0e09588d431011550f6846a60249b689eb193849c21"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_rider/heavenly_rider_part_6.nbt"
+hash = "c9162b4c5fc88385a629ea013f864a960e8c777fcd8ae403525cd7c7498e0779"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/heavenly_rider/heavenly_rider_part_7.nbt"
+hash = "dfa84b5675177c3827764a7cfd9a3e8e23b0114a3ea321a9972a83ed7e530965"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_deco_0.nbt"
+hash = "21cc51221664701e90723db2f60316d181956e12c7fad632307536c1ada766c6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_deco_1.nbt"
+hash = "bda0c61aac85b55a368c06cbe04262c38a3a7cd7c5a3f6b29a0dc512aad02b50"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_deco_2.nbt"
+hash = "8ad5e4d2f90e49300edf704835d0636a73c5be32868113f6c02945cfbafb0512"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_deco_3.nbt"
+hash = "c4df4c8b75851546faafd9e871ef9182979add7aa26626b4235ad0440dfa32cd"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_deco_4.nbt"
+hash = "756d96347f0f8d2572a591103c08afb598ea6f392b227b684f3b06b83b6edba7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_deco_5.nbt"
+hash = "44da98694049fd2a458e51ade57823fb78fc323dda991f044f8f249d28d0f725"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_deco_6.nbt"
+hash = "1f8423fff6fbd5f97aeb854d435dc85a8fa3a6672fe7220b1201da24855446d2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_pillager_multishot_0.nbt"
+hash = "e9e3fe4f148a240247604cdb1e64ee2288923370019f8cbd24ba15ca6ab8f66c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_pillager_normal_0.nbt"
+hash = "e5a77378741014cf62057df1b2a7fa020e7550ea9910b41e40b041ec4552e394"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_street_0.nbt"
+hash = "65d3df06521a8181bcfbd3d2cf2caef03579497c71ebe74514d2e4db341c73ab"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_street_1.nbt"
+hash = "0017af21e5d6bdb7718270d32df040655d0a0de20a5e77e510f735fe06d0504e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_street_2.nbt"
+hash = "5b1c95de287ef76eb34d5505a76b48cbfcab3732b1e1619d0b5eb723c1eda345"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_street_3.nbt"
+hash = "61bd3fa36676afadc61672d277be6a96fd06210b5b59609ac16ce27939767944"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_street_4.nbt"
+hash = "4c1457a733de4a68e5e025fc0ed45b738ec0427790157740eeec733b1bc97dfa"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_street_5.nbt"
+hash = "6ee211594b3a831ee96965d4919ff95a557e0b5dda271824e4178a9776ae1486"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_street_6_main.nbt"
+hash = "06b76cba56946931a411aa3c17ac196eea42e8090cf1a8d96e9dcdc8aef7eab6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_tent_0.nbt"
+hash = "eb685b7207df039591af05dc26f7929226dcef6fd7397aab65d3178207259070"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_tent_1.nbt"
+hash = "36b3ae52c441a7c03c20abfbe118936de765401fd077c90c9a55d793031b5305"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_tent_2.nbt"
+hash = "0831a8d92d7eae71c2d775c9a0524b041aa6f66c46b57ea80e241afdc8d3e61c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_tent_3.nbt"
+hash = "e231d65f21c2c4083f150a4540361561719a313644a6e40dec2534d4cab211fd"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_campsite/illager_campsite_vindicator_normal_0.nbt"
+hash = "1a0e7bf67ae025cc0da65489a774bc7d739f23dad24e00248b0761db4c13f3d1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_castle/illager_castle_base_0.nbt"
+hash = "7e327856e79ffc0b8a6e04341d2ec551c254216cf943d98b458c2ce2f8521fe7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_castle/illager_castle_corridor_part_0.nbt"
+hash = "b567073a0d80b54a48608c37ece7d5b01975cc287d9916792909ae12dfb5e40f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_castle/illager_castle_corridor_part_1.nbt"
+hash = "d216fd1e20f403c6b57d68e15d0f4870e366a11035b6244374bf188da91fb6d7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_castle/illager_castle_corridor_part_1b.nbt"
+hash = "e2607dd75a013fba912e8569f12bf9f9bdab1df1120e7a41cce6a8384a286a08"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_castle/illager_castle_corridor_part_2.nbt"
+hash = "7eecb479a6fb550055f80f7d768b8f73779a97f5a4805fab2777fcc4c69ed73f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_castle/illager_castle_corridor_part_2b.nbt"
+hash = "b6bd1edbf774a23e79f5109aaa6e23fae37fb27f7505e766937707553ad44639"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_castle/illager_castle_roof_0.nbt"
+hash = "0709bf4747f1525ec340e4d3080b2c3b8d4090197d46a0530dd7ed18e72c3a2a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_castle/illager_castle_tower_part_0.nbt"
+hash = "5f2dc36a9f58191963a2ee710bc0e4a299b0d4662cebc6e0df520759b6a50fc0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_corsair/illager_corsair_evoker_0.nbt"
+hash = "848d956a5aee8af7d09d41b6528dd8cd991b66fd5613ecadcf2e98f66f5dbc00"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_corsair/illager_corsair_part_0.nbt"
+hash = "cb83309bddba3901fe4f8275d304f889f900c29e28adcc3cafba75dac05dd589"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_corsair/illager_corsair_part_1.nbt"
+hash = "fcc03ff06b45e7af88f8dc998393142f9c84378283fba15dff160613d8635f91"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_corsair/illager_corsair_pillager_0.nbt"
+hash = "3388c1ea8e95778fbe3641385dbba425d48f03c56da17b48a9531d78d110dc1f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_corsair/illager_corsair_vindicator_spawner_0.nbt"
+hash = "227c9927c410f3623578bc517f4462239df27dc24a65af7e53f9452e53cf2c82"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_evoker_0.nbt"
+hash = "e362539006fa387c5a00a1acdcb23b3af91e23e1e2812b029aae8ddb4d94f93d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_illusioner_0.nbt"
+hash = "c35572f6c935b56c3865b9f8c00973dd3c18de096822f16c920b34b5ffebe1ae"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_part_0.nbt"
+hash = "14f81ea64c9e9af3f573b7301b7cbfea034f1065263b7bbc6bfe4b4336509228"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_part_1.nbt"
+hash = "456a5f0c185cbcd4c82b312ff2e75051c199cb57507a83f5d715862d8d9712d5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_part_2.nbt"
+hash = "a73f601603a5de4c0dbecdc02a13f363b96c5e4622a92121cbd07f77490d74fe"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_part_3.nbt"
+hash = "a3bd5ed0c1da968f036625e9c26654a9e1a43d88a1a43a602b84b15a5417a315"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_part_4.nbt"
+hash = "524b7a329df9143b5af4c30114b2e286ebb92e60d7ef9d6334ae79cb9d69c853"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_part_5.nbt"
+hash = "d5e63959d6326e2d58b531ef8a4bbcfbb6c25127e9b82bd7964bfbe165e3660e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_part_6.nbt"
+hash = "4e289ab5c1f55fea672d6bdfcf230a8f8a6bf0aac650e0724279e742e07e23a8"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_part_7.nbt"
+hash = "4cad29dd387fb055028a9eb1e338bb90d33fe16086020565c59fe367b672f63f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_pillager_0.nbt"
+hash = "486fbc80b7c8c92c0ee289ca820fa18889314378da3f201525f6ec4993492eec"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_room_0.nbt"
+hash = "07d107c75040911950e8ef4f904994629c609ee9d5d1cab981afa0593ac299d3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_room_1.nbt"
+hash = "8b32662fb7311600b8813fe1b8dca08551e7b247f7cf0148925f0f4e9cef5519"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_room_2.nbt"
+hash = "c11c6f8c818a2946628b3b3e22e0273dc8ef73613acba2fdfc0bfcd57b04766e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_room_3.nbt"
+hash = "f5009d594653b1e379edf35c3ef9163ca989d1f797c0140d98bf05ed24a622d0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_room_4.nbt"
+hash = "6a7130f93571ee580574ad3a50abd1c0fc3eb8c47f8864cf6f872f35596dc138"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_room_5.nbt"
+hash = "501744d42dca3fe3d123f6b4f8c684649f9e7acbbdf3b3109e8ed9b9791a8ff7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_room_6.nbt"
+hash = "7dd8648d6fd0da78d2357a503d03e3046e627c5710d6effeca5ad61f3c8c16ac"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_room_7.nbt"
+hash = "7e3fa9e3f269313be9efd2de40d0a8b5eff2ae6ae13884b3b5f37ad6ca3b95bf"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_room_8.nbt"
+hash = "d01ebdf11cce1a6b95acac3a3da2dc16f41eff6647314d543e8bd6cabd93aa4c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_fort/illager_fort_vindicator_0.nbt"
+hash = "4005bbfc9ac6fe368c76c06ce413192e55c8e7f1ff0aea2d3f6bfaa77be48337"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_galley/illager_galley_part_0.nbt"
+hash = "7460cc384ee555040582b3a8a00f15b90a90a803a4f24379e60279ad59667939"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_galley/illager_galley_part_1.nbt"
+hash = "534307a1256232a35b0f80c61ef678712e0e3103f9cf6177af1d01f589e309cf"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_galley/illager_galley_pillager_0.nbt"
+hash = "c950daaa5274f261155c7b849a1c4ae9621e85b1510adeef7ec7f945c1b06b99"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_galley/illager_galley_vindicator_spawner_0.nbt"
+hash = "d238dd91ac2d62040191e074f9db373d0002585ae716d350dd4de7258aa321d9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_hall/illager_hall_bridge_0.nbt"
+hash = "7290a6237768207e8db116c64bacdf4e7a7c0fc43fb21ce1de3c27c2b97887e8"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_hall/illager_hall_tower_main_part_0.nbt"
+hash = "7baf352038ad59bf1b0f9eff22b4f7d7374be5a0d77fc280ca1a0f447a55daec"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_hall/illager_hall_tower_part_0.nbt"
+hash = "1f1e7e9b898f209649e61e1277ee58644e109188a98e24e5124397efcbffb8cc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_hall/illager_hall_tower_roof_part_0.nbt"
+hash = "22e5556634094ae2bd285e8902fe33dbc32884065e79e1a787f95a51be6db901"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_windmill/illager_windmill_field_0.nbt"
+hash = "28a9bd15cdbe4e4ad608c28f46f0c82da7c4aa1ce7a223884cf79217b701d00e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_windmill/illager_windmill_field_1.nbt"
+hash = "3636f1d336387af64a57bde15ce5270e7d572a1a6b20ef7d83072826eb4e72dd"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_windmill/illager_windmill_field_2.nbt"
+hash = "4af02240c3b249da960f390a4e9a3748d6a775431b2240fbf20d888970ac775c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_windmill/illager_windmill_field_3.nbt"
+hash = "764b96cb913a1e8db155093efad150085e8edd99f0a1355b95fd147774ea7ab0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_windmill/illager_windmill_field_4.nbt"
+hash = "8c3039248174280860fe39629b93cedb9def5a9bf95aa45009f220f305297227"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_windmill/illager_windmill_part_0.nbt"
+hash = "42f7a07a41058acb5f9310f0ffa1e5505a2e70376ff61613994eb17a6f013f9f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_windmill/illager_windmill_part_1.nbt"
+hash = "2be3bf051c1dc71f2c52e3d7e73c495316e20301c9205da230be51db2ed90d98"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_windmill/illager_windmill_pillager_0.nbt"
+hash = "0f58a9cc5c0de5a09f4a9ff937abe64e8d83af6bd4f0833df5b2210975424677"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_windmill/illager_windmill_vindicator_1.nbt"
+hash = "f0d9fc7891de3bbad4e702c43b9de9409463f453bd0567784d10320b98562638"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/illager_windmill/illager_windmill_witch_2.nbt"
+hash = "2a1322cb4d5d7460a32aa9bb0b1a11f9040eb6909b2ba115701a9fc10fb31343"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_base_part_0.nbt"
+hash = "b750cf5551e598cde34c8d5d5cd0e340862de2a62d59bbb79bc9648ad28ccb38"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_base_part_1.nbt"
+hash = "dcdc32b2e8d4ec27191dbebbbd8094a098bebe98babb5d8c6d55fb4f4ec91eb9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_base_part_2.nbt"
+hash = "9c38c5bad3189f3a077e0738e527754c89d8898413937f4e0dcdd08720864203"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_base_part_3.nbt"
+hash = "d02bb9c3e315371e6a9f18e70cff0f6426593227d44bc6093755eb46ff08e6fc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_base_part_4.nbt"
+hash = "deb35a0a89e8a41924c0810af4673050b52460e3214c1a24947730d6deffcb8b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_base_part_5.nbt"
+hash = "bb900af8dc73db0947e0197d517cbe20d7db79def2121576448a1204dc7b40a0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_base_part_6.nbt"
+hash = "e0af8898f1d2d3f96d52a61035d08c3b2b17d455ce15ee912e315c51946f738e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_base_part_7.nbt"
+hash = "0c978fa4b113e74e62c1063a1859e4e7f14fa460a1677576363ccd990fbc2bdc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_cave_spider_0.nbt"
+hash = "315baca2af49bec3091a3c0bf2e26a3a1ae5eda86f25386470d8d5f16a28a3da"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_cave_spider_1.nbt"
+hash = "103e27436416cd1aab946486adb341c935e1b0d99ebdf8dbc87c0ee67aa89b54"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_inner_part_0.nbt"
+hash = "63a41881ddf57893bcb4b6f3f45b363b730ecf532ed7620e86f26b0bc0c734d6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_inner_top_0.nbt"
+hash = "2f0badd3d7192bbbff03d78f5dd233e2aa890bf01cf068c9f8ce16ca99c1c72a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_layout_part_0_top.nbt"
+hash = "a628b9f6216d188f672081e25bd2e6ad9c39daa2f57075f2800ca3abc2ba5ea4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_layout_part_1_middle.nbt"
+hash = "4534b8d353e9065b74a4c1c1b27b4fc2337179930a38a309f91644ce5ef4ceac"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_layout_part_2_middle.nbt"
+hash = "799532a51b436b0422664059bcb065769ead22544cbce255816b5f3289f12527"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_layout_part_3_base.nbt"
+hash = "cb72c6cde3e925d183b2b934b4562199a58a62b88113f9d7f84990a1abebcefc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_level_0.nbt"
+hash = "e8e0817c822aef1e0978463eb21620e5998d2d334893383f101c50b64f52e217"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_level_1.nbt"
+hash = "a09554f94f7c1b07d4ded3ada41963e313dbe6e7605692ae057703cd4aacdff9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_level_2.nbt"
+hash = "8797b71bcd90dca33685d0a3dde7c25bdc7b02562df49cc36ca271e4fc2247f9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_main_part_0.nbt"
+hash = "421713d455213d0274efa7af7686e047e549593531113fa509023112408b032c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_main_part_1.nbt"
+hash = "813a6574bb71353e4ab2be052eef0dd2a808d284095545932979b52b509a9032"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_main_part_2.nbt"
+hash = "eb6a6fe61b545eb76d8617cc4a7fcbfb27d598a142fc132d19147303c08095c3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_main_part_3.nbt"
+hash = "9776ceee5f80ea9431f3e7d395db21abc82d33bdf32068fbe998c9869e26b796"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_main_part_4.nbt"
+hash = "c06ed7123977a90cd830fc768011b5b9e408e7fb386c4f59e04dfb0158181719"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_main_part_5.nbt"
+hash = "9d1338fc2258cf3017d71d9bf1967d4ddefd1202c7094082d169136f914f5b25"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_main_part_6.nbt"
+hash = "f92ef997c915c2499a38f86574202d26470f6fd7bd9a956dd5f59b4cd945c4f9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_main_part_7.nbt"
+hash = "988592341947650cfdc81a0312ebb34059b5b7929b249315d40d06e206270362"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_room_0.nbt"
+hash = "d9a37e915b8dc7dca73bff9952725355b1668052c855ffbfc3e562ae92a209ff"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_room_1.nbt"
+hash = "9bb1b42281fb51a22147bc2ec7f0a4ea8c51465460c39166dcf4c63c35512e1d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_room_2.nbt"
+hash = "463059381d6df0db51241bb531d96faf23824cdc65104a12181d333f3003c660"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_room_3.nbt"
+hash = "629f86fa6a682aa042978c44d9d700bdae92f6ffaf3219a84d3a8ff3f6369ea7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_room_4.nbt"
+hash = "a2cb5840e697bab933caeee266ae8b97996e5bb2956729a0bd895a17ead6c4d9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_room_5.nbt"
+hash = "4e9c2c75e0e98fe00d9151e80233fc93d763f035f012cf6a69bff1275af78525"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_room_6.nbt"
+hash = "358d795d43bc2d749b3b1cd70ccf1ab130eac7c2c9e6c9f987d23072752a9a2f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_room_7.nbt"
+hash = "f4e6dbf79543a40cde37d1581ac615b01ab23010cf4dd0e112c1b3ee569747ac"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_room_8.nbt"
+hash = "a2a3ca5c3c10a92b9b380ba1a7214a4f8ce65e3886d3ec5b7ad2d2e8d7c4a2b4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_skeleton_0.nbt"
+hash = "ab77227569a6c4bd277f02afb3b73fb3e1627e4020e7dc16c1598e57795afb3d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_top_part_0.nbt"
+hash = "b34128aab4795a27ec05f79487eed2df4becee68b11be661b9e6213bcc84c68d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_top_part_1.nbt"
+hash = "3ed0e395bcd459506f980bb055bfb1a3caba2d6ba2713d5634b52659d1ea3e51"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_top_part_2.nbt"
+hash = "4f802fa1d9136f736554bfb60e9b5ca1868c42755306308dcc70679f9239f3c4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_top_part_3.nbt"
+hash = "8b2a9c253d01ad81702f5231a8767d4c7b3cc00f590a60ea247497c83932ea09"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_top_part_4.nbt"
+hash = "b3d0f66dcb5a95a233d0155031d34fb9a95bb98870fb050fc099c5f1d62f8094"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_top_part_5.nbt"
+hash = "9cf4691966cd6086157a088b3833cfe6a6522ecab96c22c9853ac815707ec712"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_top_part_6.nbt"
+hash = "41dd417ec23c30ff3b000b1f36d40d36f50674e5979ef50878f757ace2d1e90b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_top_part_7.nbt"
+hash = "4862cc85b16d8b5bacdc5a7db5340148fe8cea677bdc523eb347ddc8858de2af"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/infested_temple/infested_temple_wither_skeleton_0.nbt"
+hash = "36ef6b5af2faa00b515b3986e4ebe489fbb332799aa13ff84832a48ef22bfe99"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/jungle_tree_house/jungle_tree_house_0_main.nbt"
+hash = "7ac637a6dcaa85d0344295cd24006100a1d54abe2965546418217bac37b72dee"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/jungle_tree_house/jungle_tree_house_1_roots.nbt"
+hash = "61584c10dab728a3b07362dfba86a364f3ac725d25f245eaf655ed5b84c51a00"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/jungle_tree_house/jungle_tree_house_husk_0.nbt"
+hash = "c8dcd45beaf385fbcbb083bc962c15590259b9eb91d7607d99b6db71a733d8df"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/jungle_tree_house/jungle_tree_house_skeleton_0.nbt"
+hash = "fb0cd00cfba056020c34beea06b03872a884aecee76c681876d1327757497daa"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/lighthouse/lighthouse_part_1.nbt"
+hash = "ef71e5f1b6a6d9136cd54414f1da09bec18ad11d5a6315b7a0440d0df9c45d14"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/lighthouse/lighthouse_part_2.nbt"
+hash = "af866dceaf5b76c317efbd6d0a90da0bbb1113bcdf04a28a7514b53f35a6874e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/merchant_campsite/merchant_campsite_iron_golem_normal_0.nbt"
+hash = "3743e58916f525a50da326caf105493b10c4cc6f55e6d6d63f1235d874c0fda9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/merchant_campsite/merchant_campsite_street_0.nbt"
+hash = "ab7e2ac9d6362587f8347a598fd9967ad9ccb85d48fe6e3b3b5eec2db13009f9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/merchant_campsite/merchant_campsite_street_1.nbt"
+hash = "3f18fc43712bacff62f0ef5f15b6ba5b2858e059b2744c2f9a998266babdc93e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/merchant_campsite/merchant_campsite_street_2.nbt"
+hash = "87ff2cc3e2a7388962bbefe71221790620c9480ab04487bf1c17b9de43959da3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/merchant_campsite/merchant_campsite_street_3.nbt"
+hash = "cc9917419505416b484946ced405131c24f722a9140779c2162d2b184750a544"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/merchant_campsite/merchant_campsite_street_4_main.nbt"
+hash = "a9d9e667e383240eead39e95ae8c6809dc8dbbb6adc490169788adf9d21505cc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/merchant_campsite/merchant_campsite_tent_0.nbt"
+hash = "cdea251a4bee1cb6845a8ee53be754ed975fe96eed5f4fa0ee54d268598043d7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/merchant_campsite/merchant_campsite_tent_1.nbt"
+hash = "a48f2dbb52744f28955c464cc7133cd88d14429d2185fea0e5e721eb700cb557"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/merchant_campsite/merchant_campsite_tent_2.nbt"
+hash = "c32a1f309fc91831302e5c50a8c9a6a6715e9e8e2adaa42b34ecf5f2d1456bb4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/merchant_campsite/merchant_campsite_tent_3.nbt"
+hash = "3c1b33d2fdd0193dfffde64fb4626666f7b5c284b1752a521a7587de0a0f6795"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/merchant_campsite/merchant_campsite_tent_4.nbt"
+hash = "f12c6eed8728d77ed9c16c81fda48e44b12f51edfe7f5eb8ca568f9be58d1cf2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/merchant_campsite/merchant_campsite_villager_normal_0.nbt"
+hash = "670f14adab822fd05efe0a8bc4773a9b393646b702706c149a7549e190e908db"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mining_system/mining_system_descent_0.nbt"
+hash = "181d765703a1f3402aba29635c914aac91f5475b535e8195c5d72d0c47016dcf"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mining_system/mining_system_spawner_skeleton_0.nbt"
+hash = "b0381c14d620b6b0f15effc8e8e3c0ff9a4c8b6493bd41c5154ee6681a875b51"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mining_system/mining_system_spawner_skeleton_1.nbt"
+hash = "32135c78e1490f24b59b75c6ec6518f53e76fde0fc19d43b1d66a2695cad0d5c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mining_system/mining_system_spawner_skeleton_2.nbt"
+hash = "472fad6a5a1e7e81af336b4aaf21047bf1aa9e53e2428e460fd67a4f3bf34a3e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mining_system/mining_system_spawner_skeleton_3.nbt"
+hash = "075e11cde7c5fc4bcfcd572494ab0f120532cda702109c2133bae6dba3e02e74"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mining_system/mining_system_straight_0.nbt"
+hash = "e5ca32fc9c434eda5e64fdb7e0ad541ff42923c1341d67c58505919a48ed5fca"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mining_system/mining_system_triple_0.nbt"
+hash = "79528e38bed84a3435f2d36e2e900121311a27b428ff34cb1b78d155b90ed2bb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mining_system/mining_system_turn_0.nbt"
+hash = "71436ffe417637b7ae96df864f84f361546d15e3631e7d0ab1b802f9880d7c7f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/iron_golem_normal_0.nbt"
+hash = "a011b0a40c33916b066ea043d579f0360ea44dec0f01326a8623e989a4e09621"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_bridge_0.nbt"
+hash = "614f933e4eabf56bbc6d23cae78b21f9706442300f99210b466ef1727813d059"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_bridge_crossing.nbt"
+hash = "881efe98f1d229289f8ad47f77aadc349fb64c74e8af4fdb83a50ef73a5d622e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_bridge_terminator.nbt"
+hash = "052e7493d2feb1519b10be7622afb98512904e36833a1a01e45a03a569f90dae"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_bridges_deco_0.nbt"
+hash = "a225d363dc818d70b190732a53be077a49075b1ed77474a8e5c14addeca2fd3f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_corridor_0.nbt"
+hash = "ddba2887ba257aab1147fbe496208e46ca541ca4d12b2cef23dfae7cbe73e736"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_corridor_crossing.nbt"
+hash = "84dc0174aee62f52778e4194d525b98832b3a3b8014022141e5d0be4675cf952"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_corridor_terminator.nbt"
+hash = "14c43b9fc55be87704770ea679783b8eaa5fd44a9dee68bed2a03c2835786321"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_corridors_deco_0.nbt"
+hash = "492256edb190cf427f413e31fc1aafb3a60a404586d414ef89d3b6acf21a4615"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_corridors_deco_1.nbt"
+hash = "e720c8a2bcd657e7acb371846c068a348c61de4aafec68d61c3bba3ab6a6968b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_corridors_deco_2.nbt"
+hash = "760504bdc2d1b6d6a6194fc0a480a4b47cd72eaabdfaaef5ddd51b5627dd94f1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_corridors_deco_3.nbt"
+hash = "5cf19b89c1d3b11632f38cd29b16671770f48f96432647e5f70962bdd18b209c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_deco_empty.nbt"
+hash = "b0ed155af4e7f886edf7142d7673c9b6d573a77f089fc138d8fdfd30a43b4d4a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_room_0.nbt"
+hash = "d150c7e1a5f3701be003b326711036aee86476e9e06e837e29d953154fad03d1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_room_1.nbt"
+hash = "42d5c15ecd4b0fa6b4aa7f3a19298ccf213b766535e195a061ef2b2c50846105"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_room_2.nbt"
+hash = "585db3d74138a3834fc2443c761d87ca04fd37c40ad37b6706c896192c04fcdb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_room_3_stairs.nbt"
+hash = "a2f5d07fe48a5c5e7717cfc406e0352c8b7c3431ea007b8e6a5603009a13876f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_start.nbt"
+hash = "c7c1b3a0897517b959003d6352723ad3a85134bc666caf2bc0e5ca6f56fcd14f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/monastery_top_0.nbt"
+hash = "b108970edf19e09cb904d3ca03394d2de9c3a9101560ac70fc3a133ea2afbc74"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/monastery/villager_normal_0.nbt"
+hash = "8d0e1a3df9435a69a3854902ca0682f5b8000dc7c6c3e69217f92dda2849bf38"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_house/mushroom_house_bottom_0.nbt"
+hash = "78b43c759ce8138f0c415df2e17413fc19f29dd41a9d0b25c2a198a19c5de89d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_house/mushroom_house_bottom_1.nbt"
+hash = "1ece1934e18c075b4e4ec8cb7c319ba9f58411479c631d4062a8d172f94d67f4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_house/mushroom_house_bottom_2.nbt"
+hash = "e0bd18bf7b12f5d0e0b3cae8b82db8a7628f04e68759392c7502550484dd8944"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_house/mushroom_house_bottom_3.nbt"
+hash = "7396a73e479add9801c8a719a02730b21bce3dad94f3260a5ae33e3391c43d14"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_house/mushroom_house_piglin_0.nbt"
+hash = "d4e738c022d9a7ea8cf6f79c9e80fbd79c3e2eb02e9560e31fadce8ae6b698c1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_house/mushroom_house_piglin_1.nbt"
+hash = "6e9ef81cc46fa74367e821767cff043264dc784bf180d26dff6c7cd463ede9c3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_house/mushroom_house_piglin_2.nbt"
+hash = "3a1aa9ebbc72e8861fce48b9337f097f18c22f868f97b9d16f92d14f0c3bb54c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_house/mushroom_house_roots_0.nbt"
+hash = "28e4b332ffcee69df06a559af2382e4165067fcbdb105e112ec7c3ec829c30b2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_house/mushroom_house_top_0.nbt"
+hash = "245b0107e506d353bc8854be94d22af10bee428564d56298282e1c0fd54c1f11"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_house/mushroom_house_top_1.nbt"
+hash = "ee821db976b42a25d898983cc22bb3fff11555c548a44049872d9dbc55713576"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_house/mushroom_house_top_2.nbt"
+hash = "12fe45267fecacd6fb2400e71d1e5a3ebea957a98730883f471fb083901291af"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_house/mushroom_house_top_3.nbt"
+hash = "a333188923af004f0e6af6fec38e90c928e4e9d93ec3bfee596f58751b9dfe13"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_house/mushroom_house_top_4.nbt"
+hash = "08c4735f8ad3f3ea52bdc4880a2237f7cb19a065ea648cbbf7ef39753de2d8a6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_mines/mushroom_mines_part_0.nbt"
+hash = "031519585160f720cc10b13a06a18d76fab79e371434e34e0607b5c71f1bd49a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_mines/mushroom_mines_part_1.nbt"
+hash = "4d905401043245d5baaa9919d53313191e619cdba07d2ce141695c1e7d04b251"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_mines/mushroom_mines_part_2.nbt"
+hash = "9ad2aba4e6493b7501887fffd2fb69945b11ba84d37908e716ce0f8a587a36b0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_mines/mushroom_mines_part_3.nbt"
+hash = "f7430aae6afe1d013507fec77fb598cbbdebcbb2052ccb9793f94d6dd4a33bb7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_mines/mushroom_mines_part_4.nbt"
+hash = "6b9b0841c04b19e72fd37a8b88935bbab4807f770b58f42a7e515c8d8d31f278"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_mines/mushroom_mines_part_5.nbt"
+hash = "efe1fb214d4d3c1c75f808bf914d6d0c3e9c3c566c2a4bb5e005ec6a11762e1a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_mines/mushroom_mines_part_6.nbt"
+hash = "9292b683229aa95bab47fd25381e140b25175e23c75d9e89f2e897985e307d05"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_mines/mushroom_mines_part_7.nbt"
+hash = "eed40a5c03338a79c12cc5e3a15ab348490cbb6c7755ee2b0cf254878cc74098"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_mines/mushroom_mines_skeleton_ranged_0.nbt"
+hash = "97b922239f19ea1d83b5969d82eaf67505dd3c9c5f0335e3a35f19811b75621b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_mines/mushroom_mines_zombie_armored_0.nbt"
+hash = "f1f9d94e3ce2ea1f0ff32d0034ce8744a8ad4f3d46680f6f209bd162ece3fd4f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_mines/mushroom_mines_zombie_armored_1.nbt"
+hash = "5fb3b7b0aaf538d513d3324b34caa631c3357b2f3c79f8f8ba6d66b60b241d3d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village/mushroom_village_house_big_0.nbt"
+hash = "fc70a5110044a4ea02adf60532fc8f71eb5bc66839efe88b8eb00d3c0987fd38"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village/mushroom_village_house_small_0.nbt"
+hash = "ccd45acc05b704acad0046b7cee8a367acea6890c4ecca72d635a6dfeca46292"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village/mushroom_village_house_small_1.nbt"
+hash = "24ff38117dd77642501f8cec1f6d515ff01eba1441ecd20e6a173bec7fe883e8"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village/mushroom_village_house_small_2.nbt"
+hash = "4f19110bcb3c481aaa15522f03cbd17cc8d1ae160edad42239358d3d212e3cfd"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village/mushroom_village_house_small_3.nbt"
+hash = "ed5db1822e463d5b6f922db3b680f5d6ccee5d9a35e4262fc03c6c662bee9d5c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village/mushroom_village_house_small_4.nbt"
+hash = "5651717592f023187df9999de032c239ec1ec3da07ceabee1a37c966106b6ab1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village/mushroom_village_house_small_5.nbt"
+hash = "b5fa3e4bccedaf205fe7247ad27285331b50652ec1a8ba14d6e7df052098977c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village/mushroom_village_house_small_6.nbt"
+hash = "8d3238d2f40ff2f0bdbacdae6dd845cf0627187a9a42ec890ba8a210e5ff308d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village/mushroom_village_house_small_7.nbt"
+hash = "df1ec26e9b962bed03bc868b7e2e9a7a79587c4c1e116971f8e7c472c95f3f36"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_coloured_street_0.nbt"
+hash = "1a336764d9153394f4e69c609af201683e0d589b0c784a08c32d877912baf95d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_coloured_street_1.nbt"
+hash = "5654a1ebcba96a2ee77cdfb53dbe52a22df71c5751261af84c1fd91888a421fe"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_coloured_street_2.nbt"
+hash = "5f4bef34c5042c9e53af700444038dce32e6c5f5df739faaf1f833540373a557"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_coloured_street_3.nbt"
+hash = "7b9f335f4943739b9e86e5364c7c44ba9ccd5ccb26268fa7f0057599aa17a3bf"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_0.nbt"
+hash = "3a2625c67af7509dc3191c5dbcb7f310cd8122a568c75d78eb102a376708709c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_1.nbt"
+hash = "692594d883e97cd8d3aa81a069192826677755c95aed5258f39f3bbfc58a4c9a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_10.nbt"
+hash = "17391f45577ab677bba80517651e6bcbf3699513ae4769a457ca085e910f7de7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_11.nbt"
+hash = "089d9cd1b01944b1742013d67b6c0364df17ddd1bc90fcbe820f4a5afc5da45a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_12.nbt"
+hash = "ba45228251c22fcb3f9e494862c56dc471046ab7d6c6dc664e851f8cf70e4a72"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_13.nbt"
+hash = "acb37bfbb1bb5152c897c4c372b68b7cfd2b865f4cfcba9c2d4347c7e3e418ef"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_14.nbt"
+hash = "79b4cc56c1ffa73682807ea1364c3344c6beebbcafb0872bed9a0b9eeeaf77ab"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_15.nbt"
+hash = "c3850ef811bada82d27c8aa0b76d6aad8c5c4612449536e53d08cd88d75fc801"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_16.nbt"
+hash = "0f770a2ccfedc50d84c244a28945bdfed446f819d3430051781ac13d7060b632"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_17.nbt"
+hash = "fcca2918e509670b00bfc4b18cb14d50a6108a11158ec336a9360f48a63aeafa"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_2.nbt"
+hash = "b718f17081de8eb34205d82c039af0959e7e27f2c8fee883061cc467a9799e86"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_3.nbt"
+hash = "406251b9ee7759556f83cd79b64a04b47a27b3fe47c186cd18de580e7e3f0e89"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_4.nbt"
+hash = "1a9a2491756895be589a152d94f934462bea4a99ba1282a6e16e147010bf1e73"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_5.nbt"
+hash = "0f9d7208c311c7e7a68e9d39510453d97fb40704ef3f28ab438b3c03fe641f3e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_6.nbt"
+hash = "c03f1ec070e5c56cb65bb5b5c0e5b563028d6824935ea475df5b0431aefbf2f0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_7.nbt"
+hash = "6f74b492a51e9c77fab8558b33eb8a3b52e387af2e1695676adf833e40dda625"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_8.nbt"
+hash = "95b6d72fc2a42401aee522bb78f3fc4834f1676781d27eafca0d6375412a152e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_house_9.nbt"
+hash = "4fb6d0f639c010a9da7bce5f7dc67f5248f387938192643d7c7d0d68037fab4a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_piglin_brute_0.nbt"
+hash = "b9363e4f1b5a59cf4cdb2358dd933862d9ac9c421773f9fecdf9ae88fc73c32d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_piglin_brute_1.nbt"
+hash = "4fe6c5b6680bbb98fd25999c469e6d8adf20808fb700bccac1cb536ad8987bf5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_piglin_brute_2.nbt"
+hash = "1c36793585b56fdbd395562d7c5021b2c66710e945ab5ad6978b4d9e304a06d1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_piglin_brute_3_mounted.nbt"
+hash = "070bac0f56c3f3b2172a33f1827cccf9a30cbe5dc20a08c9af9039e2351c7a83"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_piglin_crossbow_0.nbt"
+hash = "517dd80bf2337f382bad7dca685bddeaabef821ecffe26d551fb22e4cffc4196"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/mushroom_village_old/mushroom_village_piglin_crossbow_1_mounted.nbt"
+hash = "476d20ef84bc666627bf997ae7897833581fe268200eb0efeed426d46bc4aa4f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_cell_normal_0.nbt"
+hash = "9852e770fbcaf628b7c44e9dbc18ec3437dd61d7ae1ca51e415818373b8e9a48"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_cell_normal_1.nbt"
+hash = "93a57ceae28788cf5a1e5e1cb08887ad310d8145b90c5456f054606db0c7499d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_cell_normal_2.nbt"
+hash = "0d9c5333a10ec44fac8d68787e05cc84efed15349c0799f75c83201593876fa3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_cell_normal_3.nbt"
+hash = "825f5721937d600a4645284344949f11f49834da682f6dd49cce24320ea31af2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_cell_normal_4.nbt"
+hash = "7230e680433f1e6253fe8a85bef3fc25f12b7a5c7c963e911e57b600f2278ac7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_cell_normal_5.nbt"
+hash = "c9347772cfbadfb3abb14f8554f1b9eab76006a9d4d9ccd772bccd15f186c981"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_cell_normal_6.nbt"
+hash = "3b0e593447e4984f5db1194045c0551fd5e278ec90bc7c3fde325f735d6cef96"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_cell_security_0.nbt"
+hash = "65a561a81675a9382ed61d52acf5544c4c29a852de6c8efa10741d0d85b3f0a4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_cell_security_1.nbt"
+hash = "bef14d0ef0f84049bcfbadb25a0ee2f278d7f9fe3804762c2f772bc975a01d5b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_cell_security_2.nbt"
+hash = "86c628eba7d0a47fddf02949f2183638fa269b14217092c0b44a2da7b72d6335"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_cell_security_3.nbt"
+hash = "5df3b87a228edfa36019a84bc3540445dc1df42f2c9ee63a80933d4c45a86744"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_cell_security_4.nbt"
+hash = "fbad3dff621f4f1053fe10e38fd608854079fcab81040962a711d72c5fd6cba4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_corridor_0.nbt"
+hash = "d24399b446c89bb79cffcc06c2956ff6fccddc00b3918464494a48ca4aa69649"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_corridor_1_cells.nbt"
+hash = "95310b1adaffb50463e0a4696f94e9a29d0116c67096d89583419949638a708b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_corridor_2_crossing.nbt"
+hash = "a5008b075a55edfa40ef400e4142065f51bb2a6d902b4aade1e757a9c8ce7085"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_corridor_3_stairway.nbt"
+hash = "454ac59e9c730e9e5b17ad135534d348393cad6d5dce966bfe74219c069e44e5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_corridor_4_crossing_pit.nbt"
+hash = "b7fbe928a56258a86f75ceede72ed9459a97f01ec69d6f7ed4a1ddb483ab8a53"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_evoker_fangs_0.nbt"
+hash = "ad952170c91383729c7621e4a1e83c450ea29da45858ce1711fe9de42c07acc1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_passage_0.nbt"
+hash = "6bb2315ef805ea70e5aceb57f34271937892d7dc0f9303fbd94345c21d837108"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_passage_1.nbt"
+hash = "708c22832dcd523583b2f25f78fef19db35346004b654a1c4d662452d978c152"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_passage_2.nbt"
+hash = "e78212fc25488b47ac109e864f593fe23224cd0fa6aa534832d88265a699dd5e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_room_0.nbt"
+hash = "e8fe8de6324b51aa2dc2e5d9d25aa6dd29e0d2ddab5e3544b99747a62d92bbef"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_room_1_double.nbt"
+hash = "ebf5f39c6210747fadbf123dcf1aff6bd45093286ab14129787990caa1fca3b5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_room_2_double.nbt"
+hash = "456972170e81a16e7782cd2e095af2344d040dbcbd24bbc0d42e7030df78b644"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_room_3_cells.nbt"
+hash = "04777f1fa63ad02c5781961b7db7fa7dd32f85fc3d791547fd4db6c597d714d0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_room_4_pit.nbt"
+hash = "4c1714ba7afe423e5ab713e3dd7a551fb7d12ede3ad2e4045833636634e21f4a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_room_5_brews.nbt"
+hash = "87021e94ce290c6d617433bda2c41737c2219cf7b1727fff6e1e9440225138e7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_room_6_water.nbt"
+hash = "b4f173054084cea3bed8253e69002872aa992c40eaa51eed94bcdd9785fdea11"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_skeleton_0.nbt"
+hash = "c9a6e556ce007e089ab84a6925ca1fe84e0e5f10e20457a3d8cb4f303c144de8"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_skeleton_1.nbt"
+hash = "74925196025c27a3a9771b7d6f380b05d9db92cb4a547014b5264781b79d1f43"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_skeleton_2_wither.nbt"
+hash = "1626f7f5d2dce698c35da02e525a688683d3205d7004b3828eb886d17b6841bf"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_witch_0.nbt"
+hash = "6c2c7526556883fbf9e5cc3f50f0179909be5b93449b357e0dca88b5eb0516cb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/plague_asylum/plague_asylum_zombie_horde_0.nbt"
+hash = "1a70f9a2be0ac553e22e9dcecfb92e99b7f1d64a4119f873ef99c39ce90329d0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_barrels_0.nbt"
+hash = "257176d5ab4befcc24e66bef331afe0abe67427a3f2de5879e76da5f726665e6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_barrels_1.nbt"
+hash = "1cdbc9b94f2368a1167ab015f6df26be85caefd4f595e1bbed09bf6b04d9e183"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_corridor_0_normal.nbt"
+hash = "95101922d6c56937fee8794025ec92650d4cd9baf99272b307ab8cf9685b155a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_corridor_1_spawner.nbt"
+hash = "07fda5443f5bd2d20f3991e310ebdf4106703b503366f8799d840eca0087b42b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_corridor_2_temptation.nbt"
+hash = "df2c191392b63c85925948e89e7e025a47972b1d1058bc4bc9db2c37c3450ce8"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_corridor_3_spawner.nbt"
+hash = "81dc6712bb787bdab9808a66ae429c217ff858aebb6ecea053d1a6dc06b4907c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_crossing_0.nbt"
+hash = "bedfea63ed83b9b63924322d3cc16f165959574f597e6102e19f252ddcdea86b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_crossing_1.nbt"
+hash = "9e168009345753e3d6180971e0ea0ab4719a2b24b1aeb6fa678887d0125faec0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_crossing_2.nbt"
+hash = "ef242f28160125009c1865eaa2871e25f29d7b7bf74fb3d7542cf4a7821d41bf"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_crossing_3.nbt"
+hash = "03cbcffe5efef6ed7ec6ab0d479100fe3fd3352255b25f5c1eaf3eed3196ca66"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_housing_0.nbt"
+hash = "fa0ff35af2b2c6a6590b9afe5bd78a4dc06e41617106c766fe7b2c7b0e7b9afb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_hub_part_0.nbt"
+hash = "99e2929f61a2af3bb03d8f82e4ea32c5ca87f44c98ab7fcf6475b3ae30e7bb7b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_hub_part_1.nbt"
+hash = "91521f02abc7943d7bf2caa719d16ecd718c1a754335db4c136a1e5038819d9e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_hub_part_2.nbt"
+hash = "fc8b65d215d6c5be66ae5a68c545e6ebf7a40c23644338f5e75ed18129a382cd"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_hub_part_3.nbt"
+hash = "c35192f839ae71db09951b9be6c5caafdccf4ae28c0b249797149161d37a1ab8"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_spawner_0.nbt"
+hash = "50abb924d00c531848dfc8cb8f9b92a4c94d72ad70e91adef36407f9d76eedeb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_spawner_1.nbt"
+hash = "1044e193c667031da540fb009a6743fd24b5a5c9e40d8d58cb2875ec8be3e7d8"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_spawner_2.nbt"
+hash = "57b317e836ad6013c7d39e1366ed19d3b2fa76cea7ee1e5a26becd9edd92bfc9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_stairway_0.nbt"
+hash = "fa6bcc740f52d9c1de743d9f29580cf6ad96386afc5b76cb0aa8fb3398eae3c9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_treasure_0.nbt"
+hash = "c8d0b4cd4c3c3571020001b98135bd5adff2ae9cc8b47af712664ecfd5650e6c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/scorched_mines/scorched_mines_well_0.nbt"
+hash = "536d5304742a0d8769281b22f0b06d4a2e2eb4b274444ec248e63a14d5849270"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_axe_illusion_2.nbt"
+hash = "ea7e4b69f3eec047a85ee3fa23be4f269d21dbb989a6b5cd26bfe5bf12621d0d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_crossbow_illusion_1.nbt"
+hash = "911bbd4baf4e075d894b374f5fb0e823529ba6188881ae6a301c17fa80ac1176"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_husk_elite_0.nbt"
+hash = "b4503d7e292fab51b595d9b7cf50c7e7c0e04bbc68660592ff34524f276d9695"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_husk_garden_0.nbt"
+hash = "62b7b2f6cb5e76f5d9ff5e8b9d025c5596838bafad82a2ed0face42728db6599"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_husk_garden_2.nbt"
+hash = "bb08a81f42d0cb942713c744ac36e3cb6a87379a075ceed054d02afa65eb5b1d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_husk_garden_exterior_0.nbt"
+hash = "461c0a6bbcb5114a7d0a1bc8bb8ab95c7ac2eaaf9971199e1fbd597f91579ab3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_husk_tower_0.nbt"
+hash = "efa2d6d3113c899f3a108624186ef280af8ba298745124925f18c028929c1120"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_0.nbt"
+hash = "a603cce64044a50e5c2e2c60dfc5502a3e6492d95cba029986768519d5e790b4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_1.nbt"
+hash = "bf5baf9447161aa920ad072831a9e2572ee89d7a4ea1bb08fbf710914b55aabe"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_10.nbt"
+hash = "5fac0ae86aab1122050e1676b8dc3935dfe14840c2ee7dcfcce21b51a5901b54"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_11.nbt"
+hash = "801c709e83fcda43c853f4711f9883dc5483b03f35569f41f9420d4d1aabf75a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_12.nbt"
+hash = "cedf33f56a81c74affe581498c5475fb109c307e9d9a6c18673f46cc2d99bca0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_13.nbt"
+hash = "2ff1f3c0bd49252845374d043509bfb2cc061be25ae4e20e5c6c9bc323cb1958"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_14.nbt"
+hash = "d8c60d30c84d25464d29b224468adc384123699005dc9a83be5c89bd3899bd1f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_15.nbt"
+hash = "93a40bc26773904811a981e56b3fe62e31f664b26146bc42e4dc8e9f6029cdf5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_16.nbt"
+hash = "227a0b11c22fa0f80ec827fffd2cc9b71c76b4808f2ca0d01e5cd6e731e5a9ad"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_17.nbt"
+hash = "306ddfe45cdf03633fe65f3f2fb737fd2a07d4478b22210c50abc005cee6d24e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_18.nbt"
+hash = "52caf16ad52fae931a49e5ab521dae106e6a96b3fde75e011760bf09ebf13074"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_19.nbt"
+hash = "4bd6b25142296153b673713add8f755a072080b2cfaffa418cb3fbdc64f4dc2e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_2.nbt"
+hash = "1368eecbea88dd71d40139110e1e27a189d805f3fad07618f37d3d5b33abb489"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_20.nbt"
+hash = "dd83ab1ec34946e0f5851c9d9b67c04233fe7451f7002388251b49f86d7373d0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_21.nbt"
+hash = "c0bbbf76e532f66937e31f3c541113e9289bbe834beb9a924a9baeb293e66dcb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_22.nbt"
+hash = "37e98d387c0613c6efd6da024baa59e7596cf9b813eb714c33882a1d950fdf19"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_23.nbt"
+hash = "2a619bce5302c3169a0491f978253c213aed931360a3196e20e5cf012e3c6845"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_24.nbt"
+hash = "4e53649770b439b42d5254a0583d62ff5a062c72927a6ad835b6adaa8cb71371"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_25.nbt"
+hash = "34119b98e3276871b82e1cfddb88381c70594f4ee888edc173cd44afb040ee4b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_26.nbt"
+hash = "c71c587373bb6875d605ffcda262ced7b5da719b3366bd019e488c3cc28f5fae"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_3.nbt"
+hash = "1b7614d57e72c76fc91e404e151ba07274eb153e5c7a057e7586554db6eaae47"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_4.nbt"
+hash = "68e922614327c154cc2952f4d831a70b2c13865a7b05213d0a87faddf81a67d6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_5.nbt"
+hash = "1308e15e1fd9d81ea5c3f7d4d1d09130f88f1b0e6f921a74d428e10337a92b5f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_6.nbt"
+hash = "e5ec3da7b3b545c5d26f9c3e03773f8708d5cdd094cbd2b2cad93c2aafd9476f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_7.nbt"
+hash = "963cc981bae1cc4c0943ed2923902adea1ac09356edfc09fd8f8052be4f755ff"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_8.nbt"
+hash = "0c783138999b350eae8363396dde30288206a8ea7dc0779bfb676d0cab838d49"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_part_9.nbt"
+hash = "8d9b81bccc44a37346a2b75f64daec6f5d2fc27d2c8fa0cd15f2585a5f6f23b9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_skeleton_elite_0.nbt"
+hash = "9e83c10f84a3b45b68f48cd70439d337d31a7edbe48e3c226216ae3ec4fbaab1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_skeleton_garden_1.nbt"
+hash = "b6a2f85d06e5ec5cee5e3fa04cd335a20ad13cdbce09a7dce675930b53b9e411"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_skeleton_garden_exterior_1.nbt"
+hash = "c9233a8e00eef8b251747919f64ac853f4b2e814ddb067a1b2601047d2bdd9ef"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_skeleton_illusion_0.nbt"
+hash = "aa61354af6ea7a03b9faf9d87571fb61504c7e114115738cc4be8921634d3e7d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_skeleton_library_0.nbt"
+hash = "7fda4482deb87e8752f7349a3c09f2e800dfcfbde0b65024ce64047491807eaf"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_skeleton_tower_1.nbt"
+hash = "155b36ab0bd3e0ea7a882cfee6d00c28bcdfcab5a4e3dcf328be3a9b85a51f58"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_spider_0.nbt"
+hash = "24d5a7edcfddb9d21a95a144bcf9dafbdf20212373174813244f71e04143c2a3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/shiraz_palace/shiraz_palace_spider_1.nbt"
+hash = "a78a4d5fbe17019f8d54bfdc78125981132845d58804f86ffce76904ab86b2b7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/small_blimp/small_blimp_ladders_0.nbt"
+hash = "7c649de4c0236a7e9beca7e713d30d1e29467da7ecec8bfde0f89b4d7dd78470"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/small_blimp/small_blimp_part_0.nbt"
+hash = "6121245bbacbfaa5924b9947c792bf9d2f45d4b9fd18525e3d73c005ec1826b2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/small_blimp/small_blimp_part_1.nbt"
+hash = "54b9d6e8bde141fb88fab9dc56e6c0d6933969ec5e0db4be7c41c8975cb73438"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/small_blimp/small_blimp_skeleton_0.nbt"
+hash = "f3f46c5f447c795a88c370d11e95ce87825ec653c005b45a7e13edfe5064cfee"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/small_blimp/small_blimp_skeleton_1.nbt"
+hash = "e30f3810f5f0dd53728e568eb532fdee5e3e55db2fc8749e3c6ac052b91e26f5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/small_blimp/small_blimp_skeleton_2.nbt"
+hash = "f831ec4707fdf36c079275d8fad0f6881a96ce77fad5a4bab8f5c58913600add"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/small_prairie_house/small_prairie_house_clean_0_floor.nbt"
+hash = "35ec0d725c0f319e61bf13f49824d5bbb4077542481c60eeceb82e5a35a78019"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/small_prairie_house/small_prairie_house_clean_0_top.nbt"
+hash = "310d2cb658e2acfa269d26f1500a2f3ac38f4cd8952d93d3ac8229aa436eb7ee"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/small_prairie_house/small_prairie_house_ruins_0_floor.nbt"
+hash = "fa72d44eab1a24a9605c1476e572e20a92fff5d516661b000054c4b397b97cab"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/small_prairie_house/small_prairie_house_ruins_0_top.nbt"
+hash = "a22bf1abb04bcbe9e7f45e4beebbeef9e9b9ff9ea612e492098dd499984cc110"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_bridge_0.nbt"
+hash = "1781855a7f3712da97b1be38d5eb9e92ebce6f8c4db900581f730295d6dac600"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_bridge_1_broken.nbt"
+hash = "08a938406de8b22497e5ed41a759ab59069cf8e8b0def43ce3e2d13b67a11797"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_bridge_2_terminator.nbt"
+hash = "882dcf5e993d4075c810cf22a44105e86855238e145a6b31bf039012407bc81d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_hanging_big_0_main.nbt"
+hash = "fa1718d04e77b09e516773ed9ec9f04b546b85bc52f91edef330fb45da6ee963"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_hanging_big_0_tower.nbt"
+hash = "e1c51ff45c08f9b11c1015d4de77468f9343a71deca3d506229ba200db9d79da"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_hanging_big_bottom.nbt"
+hash = "ffd4de4d41e3f59b1bc0fa9cefa0bc48ca994fad01a8175309a6163c4e1b34b4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_hanging_big_top.nbt"
+hash = "f629eb1e7a7366d4615345acb76708a1cd7a007c1bf66b2c058682d69593dbbe"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_hanging_bridge_0_small.nbt"
+hash = "17cb9c31109c42bdd299f4b2ae7ed8ce0d002e2876607685bbaf5c5cf7fa1f2a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator.nbt"
+hash = "3146a1c36c31b386aac84a265eab003baf6248c187bc071b87f99b52ac27bf7d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_hanging_bridge_3_medium_terminator.nbt"
+hash = "285744fa6e7e5c9ee4910bd5726aeb490e65a0f4f076fb1a64a24d89859df20a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_hanging_medium_0.nbt"
+hash = "c83592624fc83b596c1e81317a1a01116a2548608a7e89a62ab50202575bfe99"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_hanging_medium_1.nbt"
+hash = "0a7fda2a255a27ad4a14defd833bd040cf629a182096248d122b10fba0abcec5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_hanging_medium_2.nbt"
+hash = "b684051a336fc9bbeaa287e5731841ad8ef0ac5061af57f38392dcb3e9f91aa9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_hanging_small_0.nbt"
+hash = "f92c1650e2f486a6481b4db790b3b66b46f405fcfa3b6adc052c2b9e1f7e19f4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_hanging_small_1.nbt"
+hash = "4af9a16d628d9c6ac009622023c55f3620129df312f71b270cc5452e43878c85"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_hanging_small_2.nbt"
+hash = "f19d5bbdd6d7c5626f8c9650de5c9499743f0b6133bb5b68c6aef66a6aa5da3f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_part_0_main.nbt"
+hash = "ef88ba9d98c539472d066c92f1d5ebf94e9307d11294daa43c64772f47fa0fbb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_part_1_support.nbt"
+hash = "9641596ad2644978f067fbe771b04e5329fb2b57843661c9c333fbeeb89d9cbc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_part_2_tower.nbt"
+hash = "8b08770baba444b08120e4746bceaaa843f581bd0300ffb6dba0c43120b4d598"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_roof_0.nbt"
+hash = "f80962f8f8b472800eba0279e45d2039e2b87cf6ac18aae0192fc772dc6943ad"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_roof_1.nbt"
+hash = "662a860563af3834fe7999d833283b3f36af66f89e95c12406ad0ee0dc61c706"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_room_0.nbt"
+hash = "4c90ef55d631efe0fb730611fb77d74fb43b6ddfe69d808c169b4032d2bee2b2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_room_1.nbt"
+hash = "78c806ca4d3e43b6c914cf4842f38ae51d7256b7ecf7b37ab5f4273294901037"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_room_2.nbt"
+hash = "7acd7c1017ceb702f4da2748691b35672d522a416ce2758854e7be47806ecd40"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_room_3.nbt"
+hash = "712eefeddc14c2852b6abba55fa7e246688b7b07fcb4b3fb44acb00b0038146b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_room_4.nbt"
+hash = "b5cedfda63e208488ac27e0df96f919d0836daa73fcc973f6923ea24649495b5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_room_5.nbt"
+hash = "404458be0bcfb5f56d2e7dc5c1dd5d0f16b2c62c3d10dbd961ba76d38141c9a1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_skeleton_juggernaut_0.nbt"
+hash = "ee0a770703734610594cb0749947e60cf7c00962d1bedf656c8b6c016f27043d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_skeleton_juggernaut_1.nbt"
+hash = "7c775bf701113c51972225c2d2b43d12972f60c5f4ae821d9337c8d9e99d5544"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_skeleton_ranged_0.nbt"
+hash = "e9c56abe420ab635ce33104135c718a978ae6f8de6220a235138183b3a270dcb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_top_phantom_0.nbt"
+hash = "491dfdda21ac6dc64d6ca0c40bf4fc719e27bf48349c72e1751e0cce13549957"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0.nbt"
+hash = "afef58f467c4d5e54f21b969bbf31a11002e1b27a351041c7629cf0ccb587098"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_top_skeleton_ranged_0.nbt"
+hash = "25e7a4054769ab155a58093fe150699e25ed9cbc52dcec72a318cddbbb4d0130"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/thornborn_towers/thornborn_towers_witch_0.nbt"
+hash = "6cd1d378a8166c12a38411718d494c4d313e3abc31dfaa932558a0049169cd7a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/typhon/typhon_part_0.nbt"
+hash = "9c0367a88b696567bc4f9ac255e4b6a6d8a2ae36d3ccaf9d53334e35b2ea3b57"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/typhon/typhon_part_1.nbt"
+hash = "2066e97579a4ef295d4264d575cac0f60780dcee18aa3ba322f9e99db7a7320d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/typhon/typhon_part_2.nbt"
+hash = "de106af52e9b565596b884fdaaddecbc2f969ba0d5508f1ad342a2bdab8725fa"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/undead_pirate_ship/undead_pirate_ship_captain_0.nbt"
+hash = "d0421fd66c8d14a9c4e14cf42d46aabb6d1b63b868417a3fe793c66e796cdff9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/undead_pirate_ship/undead_pirate_ship_dolphin_rider_0.nbt"
+hash = "2ff7384345e8ae879bc725d54b3ec4256b9dfe2261a705ddab4375f558b5700a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/undead_pirate_ship/undead_pirate_ship_part_0.nbt"
+hash = "83e75b3d3850140d81a16f24d62f9032ecb0ef67a4f665d8269ee2306c3b9ef7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/undead_pirate_ship/undead_pirate_ship_part_1.nbt"
+hash = "cfc118100e96eea5b7a2564e5d98dd8cc2d9487e5bae255d4934aa3180fe527e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/undead_pirate_ship/undead_pirate_ship_ranged_skeleton_0.nbt"
+hash = "b2aa128cc723fd0601a7a07d45c4cc720d0341ee51c819cd0e1f13103aaf90fe"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_0.nbt"
+hash = "e5197190a3a0ebeb71cc2657c017b6aa615cf4f17d352af9a600f3ff7e1e5975"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/undead_pirate_ship/undead_pirate_ship_skeleton_juggernaut_1.nbt"
+hash = "be28230498710a41fa3fdc743db557c2c7c02cbf440febfb4f5657bbaa2e0239"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/wishing_well/wishing_well_0.nbt"
+hash = "84b0997dd58d3f6eb186e742c62cee42b91de52894be48b7d003bce2c58038b8"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/wishing_well/wishing_well_0_no_effects.nbt"
+hash = "f4c4a1b4dd92f72e5d5c0728b8428ea80bfb2f22e0b474338cdd05a8b8f5215d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/wishing_well/wishing_well_effect_0_speed.nbt"
+hash = "00de5b9a09dd3a4a12da2546f6bf35877827a5fdd4482266cbcb0dc488479d76"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/wishing_well/wishing_well_effect_1_regen.nbt"
+hash = "7995bc0acb41937f159b071736160f1c6565e0d01265f472a88a114b7704aa0b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/wishing_well/wishing_well_effect_2_wither.nbt"
+hash = "7c2c02d0cc46f5c250512e074b35ee9bcb4e975e9baf089c615d7747000f15c2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/wishing_well/wishing_well_effect_3_resistance.nbt"
+hash = "96cb3b961a1e6d82c0c603f9f997def7866b0cc4a3f6587ca0739ad2775a3eca"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/structures/wishing_well/wishing_well_effect_4_haste.nbt"
+hash = "2384bf3864649f5b32dbc43430953c1c273981f96055a6bafd37e5528be5906d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/abandoned_temple.json"
+hash = "d6c4cffa2bf36660a9cc50b7adc4712a33dc9c82644307d0e81aab8ff700cef2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/aviary.json"
+hash = "ec0490ad9a0d1df49a0e3bb5618f8cb6bf1c516a7eec0e98d1bcf0702c4690c9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/bandit_towers.json"
+hash = "288601b841fd38510ab1961a143b99e0ca401976ce55e0b2236a5fb0c9c39434"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/bandit_village.json"
+hash = "72b0c4a4db3809d90cb9d88df45f08fc63f92f23f50f1cd26773b8d783d267cb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/ceryneian_hind.json"
+hash = "613b27bb3b268be6c8b04d66a99bf6a723e9a6f04f4977c902556455d1feff4e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/coliseum.json"
+hash = "ed16c3a8e595437761f8fcefcc1c016f70d2310492a6eb2a4736b3187de312a4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/fishing_hut.json"
+hash = "91314a07b8d91e88ebba3bacebc76c7e6e41468dcf4cc1b43276034702d60d3c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/foundry.json"
+hash = "b5e075f7d20b7c215c99e6ee1a4a296fa798da62f50d2c660fdf4a8d9a5db426"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/giant_mushroom.json"
+hash = "cf101be0e60e3d9fe8959e9841949de20a1281c171cb30a0520d6bc683abe6a7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/heavenly_challenger.json"
+hash = "1a60c55fc2915f7eba1cec7d3fec10ffb5ab3ce6d9e86734ac57fe92cf41970f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/heavenly_conqueror.json"
+hash = "297046b540b22e639c389f99fa512fac45d6c0e95d2944dd726a2b64242f759f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/heavenly_rider.json"
+hash = "0152b54ef013971b3a77961b409a7b88fc812a77850584a7db01872235a92b95"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/illager_campsite.json"
+hash = "1ec3caf382813f54aa0c9f0ab9c036de908e636df9461b633b3e231786b0823f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/illager_corsair.json"
+hash = "a73ecf76aa694f2276a13e6804d83acebb03cb6169e055ffe9f62b611e1b0431"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/illager_fort.json"
+hash = "09d7b82da759784bedb8627a2aeb438bd14b2d926a00c1e3936fcfb4e68a21a5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/illager_galley.json"
+hash = "bc12f8bbc7f8f0014174807ae3480047ecb7d095d931d5bf486ad40f1a2cf6dc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/illager_windmill.json"
+hash = "a5b3dc134d7c3db698bb9f433c5f2419b75de8a792ba421fa31e7edfd88fe8ff"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/infested_temple.json"
+hash = "fab5b93cc135c26d45596f171bb7fd9e15fd80a56fff337a90d2b19577f8eca9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/jungle_tree_house.json"
+hash = "32c032294b934904e057a71b72b4f84d69a07b92b7edd3d8e0408cf8dd35d12d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/lighthouse.json"
+hash = "71082809f1091cd63db61c6b73161ed47351f9ff4beec44cd33a4df3ed28ffb4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/merchant_campsite.json"
+hash = "11666b11c98f9899c8db7d3a1b9598e082f8762760785c093dcb1b47753135a7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/mining_system.json"
+hash = "f075dd506fb7ac0767670ca15f61580ae77fd701b85e2fb50eab5c55a68368d2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/monastery.json"
+hash = "81d582bd967b662df6474e6cfde42445f3bffff6c2f99e517717a52bc1fabdd3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/mushroom_house.json"
+hash = "715991fb664abbcc75e405654a1170e133a2af1e235c6c377c7a3413f7f01e80"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/mushroom_mines.json"
+hash = "c3ed72a7e789268ef2f917dbac46baa91ae85f76261618966d5c8212680ffb0e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/mushroom_village.json"
+hash = "36fa5d7e1bbc5c8e6aac11a96a87375e55573e3a94bcac668dd2696d116558ba"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/plague_asylum.json"
+hash = "b662aa89f5b80d7ea6ba49f18905d4fe3aa20c0d05baf5e123af4c340b0c4078"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/scorched_mines.json"
+hash = "8eb330dab1ac327df3523c4c8524d99293124ca2099e56588d5390ec7b01e62b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/shiraz_palace.json"
+hash = "b2666eb227075852220da5bca006af0c0a0a8c5c71e836ec76b949380f815a1e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/small_blimp.json"
+hash = "c5f3d885fe5fe9ff0a3fe12ce5d652b5a8f3638a8575acf0e6c827a4a7b08c5a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/small_prairie_house.json"
+hash = "242261ae36b0ab41efbec95c4207600037034eaad93cae77cf57b9e809c0c327"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/thornborn_towers.json"
+hash = "e37b6a53327dfffe00db933d155bab0893d91e1f2701295feb3f0333d6f709c9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/typhon.json"
+hash = "546de016ea3f2832b71c06de8ca08264fe964c6bbf1a24549d7e0bf7077c5431"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/undead_pirate_ship.json"
+hash = "3e33fce6b91624350b1edf004a826629c80fdc0418684241cb02e28b1ab2f7b1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/wishing_well.json"
+hash = "16dec85d485c8656852f1b6f87dfa079b0332b8c45b8be6911b85c674fe30d1e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/processor_list/mushroom_village_houses.json"
+hash = "66416e83bfa82236b5c12a037664330dd74676ed8ead892844e9bcc92c27fac9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/abandoned_temple.json"
+hash = "5eb46c9bd09939ee2bc183e8561dce1cf76c061ac2f141b473a4db1f7a822a4d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/aviary.json"
+hash = "61b29be431c8405bf48b33cea11d0e43904ad5cfe56d5ff23985e3effc53d429"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/bandit_towers.json"
+hash = "4c4a09b1ca415a8025840a0e62ee9dfe67e557682938a2294f2a52b2b00722ce"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/bandit_village.json"
+hash = "a99fd961f8a7c2cd897fe05a56a282c0e9fe34f3e79f35d4e595b2e3ad14f201"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/ceryneian_hind.json"
+hash = "aa36584d5185538b28ed9bba28119274286d72dade6da60003b4493b4a67cda0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/coliseum.json"
+hash = "0c8f896ae7ad7c0c307fca695670f9978f6e8c35cfea506324b5164f6ff40c1c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/fishing_hut.json"
+hash = "e4bf0bd58bc4bd5ae24b0c8cf3825e5fa3d3c4f3e9d2c96b7ee3ae36d81d2a3a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/foundry.json"
+hash = "e85d16c2b5f5728e145aa141750511b286fd6fc28ab5397a12063192c14c8cf2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/giant_mushroom.json"
+hash = "f8586f7829ee017d2ab360c0b31fb2e5e247ff682ffcdaa8bd6f0254f6859005"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/heavenly_challenger.json"
+hash = "89a4c18bac4a96b7fe7e0d75ad6e6680d8e84e1ea4181518121912a7e519beaa"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/heavenly_conqueror.json"
+hash = "5cff002c165fb7319f739687afe612950b9bfffe1a56e8476fb087e1ca028997"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/heavenly_rider.json"
+hash = "c5e7eee71e8c84381a932e75ae25c481aaca055f924373b937d55abca29afe36"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/illager_campsite.json"
+hash = "34b1dff5257329c5d284115af286c4d4ebe1d1d818d8a61766ff40b4a5d7f706"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/illager_corsair.json"
+hash = "757e359eed234dff851f48d0dd12775882d7f6f30254ad70c080b4701d541a26"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/illager_fort.json"
+hash = "2defdfd6e44a9e135edcd77e9fe1058ca59091c0d088dbad2ab5d3b782c002b0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/illager_galley.json"
+hash = "485b04b859e8ce086b362484f54e02b3e55b22e79d0e6e0a3608ea90f91e789d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/illager_windmill.json"
+hash = "a69269ff9739a7dd4d84de1855a617825f479f99c1e4a2f0cc7afd73989b02ad"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/infested_temple.json"
+hash = "a596d560deffdc51c813a270516984eafbb4699cb41c1e2c518f889c2853c89b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/jungle_tree_house.json"
+hash = "ad0ed03a4d1ec430370e48a402472eebd7aa9cbbc6be416314e555a27ec11564"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/lighthouse.json"
+hash = "903ed36834c01d4e9ab73000a1db22d211279477d5a2d2ab1909bd1adca3dfa5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/major_structures.json"
+hash = "0403dfcc3199516aba7a380ad9d9ab2c9447061d45cc78b44f4c60448066c489"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/merchant_campsite.json"
+hash = "df548f0fa9e9359a9e53f9bd7e3b904b3d8351138441aed43e803bfb5245b0c9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/mining_system.json"
+hash = "899f6161dd92e5c123716215bcaa11f15f61ea9b907c76ce36851b1fa44647cf"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/minor_structures.json"
+hash = "4137bb7d497195e8a2d1ea9d7619476fafaf0a3a31e62e0a97825b912f0ede74"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/monastery.json"
+hash = "7fb1ebd1521f10f6713ac7e94eb7bbe298b349a284fa6efed7fa3860482d945a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/mushroom_house.json"
+hash = "97ba8460d825ebc3d4c74f218f912227eb7e947d68e483fdba525597acca0573"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/mushroom_mines.json"
+hash = "891395621aa5b93456ed5beb7cdc79a4f1da2613f98ad86bcb8b8fecffeaae2b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/mushroom_village.json"
+hash = "2d5f0257808bc1cc9309cecc57a9fbc95eae2ea8ed36b107299aebc1cf023d46"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/plague_asylum.json"
+hash = "c58aa1ac987c89a37953ee6e623336a816a05fb4a966c73649cfef43d091ca9c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/scorched_mines.json"
+hash = "950d4e039ad669275aa307ccc8cec0411154f8ae5ca464756d4c564a0af29909"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/shiraz_palace.json"
+hash = "89d220530c0d5c0bc20757f41c74d33c4569f4ecfcca03421223bec3d411ae63"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/small_blimp.json"
+hash = "86f6d3d71ee840bd00df56c24e34d7050f164e9d14b714b0db10c09e667c569a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/small_prairie_house.json"
+hash = "3c89e6c95801c7c8f8e3c8a9b470c8d0a3662869681666d1712956e312e210f7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/thornborn_towers.json"
+hash = "fc76cdcbe23398d4d4d5f744110e73fdad09753876b887cf386e967442e85629"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/typhon.json"
+hash = "8e281bf6bf83e0071e39a57ddf5b17be9065bae7d82ec6e69e4e0b2a8d1ffcf2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/undead_pirate_ship.json"
+hash = "cb33b69709df6034335882ebe842d0b0d6430653a9553e354a3b28bac6f47182"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/structure_set/wishing_well.json"
+hash = "79fafa296efd65b99d3380dfcf9b5e5ed110e1134caa5839dadbf5056f52ee01"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/aquatic/illager_corsair/illager_corsair_main.json"
+hash = "ca659eb49764b23c28ec29d2d5d656f3efbc2b35cb0ce011c5448c8189ebdaf7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/aquatic/illager_corsair/illager_corsair_spawners.json"
+hash = "3c650ca3480e6060e5545bfa1fe3f5729a81346c79b3fb10e04cdd410841fea3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/aquatic/illager_galley/illager_galley_main.json"
+hash = "11551429e31ff27e668e0cea5c0d2a72ba0274f86984616d7e17e15d9f802ffa"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/aquatic/illager_galley/illager_galley_spawners.json"
+hash = "40440af57b9f05ebdf283a65a8dcfb5909ca21407616c4681af793aae1beaf9d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/aquatic/typhon/typhon_main.json"
+hash = "1a1948a9ef0ec74f0fdf657345dbe719daae233de7efd8a67d847f73652f12a4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/aquatic/typhon/typhon_start.json"
+hash = "b368e84a3fa3df1fd7ebe79b66e01a2ec5103a768504bd7806157c607c6ab42f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/aquatic/undead_pirate_ship/undead_pirate_ship_main.json"
+hash = "b742631a4df0a69e581ec1230b81323c5559b817cbc8607dac5905367065dbd5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/aquatic/undead_pirate_ship/undead_pirate_ship_spawners.json"
+hash = "6b4f647ec02e0be0db4b854211703776862037877a12b4cdd68f878012cb4774"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/bandit/bandit_towers/bandit_towers_bridges.json"
+hash = "d5b57f04162295680ddf2099ea007d8f8d67b6414c0528e292b505df3170cfe6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/bandit/bandit_towers/bandit_towers_crossing.json"
+hash = "84127182cc2846ee69b5de10315ed265a4a4dab34aaa2cb7e62de6673d169498"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/bandit/bandit_towers/bandit_towers_main.json"
+hash = "7d66e022e431046ccffe42242b02dc3451b75f57454e07b68b95930c7f61886d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/bandit/bandit_towers/bandit_towers_rooms.json"
+hash = "869cbedbc3ab6ec3732ab365b64efbc9cbf0ab9fdaf9cadc3ce6fc24270bdab6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/bandit/bandit_towers/bandit_towers_spawners.json"
+hash = "744ad39ef6559815f1a24c57894171e9263cb591c2e30a5ceb4a35090b2300ea"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/bandit/bandit_towers/bandit_towers_start.json"
+hash = "6cb47845dda898e4b9cd370240375e4ba8ea6dfb3757964653778ab1c83cc663"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/bandit/bandit_towers/bandit_towers_terminators.json"
+hash = "d55b3b6e4ea930e7464b82281bf72e150447fe431f6117db94c8ea030357b597"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/bandit/bandit_village/bandit_village_houses.json"
+hash = "c89ff674b33edd82f17b329cab999bc3b1361656cfd9e2a402e1ba8704625eb0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/bandit/bandit_village/bandit_village_spawners.json"
+hash = "b814850e8dd678c0631c0a518b86aa5f4ef7db49636b6f1b40547a6dadde6d3e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/bandit/bandit_village/bandit_village_start.json"
+hash = "a5b07f697c92e1db810caf20d6bd7eddc37cfc23ceb20a21440d95d7a0285a05"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/bandit/bandit_village/bandit_village_streets.json"
+hash = "26097b91b72ab555c1e63ed0bb4722380d09fbaa2c0713d04ddf154b8ada8ce2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/campsites/illager_campsite/enemies.json"
+hash = "fd7fd24a6128f1eb583e99a7212002871b300230c7005b9136d7fda805fd023b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/campsites/illager_campsite/illager_campsite_deco.json"
+hash = "94469d6037057ccf16bed0a1b615dbf575aeab3c1a4408349856c9c31cf613fd"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/campsites/illager_campsite/illager_campsite_start.json"
+hash = "5b634c0851f4d42a6a47fa603360e5ed0448e44fdf4570cbe914d39d6e02cf30"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/campsites/illager_campsite/illager_campsite_streets.json"
+hash = "b4c695e5f3aa249565a43d8deedf1602bb2a7e7172aa777eceaca7b045809b79"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/campsites/illager_campsite/illager_campsite_tents.json"
+hash = "e7e63309999200da976fc199850dc8d8b911e9327016e550a68bcbce0e0b5744"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/campsites/merchant_campsite/merchant_campsite_start.json"
+hash = "e5d6e1850aacbecfd5aad2fc9ac305579e1ca280660d7078a7cccff295049be4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/campsites/merchant_campsite/merchant_campsite_streets.json"
+hash = "ba85e41461a1e2a18cc991af3c576ddfecadcbee4cd018762749b27b58ee77d5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/campsites/merchant_campsite/merchant_campsite_tents.json"
+hash = "8985593eefeac9c3db8eef557db6b4cbd456f26fe327f261dc114b67a754eb0f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/campsites/merchant_campsite/villagers.json"
+hash = "16d534968c8c95c4facfc8eccdf068f000e4d19e6bc4033389829836bf210134"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/desertic/ceryneian_hind/ceryneian_hind_main.json"
+hash = "f26c20e4d23c32eac60b9da21ac0990f7be47140565538f51b560366e102fefc"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/desertic/ceryneian_hind/ceryneian_hind_start.json"
+hash = "e11bc4ec28cad69984c7d9dd843f9a7783905e70bbe3918e77cf19ab57c3f8e1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/desertic/shiraz_palace/shiraz_palace_main.json"
+hash = "876cc0c36765cfcc04a69db6b80bc1c2c1990b1d627a05d8b76904c32086ff4c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/desertic/shiraz_palace/shiraz_palace_spawners.json"
+hash = "ac3f564118fdde6e23f7c809724a21aea2aa9ddccf41ef575b073b534d7d38cf"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/desertic/shiraz_palace/shiraz_palace_start.json"
+hash = "66a7d8e3413fe5102777a17785241b9673dabdc37457eee6d2a639e9253c69e3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/eerie/aviary/aviary_main.json"
+hash = "e061d1bbef130206ba8b82bdcba10f37b55d8e0697221941537f3d37e837ca21"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/eerie/aviary/aviary_spawners.json"
+hash = "e8b548a81cfeb8d54df29bf0fa10d2b50663b530183a0822c57ba050b985fa95"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/eerie/aviary/aviary_start.json"
+hash = "1b70f97a27bacdc1ac1f027a09b149cb8bdf453994e304df2053307e26e7158c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/eerie/heavenly_challenger/heavenly_challenger_main.json"
+hash = "0bae02073f634c39be68c7ae5de811f48bd96af1860f15da595409f479f65587"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/eerie/heavenly_challenger/heavenly_challenger_spawners.json"
+hash = "c5b66483f3488d6330e40fddaf99b5372eca65c0e012853ff119d0016a7e0e35"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/eerie/heavenly_challenger/heavenly_challenger_start.json"
+hash = "63c617c0e7315dd646f0b186bc9c263d71bf5157ce6aa7e3c79b8933244f9134"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/eerie/heavenly_conqueror/heavenly_conqueror_main.json"
+hash = "b8c762978acc63f2ddcfa6cdf117c076b8a5f83c997b43626c3eb3cb4e879c66"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/eerie/heavenly_conqueror/heavenly_conqueror_spawners.json"
+hash = "02d431a316e6ffaa16bd0882a0f2f4ff21b4940ca9adfa1166b09128503ae3cb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/eerie/heavenly_rider/heavenly_rider_main.json"
+hash = "03431f06b78be08ef040a2f4dd5ccfcf30e1fd706afe7cdbfe154be253fd85a7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/eerie/heavenly_rider/heavenly_rider_spawners.json"
+hash = "ff2c1496c0e3e7ba8c3b4868c2213029f24b78f1e7aa310321983c0840fd6eb2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/eerie/heavenly_rider/heavenly_rider_top.json"
+hash = "b50c98b411cb6db4d26a26e2c9e48b18569b7d6f1a1e6f403216a5e43343788a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/enigmatic/lighthouse/lighthouse_start.json"
+hash = "97d4ed3fb4078a0f0c5e947dfcb5c862a295b15cb9074ab8020e9e8cd35b4c6c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/enigmatic/lighthouse/lighthouse_tower.json"
+hash = "38b36ee8d7f14cf51a00fb7056fb204248cb08a3d7ec5d54eab0427e7a84df7c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/enigmatic/small_blimp/small_blimp_main.json"
+hash = "eb8ace0b88897497dbbafd1965ec589d229884fb7182515fab5ab723c084fbb1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/enigmatic/small_blimp/small_blimp_spawners.json"
+hash = "4021e80a043f9ab2ac5221778670355a2cf18e99f0eef373eebac54793368228"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/enigmatic/small_blimp/small_blimp_start.json"
+hash = "5f24db9131bc98a0db39043df68f9a18af5df9d76d5b45f08daba7fef6a0e7ef"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/abandoned_temple/abandoned_temple_deco.json"
+hash = "0fe2c2373c64be0c45331770ab79d107d60a6817de555c9bc5b834d304c35a65"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/abandoned_temple/abandoned_temple_roads.json"
+hash = "2ecc0c8e73f6bb315fec9f799bfd2c4580e58fe3fc123270c089790a267bdefd"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/abandoned_temple/abandoned_temple_start.json"
+hash = "c4e852b99eea47f248d774063b6711dfa708a398480550b3504929dcb86f0a7c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/abandoned_temple/enemies.json"
+hash = "59c719d9a2c3ae75bb2c6df0acb9d3715da7ae76fb103650300dc962550c22a1"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/illager_castle/illager_castle_corridor.json"
+hash = "78f836d11d0f023adef4b4d2b1b1d828b742e63bd0f42c744620886c14f820a3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/illager_castle/illager_castle_start.json"
+hash = "40a2841e2daac19f7e43010f90874c6ba2841dd0bf11c7e67520d0173acafd69"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/illager_castle/illager_castle_tower.json"
+hash = "683135318342ba651c6b28f07b9ca38c6d787a5f077bc9f42d3b58d1205d334e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/illager_fort/illager_fort_main.json"
+hash = "4cd5d6e03cf377bce772bb236b16af4b1071248122a70589db08c36f4d1b4899"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/illager_fort/illager_fort_rooms.json"
+hash = "82ec2b1a92162025ee66395bb9ba111cc16ae2ecde5856c3ddb8e02d90dbdb97"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/illager_fort/illager_fort_spawners.json"
+hash = "ddf8d25563b50f2caf4477cd6158e7cdfb50c9bdcc5e6f49829034527a1b96b7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/illager_fort/illager_fort_top.json"
+hash = "7b3fb8165ac22e2c431d85beaa75d38d585b4bb07ff087207202b2ce106d6296"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/illager_hall/illager_hall_bridges.json"
+hash = "d7ef80430e02af0078b853f36d967ef0ba0c36a47bcc7a30055a2bf3081b2762"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/illager_hall/illager_hall_start.json"
+hash = "95f104dfcc33fa46d8992edc36333081faefca2b30f89a7138b4d99f50c9a61e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/illager_hall/illager_hall_tower_parts.json"
+hash = "d4480e33a328b23bd56a7ab789547789dec50b4a29a212f7c6eca8e47ae08a98"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/illager_hall/illager_hall_towers.json"
+hash = "1f100f70c5af6803d12975d3d107eb9e0500f0bfc16422eee60957808dcc182d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/monastery/monastery_bridges.json"
+hash = "9aba070d74ba09a4dcc0e6c6b7f6d431a8b6961f227170b7ccc507fe5b704a14"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/monastery/monastery_bridges_deco.json"
+hash = "6dd3f55f3d273f5a1dc4f8c9bd363da650b94ecd9ca3636102c9ee27b1b491e7"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/monastery/monastery_corridors.json"
+hash = "7432ada327ba4310776237c0c5b0e296fb87472da0215529d2d98fc2f2eb580b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/monastery/monastery_corridors_deco.json"
+hash = "882e9ad4d68b1bc5a5d57cf5c2f36ab60297e2648b270bf55981ccc613a8d5aa"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/monastery/monastery_rooms.json"
+hash = "89799f5e2df7f7c78d8ce819bcab442159acf05741ddc77cde25d1ea4be14fb6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/monastery/monastery_start.json"
+hash = "676f00fb0dcc6bac84b2d38ec84cf884cd460af71c5cc8a306faed45a3729a13"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/monastery/monastery_top.json"
+hash = "bae4e92f7835cbe2b5078f5ab06ad6d3f4f99748de6c85b69560f544e3ff6c05"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/monastery/villagers.json"
+hash = "e64d47e44cbb167b8537a65a6b3e5c336776bcdf8f4fb2090d73c488d2ec0724"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/thornborn_towers/thornborn_towers_hanging.json"
+hash = "eedb353bd9eb8aa2b645d7ab32802ba38d5cd638353490fe59ebc7b37b185fe9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/thornborn_towers/thornborn_towers_main.json"
+hash = "7d2eed4a33b9620bd2e1dba8eaf0101675c06650fc4c37fdd24b75e2c36f75a9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/thornborn_towers/thornborn_towers_rooms.json"
+hash = "2613059c3f8249de337ceeff92c16f13317f876d56ac083d707c81d5e6d1488a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/thornborn_towers/thornborn_towers_spawners.json"
+hash = "b635e4b47f62c740d4608dce2623835bb9e00d1deb9324b21d0470f61e0896e0"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/thornborn_towers/thornborn_towers_start.json"
+hash = "96229ed50d3556d758aaf7c9222d9f29559b4d078e0b104bbcd4298e06ddb3bb"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fortified/thornborn_towers/thornborn_towers_terminators.json"
+hash = "4131bf83aa195674590bc99749cc5635287efc68125b9894c2c71f1edfdbaf06"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/giant_mushroom/giant_mushroom_main.json"
+hash = "bbb405ee64525b183cf2e1f95148571e345a814b7fd4b8f1372d9fa0874f5c6f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/giant_mushroom/giant_mushroom_spawners.json"
+hash = "931cc0b35d8f7ac65f1a2c6e397200b4717b51e3366b29fa00024ac6f2bc26d6"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/giant_mushroom/giant_mushroom_start.json"
+hash = "20c110da020995aa8306d50d93eb4369a432f5bddbcb5aaf8a70e8367da2996f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/mushroom_house/mushroom_house_main.json"
+hash = "8ff4ecb69e2d9feeede083fc5e42a2689e52e7fc34554243d10a9a75069587a4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/mushroom_house/mushroom_house_spawners.json"
+hash = "f0fb5592accaf7b50ab37b3c178f5d78b645e180f07d68bd0cde5520c1805fbe"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/mushroom_house/mushroom_house_start.json"
+hash = "b7058d99c46d6a7cde59f488854f044c452dfb067332f7286fb1f1f16e4fb0d3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/mushroom_mines/mushroom_mines_main.json"
+hash = "49157e96581e0e077bc18dea26d2d7d6b0859f23f33e41ef1cf06e0e75ff8422"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/mushroom_mines/mushroom_mines_spawners.json"
+hash = "67e30524acd22dde16271bb3a368ddd387fb4d58e5f1646ade00cd96a812adac"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/mushroom_mines/mushroom_mines_top.json"
+hash = "d099510f9fc867981e0eb59dd12157514e993659cdab23a9cfd3d1f94e5b573c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/mushroom_village/mushroom_village_houses.json"
+hash = "2ccc3072524dc9898223315daa16974237441ddfc0f0c1c6905c85f464c2809f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/mushroom_village/mushroom_village_start.json"
+hash = "fa5bdc54ebfd11e632b7ccd4d1d938593ff7df9abbac8b7ad8005341e40b4a01"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/mushroom_village_old/mushroom_village_houses.json"
+hash = "225730aed7890bcccaef0e1b0f11be0037a85528286cea153d4e01130d040f09"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/mushroom_village_old/mushroom_village_spawners.json"
+hash = "941a82bdcb021b903e03dea28d3b680856200545086462f92dcc77bcd10ba54e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/fungi/mushroom_village_old/mushroom_village_streets.json"
+hash = "15af7f3922ad9c3236164512a5c6a57410bc38941f233d8efe3821196da89678"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/infested_temple/infested_temple_base.json"
+hash = "22cecc6149381dfd05f39cb6f071cff1316f8f9fed4786fb5a3bfc4b99178b1f"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/infested_temple/infested_temple_inner.json"
+hash = "1573360684c64c399d8a6dae9f571124128857e5edc8fc29457ef46a65c9b000"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/infested_temple/infested_temple_layout.json"
+hash = "ea2c213603e5aa4efc4fbbcce3e6784e4ee25fd34c96c105b5dfae105b05470c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/infested_temple/infested_temple_levels.json"
+hash = "f66b6142e160bbfebcca4bbf763828369f3fdee4c2ac6bf6e8fb7e1b26c67556"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/infested_temple/infested_temple_main.json"
+hash = "869eba1c17d09372454e434cc342cc24900d8d7ffaef78829d5d1897e20ba29b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/infested_temple/infested_temple_rooms.json"
+hash = "a9a036ff7e8f268fc7c0dde6bd6ae7cadd241b135702055f1ebe0df787880088"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/infested_temple/infested_temple_spawners.json"
+hash = "a92a8a3c2f29ca3f89fb9a8cb8c195ec1b3bfbd3df7cf08f703c432805a405ef"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/infested_temple/infested_temple_start.json"
+hash = "2c8d269bf175967fe47ecdf983dace630b4300e48a71cc4004858b42ffd5eb5b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/infested_temple/infested_temple_top.json"
+hash = "85db4ffa0077a2ab67c0450ac0e81306f7aa0622dc89270bdfd7ec49a5d30373"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/plague_asylum/plague_asylum_corridors.json"
+hash = "ae751bd68dd8be34ccdacd4cc6712400a616f8443b687805d60e72b870235edd"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/plague_asylum/plague_asylum_deco.json"
+hash = "aff7bbb6287fc976c03ff704397663d3084a4a63639767e63db32953585fe2d9"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/plague_asylum/plague_asylum_passages.json"
+hash = "1cc0d5ac875d78654d2fe0845fec429c389294347c1cb00057bbe3e3e485bcb4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/plague_asylum/plague_asylum_rooms.json"
+hash = "427922fa12b7dd0ff5f9176f6e03ea08a3a61c666dc7ae47dac7b58ed1a7f922"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/plague_asylum/plague_asylum_spawners.json"
+hash = "a9288b4e831b7c9ebf05886bf3f926a14b64716c5d13fbb386e939f5cfc5a40b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/haunted/plague_asylum/plague_asylum_start.json"
+hash = "b4ba950c70bb3d4e862eb9e6c00e7197f2b6085d3936e37cab818184dedd7c6c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/jungle/jungle_tree_house/jungle_tree_house_main.json"
+hash = "64b6853c2e3f8c7a5d4fcf97ce3416e0216b39107788f829dc6aa237586908c5"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/jungle/jungle_tree_house/jungle_tree_house_spawners.json"
+hash = "81afac51ef63eee7233576f62d4ac7201fa78483e146ee52e31f237476787ffa"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/jungle/jungle_tree_house/jungle_tree_house_start.json"
+hash = "3f78559e251354dca860b3dd7fb12031b5731e2f928838be2d87df9cfe116bf2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/prairie/coliseum/coliseum_main.json"
+hash = "0cb91cd46da4118ee430899f2f8a6dc5cb2478119588cf4bdecdcf488bd5408d"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/prairie/coliseum/coliseum_spawners.json"
+hash = "daf17c9dcc397762f99d9e8b68370b9157bfef78a32baf681a454c93b171f534"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/prairie/fishing_hut/fishing_hut_main.json"
+hash = "58a951ccd1760ad461c11be1c24db88bdbe1b286ea39d9267373e97c53e6ed19"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/prairie/fishing_hut/fishing_hut_spawners.json"
+hash = "6bf5969eab680d1d931ed9f1fcef61f1a28e0bae4032f6c84618264f1ec4d01a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/prairie/illager_windmill/illager_windmill_fields.json"
+hash = "b4e698337ea56847f87a990c8e43647de963a47bdfeb75d9a6e6ee2e60068a3c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/prairie/illager_windmill/illager_windmill_main.json"
+hash = "aca4fa07b8d5cee51728746d092842f91740abc4df84d3bd301115cb3aa2d2ab"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/prairie/illager_windmill/illager_windmill_spawners.json"
+hash = "60e99147927f74f13a74c9a7596f8fd15b6b8ea69a8d9579435b087e34bd8cd4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/prairie/illager_windmill/illager_windmill_start.json"
+hash = "5f757305442994306a7bd4372465df43d20d6cfaf9527c4f0c17fa0f9d467977"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/prairie/small_prairie_house/small_prairie_house_main.json"
+hash = "0ddc0a1c78523811f1ea879ce19a579a48829265fa286d81618ff3b4c5915a01"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/prairie/small_prairie_house/small_prairie_house_start.json"
+hash = "ab9dfad0a0467852572f1a04e1d432f30fc2ddce2d23cb1965a16a843516fa2c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/prairie/wishing_well/wishing_well_effects.json"
+hash = "5699d2dbe497d31dd63bea7729a93c036e024c1ad967e222bf22e03d134c6de2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/prairie/wishing_well/wishing_well_main.json"
+hash = "f383f67ab879d0b899f718608867523178b908b6e20b24185a4a17a79c9cac7e"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/prairie/wishing_well/wishing_well_main_no_effects.json"
+hash = "a4404828962fde856acdaa57c6fbb16528fcc5ed6df50bb756ab060f2adf0a58"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/foundry/foundry_corridor_deco.json"
+hash = "b5849da3987d04bf0fa525ddb95d507adf2d8ef7857b3e04d92ed38bbfb7c943"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/foundry/foundry_corridor_terminators.json"
+hash = "4927734c008b15db3457aec8de3d5b1c99fd736e2a4030f0e06e1d4deb0f4c75"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/foundry/foundry_corridors.json"
+hash = "14ede42c2adcf344aca5e877d45c6965f8c1df9c2c49c08fc7b0b171467e78f2"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/foundry/foundry_passage_terminators.json"
+hash = "5442212499f1e305c545651c909c4b68492473d30f13bc1a86306115512afb0a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/foundry/foundry_passages.json"
+hash = "a93e9ec2a7fbfe4025b9684e6913ff5f7017f3d29c1c3dd3028268048d93ab6b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/foundry/foundry_spawners.json"
+hash = "3e3bcb6f4d964aa35ab5f71ee20d762a84f8fe1b46e5f47ec8a72c80e21f9168"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/foundry/foundry_start.json"
+hash = "4cba31efea1471c10d393c0448bec4552dd2f1279da0f9d9ff805bcfca988072"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/mining_system/mining_system_main.json"
+hash = "ae11235d85223625936bd53a7a018efa3f4b7104f77c4cf1958762378bf0ad3b"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/mining_system/mining_system_spawners.json"
+hash = "2a59c98296d9fa67d7b09ec9343e73f496afee192a48cb2dbc14bfb62aaebbcd"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/scorched_mines/scorched_mines_corridors.json"
+hash = "fcb5a438c845a125d582939f054b193a93f03907f2288ce40ebbb2ab88340c6c"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/scorched_mines/scorched_mines_hub.json"
+hash = "51ed2403296bfb9c0a9b5f7dfe3dafc98065cffc93733c2ca0b2d87524ecc74a"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/scorched_mines/scorched_mines_spawners.json"
+hash = "8885ab214873b247b7b17ac3afb0902ffafa7ae759a836fa2fbe9bb666669aa4"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/scorched_mines/scorched_mines_start.json"
+hash = "258ffbe399d8b355ac1fef7614b27dd80ddb1a27794c146852ed8c766fe17986"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/scorched_mines/scorched_mines_terminators.json"
+hash = "8a78e0375e53a9708851f75e05c48ce466a5f65be99ab40c4f250100d50934e3"
+
+[[files]]
+file = "kubejs/data/dungeons_arise/worldgen/template_pool/underworld/scorched_mines/scorched_mines_well.json"
+hash = "16228ab1358c78734d8d778ab53a814a52fa52a0d0a82e7617337905a5ee4d35"
+
+[[files]]
 file = "kubejs/data/farmersdelight/structures/villages/badlands/houses/compost_pile_1.nbt"
 hash = "6b7d72fdb5f85ae9e18faf4f3f561af0995dc14397a24700f8a667d9029c4b02"
 
