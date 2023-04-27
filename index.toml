@@ -61,6 +61,10 @@ file = "defaultconfigs/immersiveengineering-server.toml"
 hash = "e95335c7cd315114e9facd91d9a2764930a575394abf3092b54d9096c692163a"
 
 [[files]]
+file = "kubejs/client_scripts/rei.js"
+hash = "c5ead6a97820cad92051608932c86cd3a4ae8a089c6fcf7c940c78622defc0d5"
+
+[[files]]
 file = "kubejs/data/betterdungeons/loot_tables/small_dungeon/chests/end_loot_piles.json"
 hash = "5757d475e84cf3c75f4749a283ba451774834b2e375412c2a5acd4d46a12202d"
 
@@ -6139,6 +6143,10 @@ hash = "4166d775557bea6c257f63ae166e50754efcae06b974f5ec0e082f81b2b22ba8"
 [[files]]
 file = "kubejs/data/repurposed_structures/worldgen/template_pool/witch_huts/taiga_start_pool.json"
 hash = "61b6471a03d5f9d9e4c3ce2b3581ff37470703a5d7ce2d1dd4e16e5cb479e617"
+
+[[files]]
+file = "kubejs/server_scripts/balance.js"
+hash = "708691ca60b48179e6da406c15b8217598684c46497684c317a8850e6a64071f"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
