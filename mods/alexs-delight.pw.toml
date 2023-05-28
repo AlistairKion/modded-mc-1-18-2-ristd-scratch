@@ -1,0 +1,8 @@
+name = "Alexs Delight"
+filename = "alexsdelight-1.18.2-1.3.3.jar"
+side = "both"
+
+[download]
+url = "http://mc.risingthunder.info/alexsdelight-1.18.2-1.3.3.jar"
+hash-format = "sha256"
+hash = "9656AC014E821F4EC403BE92A3FBBDC8D26DEBADB34F5A388659D89EFB0FACE3"

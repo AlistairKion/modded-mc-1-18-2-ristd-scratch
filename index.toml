@@ -6782,12 +6782,17 @@ hash = "708691ca60b48179e6da406c15b8217598684c46497684c317a8850e6a64071f"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "fa9f5dba097def8c9947af94b89b07e8386ee501ccbf20e700bb6c8b24657bba"
+hash = "730d0dd9cab27ef2fa859b938fbe6796d2fe380bce0fccec8028d67ac701f48a"
 metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
+metafile = true
+
+[[files]]
+file = "mods/alexs-delight.pw.toml"
+hash = "2fa21ccf8ef2037d20f9f1b8a5dd46223112eaa62643727b5941c32c9283aec4"
 metafile = true
 
 [[files]]
@@ -7448,6 +7453,11 @@ metafile = true
 [[files]]
 file = "mods/rsinfinitybooster.pw.toml"
 hash = "a76c956d56c9d423875d63e1d0aaca00a0da4854edd28f64d96ddf6bf54fafdd"
+metafile = true
+
+[[files]]
+file = "mods/scribe-machine.pw.toml"
+hash = "2dd4c748ad930440360b4cf3088a472ee98d23ac4d415451b73181886af2c00d"
 metafile = true
 
 [[files]]

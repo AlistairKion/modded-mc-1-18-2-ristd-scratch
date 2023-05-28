@@ -1,0 +1,8 @@
+name = "Scribe Machine"
+filename = "ScribeMachine-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "http://mc.risingthunder.info/ScribeMachine-1.18.2-1.0.0.jar"
+hash-format = "sha256"
+hash = "B94705806B7F14361202FCB179A8EDE71E7E09DF99FD1D1170286A07EA9552FD"
