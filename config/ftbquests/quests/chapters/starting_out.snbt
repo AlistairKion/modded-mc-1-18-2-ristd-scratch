@@ -1,0 +1,306 @@
+{
+	id: "5764523BCE20F718"
+	group: "0FAB4A14717CC291"
+	order_index: 0
+	filename: "starting_out"
+	title: "Starting Out"
+	subtitle: ["Oh no, my knowledge. It's Broken."]
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Look at what I made!"
+			x: 1.5d
+			y: 0.0d
+			subtitle: "A better table"
+			description: ["This neat little crafting tab allows on the go crafting."]
+			size: 0.75d
+			id: "54626924CE9BD31F"
+			tasks: [{
+				id: "1B1562FE78356B61"
+				type: "item"
+				item: "vanillatweaks:crafting_pad"
+			}]
+			rewards: [{
+				id: "00976C9B60B7BDD6"
+				type: "item"
+				item: "minecraft:bread"
+				count: 5
+			}]
+		}
+		{
+			title: "A larger Storage"
+			x: 3.0d
+			y: 0.0d
+			subtitle: "Let me tell how much junk this baby can fit"
+			description: [
+				"These chests are bigger then normal chests and are worth using for various automatic storages/processing."
+				""
+				"You can also stack them vertically!"
+			]
+			hide: true
+			size: 0.75d
+			id: "05F8D5D9AA6FF76D"
+			tasks: [
+				{
+					id: "46BD9E3C1CBE3760"
+					type: "item"
+					item: {
+						id: "sophisticatedstorage:iron_chest"
+						Count: 1b
+						tag: { }
+					}
+					only_from_crafting: true
+					match_nbt: false
+				}
+				{
+					id: "27D01E65B5F155B0"
+					type: "item"
+					item: {
+						id: "sophisticatedstorage:iron_barrel"
+						Count: 1b
+						tag: { }
+					}
+					match_nbt: false
+				}
+			]
+			rewards: [{
+				id: "73AF2F1B49BACDCA"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+		{
+			title: "How to Wall Jump"
+			x: -2.25d
+			y: -0.75d
+			subtitle: "Wall Jumping Basics"
+			description: [
+				"Did you know that you can wall jump?"
+				"To wall jump, jump towards a wall and hold Lshift (or the keybind you chose), this allows you to cling to the wall."
+				"While still clinging to the wall, hold forward and release the binding."
+			]
+			dependencies: ["24CA47E19CBB1738"]
+			hide: true
+			dependency_requirement: "one_completed"
+			size: 0.5d
+			optional: true
+			id: "5ADDF4C03B8220EF"
+			tasks: [{
+				id: "731DA39ACF9DDC7E"
+				type: "checkmark"
+				title: "I'm spider Man"
+			}]
+			rewards: [{
+				id: "69B8B7B7C4EB4F54"
+				type: "xp"
+				team_reward: false
+				xp: 10
+			}]
+		}
+		{
+			title: "Welcome to Another Quality Modpack 3"
+			x: -1.5d
+			y: 0.0d
+			subtitle: "Read description <3"
+			description: ["This chapter will go over some of the core mods of the pack and explain how to do certain things. Make sure you complete these quests to unlock other areas like Storage Drawers"]
+			id: "24CA47E19CBB1738"
+			tasks: [{
+				id: "4C95DABF01BFAFD9"
+				type: "dimension"
+				dimension: "minecraft:overworld"
+			}]
+		}
+		{
+			title: "Too Many Mobs are Spawning"
+			x: -1.5d
+			y: 1.0d
+			subtitle: "How to stop mob spawning in a area"
+			description: ["Torchmaster makes some great items to help stop mobs and even passive mobs from spawning. Craft this guy here, place it down, and you're all set!"]
+			dependencies: ["24CA47E19CBB1738"]
+			size: 0.5d
+			id: "53746435C74C767D"
+			tasks: [{
+				id: "7F062C68306017B1"
+				type: "item"
+				item: "torchmaster:megatorch"
+			}]
+			rewards: [{
+				id: "18CFD64814F4F588"
+				type: "xp"
+				team_reward: false
+				xp: 50
+			}]
+		}
+		{
+			x: -2.5d
+			y: 0.0d
+			subtitle: "How to get free loot from others hard work"
+			description: [
+				"Want to create a party and complete quests together?"
+				""
+				"Accept the reward and we will run the command for you :) or hover over reward to see the actual command"
+				"/ftbteams party create"
+				""
+				"You can invite others using /ftbteams party (use auto complete here)"
+			]
+			dependencies: ["24CA47E19CBB1738"]
+			size: 0.5d
+			id: "7EF1B078A616A30A"
+			tasks: [{
+				id: "1909BA37A8AD287F"
+				type: "checkmark"
+				title: "Create a Party"
+			}]
+			rewards: [{
+				id: "2B6869175B5BCE93"
+				type: "command"
+				command: "/ftbteams party create"
+				player_command: true
+			}]
+		}
+		{
+			x: 0.0d
+			y: -5.0d
+			subtitle: "I will be adding more quests over time, mainly from a huge quest update all at once."
+			size: 2.0d
+			id: "6515F80F256CBD9E"
+			tasks: [{
+				id: "5766FCA1626E6902"
+				type: "custom"
+				title: "Quests are WIP"
+			}]
+		}
+		{
+			title: "How to Sort"
+			x: -0.5d
+			y: 0.0d
+			subtitle: "Click middle mouse button in a empty slot"
+			dependencies: ["24CA47E19CBB1738"]
+			size: 0.5d
+			id: "0CFEA9008075DE46"
+			tasks: [{
+				id: "341DBE0CF31101CF"
+				type: "checkmark"
+				title: "Sort Items"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 0.0d
+			subtitle: "The first tier of the only backpack type youll need. Add modular upgrades!"
+			description: [
+				""
+				"Make sure you upgrade your backup and craft more components!"
+			]
+			size: 0.75d
+			id: "7DF697E04A754E68"
+			tasks: [{
+				id: "0D729F130ABA4B8A"
+				type: "item"
+				item: "sophisticatedbackpacks:backpack"
+			}]
+			rewards: [
+				{
+					id: "3270D431E00EB2F4"
+					type: "random"
+					table_id: 6433163600064979277L
+				}
+				{
+					id: "42EF05A5AAC045D8"
+					type: "item"
+					item: {
+						id: "sophisticatedbackpacks:crafting_upgrade"
+						Count: 1b
+						ForgeCaps: {
+							"polymorph:stack_recipe_data": { }
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -0.75d
+			y: -0.75d
+			subtitle: "press \"a + c\" to open Inventory Plus config menu"
+			description: ["Great config options are here like auto fill, auto swap low durability, sorting rules, etc."]
+			dependencies: ["24CA47E19CBB1738"]
+			size: 0.5d
+			id: "5499F06D726F23E2"
+			tasks: [{
+				id: "0E5014E68927EC5B"
+				type: "checkmark"
+				title: "Inventory Profile Plus Menu"
+			}]
+		}
+		{
+			title: "Easy Villager Automation"
+			x: 1.5d
+			y: -1.5d
+			subtitle: "Auto villager farm :)"
+			description: ["Capture a villager and place it in your Easy Villager block. Note: There are different types of Easy Villager Blocks"]
+			size: 0.75d
+			id: "4B5D29232A14E26C"
+			tasks: [{
+				id: "3C9D62305B08ADA4"
+				type: "item"
+				item: "easy_villagers:trader"
+			}]
+			rewards: [{
+				id: "2079ACD41BFBBFC7"
+				type: "item"
+				item: "minecraft:egg"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.5d
+			subtitle: "Place this bad boy down to get a free house! On Servers, be kind, dont generate by spawn."
+			description: ["You've done it. You have played AQM3 for 5+ Minutes and earned a starter house. Prefab features tons of pre-built structures that you can use, but for the other prefab's youll need to upgrade your PMMO attributes like building. "]
+			id: "20278054010EE5B1"
+			tasks: [{
+				id: "33298B38990CBE5E"
+				type: "custom"
+				title: "You've won a Free Starting House"
+				icon: "prefab:item_start_house"
+			}]
+			rewards: [{
+				id: "22C41A39992D1F85"
+				type: "item"
+				item: "prefab:item_start_house"
+			}]
+		}
+		{
+			title: "Dynamic Trees Note - Important Please Read!"
+			icon: {
+				id: "minecraft:stone_axe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 1.0d
+			y: -3.5d
+			subtitle: "Tree chopping mods are not compat with Dynamic Trees. Only Tree Chop (Sneak + Click) on regular logs."
+			id: "69CE4EDC9A14C592"
+			tasks: [
+				{
+					id: "26F678D99E0F3C27"
+					type: "checkmark"
+					title: "I understand"
+				}
+				{
+					id: "0ECF5553CEC20CE8"
+					type: "custom"
+					title: "You cannot use Sneak + Click on Dynamic Trees"
+				}
+			]
+			rewards: [{
+				id: "7AC27194BFA329BD"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+		}
+	]
+	quest_links: [ ]
+}
