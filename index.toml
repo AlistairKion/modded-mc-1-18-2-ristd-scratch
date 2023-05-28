@@ -5425,6 +5425,638 @@ file = "kubejs/data/hexerei/structures/taiga/witch_hut7.nbt"
 hash = "907f7656f74bab43b3bfbf7c8c56836669157f188782a473779b28cba3299df2"
 
 [[files]]
+file = "kubejs/data/idas/advancements/ancient_mines.json"
+hash = "9a2e93a1d1ddf29163e1d12aec47214227bf67cf8322a510d53557cef5f48af4"
+
+[[files]]
+file = "kubejs/data/idas/advancements/bearclaw_inn.json"
+hash = "28b2fd2ac8afc1bd0edf602bad66bf68de1ee1ffc430dc8b8ea75ed791bb0759"
+
+[[files]]
+file = "kubejs/data/idas/advancements/castle.json"
+hash = "3194b8f5256bcc40750d11467a81c97d7ab3425fb3a7b0f254541cc044523626"
+
+[[files]]
+file = "kubejs/data/idas/advancements/enchantingtower.json"
+hash = "26390ab64d0c12b8863c91722355ad6b3e58a529cab44d8ddee9dff480533f1f"
+
+[[files]]
+file = "kubejs/data/idas/advancements/hunters_cabin.json"
+hash = "b61c22dcb32504371e9348b3c34a1b7daabffb07a6dbb2f7cc401882f421dee1"
+
+[[files]]
+file = "kubejs/data/idas/advancements/idas_all.json"
+hash = "8402396cd8aa45eadb57f40e08b8da242fb1abb64cf15909c62b849b79f59f5c"
+
+[[files]]
+file = "kubejs/data/idas/advancements/idas_root.json"
+hash = "dd4f81b38ee0f511db4d99c044b51fd251e919462ae505f1b707357995e20023"
+
+[[files]]
+file = "kubejs/data/idas/advancements/labyrinth.json"
+hash = "e54b7b114c86ef86454192aeb4e32d89e643772a44384e773f7826790f5de72c"
+
+[[files]]
+file = "kubejs/data/idas/advancements/pillager_fortress.json"
+hash = "b9170c1e3eba328df873494bd060322935df8a144cc8bc745ed440b12267a190"
+
+[[files]]
+file = "kubejs/data/idas/advancements/sunken_ship.json"
+hash = "1fe5687cbff2c5d3c92ad1f360865a93c4d19b63c0702f0e1049cd82cdf7b23a"
+
+[[files]]
+file = "kubejs/data/idas/advancements/wizardtower.json"
+hash = "ca0d2144a68f3d9da8e000ccd62bdfae95652ba42b79e480a322ad31322be574"
+
+[[files]]
+file = "kubejs/data/idas/idas_structure_map_trades/idas_maps.json"
+hash = "0a7d57c91b0668d92c738ac2d5de67ecac1332d42629f7758d0280b5e73c3ca9"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/bearclaw_inn/bearclaw_inn_bedroom.json"
+hash = "4d76d6e1ea61d252a8766d01a2eb5fed15b574b9bd0aa45122d7983c5a3566cc"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/bearclaw_inn/bearclaw_inn_food.json"
+hash = "840364612e0897abdc25813dd6fbfddac4592ed2df6775204d6926958bba9789"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/bophauntedhouse.json"
+hash = "7d528f402b2ef0da81423763d36815075e664f70d0800ee98fd0ce045dfd985c"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/brickhouse_windmill.json"
+hash = "18487e742994babad9005445daebed20d8dd0aaac4a7e5f2ce8e58864cf1bb17"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/cottage.json"
+hash = "305dff32712af46464127a3b2d082dee8680169432cf9d187168e1472ee74ce6"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/croc.json"
+hash = "cf90ff1d47a2dc4b55c6141ee93b7bb8f02533390a9bd6d2b537db0d108a66e1"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/hauntedhouse.json"
+hash = "8c9ea2294e42f3fe3ee34a4272ac9b8ef319d64a5b1d13c9e46f2e8b1e763384"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/hunters_cabin/hunters_cabin.json"
+hash = "d61e0a2787bfa7a12c951c7b6f762ec0be723f8390f1a166c1ddfb5e4cbda859"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/hunters_cabin/hunters_cabin_tools.json"
+hash = "30e3b5443ff8fbb09320901f30b4d4ba964ba9bc13940d17492c9d99d64a8963"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/idasbasic.json"
+hash = "4089fa6569d0fca71420108e888be0f2264fd55356d5e277da2ab7f7d76bf0d2"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/idaslibrary.json"
+hash = "f58f7083f75d2dd427024714659aab788d39c0adcf5f442b1b010d255fafa45b"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/labyrinth.json"
+hash = "c0fe5893838b78cbd2f71ed5887f1f7edfbf547b1022a9706afbe4e548e3cd4f"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/minesbasic.json"
+hash = "09fc252c148a2de34c9654e123e62f0246d18e7efc221618e6138096f4f6c0a7"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/minescreate.json"
+hash = "6f451e9b4c3f86b40433bc4468d7a79bb58a6496e3938904156e1970b503e24d"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/mineshall.json"
+hash = "b39b1bbabde65ef4ff65e6e0d7ded56eaa7379eec0105ca1c9335c698b300e2a"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/pillagerbedroom.json"
+hash = "4231e3fa9749167d611e7263e796a82aae896caeea6706efc400ceafca2cbc8d"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/pillagerjail.json"
+hash = "ceeb9a58d921e1f9daafbf9239a4cfb38b09f4793187f1e2a4caeb6a0614b2fb"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/sunken_ship/sunken_ship_supply.json"
+hash = "ba807e772adbe39fd26494cc2c0340e407f66a0a8a9fa635188471040267bf75"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/sunken_ship/sunken_ship_treasure.json"
+hash = "bafeeca96dd2bcab2553b58a9ad29e6eb0710dd82bd9c55ad32dd408d07d2cab"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/throne.json"
+hash = "038c8c8a81dfdaf2c1b975fb8c3921bf873ba28ce802bf2e08a72220291b0cc5"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/tomb.json"
+hash = "eb2f9406ed6b79aa23bcdc364b9f8669bb03e50a56295c2959df833a225edc90"
+
+[[files]]
+file = "kubejs/data/idas/loot_tables/chests/wizardtower.json"
+hash = "8d2da63f6d886912261ea94ae3cc164fdb92727de1efff26352b716accf41809"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasany_forests.json"
+hash = "385b8dfaf78421fdf1a5e168868cbc6e092e2b052dacff7f1377742fd83aee5e"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasbadlands.json"
+hash = "a4239152ae8276b9a0f3d35569b963c9e5aa69cb4bb6b1cc25772662227deb9e"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasbeaches.json"
+hash = "6970fcfcd611e1f81fcaa287442541521eeecff18767cc93496d12749132b148"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasbirch_forests.json"
+hash = "3d9fe236d458cc6446a55a7a052aaaa00617657c6095fb6dd590050582bcd678"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idascaves.json"
+hash = "f4b1c08f52349b7b51ab2afa7456a059378a0f884a2d41a8efb2f8605b7ff9a8"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasdeep_oceans.json"
+hash = "937981eb3c372b62b0fe4f8800fd928ea4849015aeb5411e6d0a6549d0b643aa"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasdeserts.json"
+hash = "46b2aa908410264ea968b8d2ad22b2dbede8d0e3b8fba544ee9388da1d28d22d"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasend_island_land.json"
+hash = "86f2e9c0d4f433dba25428a76864a5243502a60ca06a8253789a90393d9fd048"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasend_voids.json"
+hash = "310ada7118fb3543d797f9d8abbcc0a17b57fbbbc732134cc601f015a4c23f02"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasflower_forests.json"
+hash = "93f6fae3f324cbfc1f537931801804eae1db1ceb2d5fbdc319701a7b9521e8a4"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasgiant_taigas.json"
+hash = "2e5564e1bbe5a549622428bf0da1c873521dbd47b5add16337f798afc9b925c4"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasgiant_trees.json"
+hash = "fd3e8ea3ca735b4c0b39472f0420fb9af389bf2d375b9289c4cb0269f4aaef8c"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idashills.json"
+hash = "863cbca59e8e30535a2e440b00a03f8f8b4b61974abec342fd3e1d9600dd1a90"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasicy.json"
+hash = "3596c5590b50fbfbe45cfe60958813ee471ac10e945dcf6cb55be49e9070810b"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasjungles.json"
+hash = "974a14f94ae13e7530404d5c844f702f7f2fc1e5357b0025234a099266bfbc26"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasmeadows.json"
+hash = "c409b42f77e98d22ad687a26996a5740accc5bb8b46bd286938b7a0ca7c31c2d"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasmountains.json"
+hash = "32486d8db5273431ab90ed6680baaffd8fc33c036068d9dba90efec302d89b0a"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasmushrooms.json"
+hash = "60c3fa6dc5ce111191d093106b83e4f3e25a1355b2664781eb1611388b9b3912"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasnether.json"
+hash = "75172b5b427ad4dfb28fd91ef8e17d7e4daf49bbf2062cc89d1538f2109d51fc"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasnether_basalts.json"
+hash = "7bdc3a5812f58a5979905ac602628516c3dc998a8124394f498fd528111e7e99"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasnether_crimson_forests.json"
+hash = "9ca4ff6e12710c3e6cc4646c9d110bb3a5326174ed7d74d619acad57782ba418"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasnether_souls.json"
+hash = "60e788f552e4ac8f4cb2c653984ae31e113fd111de594d72d4ef2d56d5f8be2a"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasnether_warped_forests.json"
+hash = "94eb49eb34d1cbe9d163d574d803724b8853f0d7ecf631f92d8bdbd4def212bf"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasoceans.json"
+hash = "381c3d4183d73320f9e9f92ecedd41542713f83a41d214bb2500c17b6f8c9a68"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasplains.json"
+hash = "f7248e88f96540bac3a66f3ed33b8af292f2ad2bc2c29d9c27d594674bf6621e"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasregular_forests.json"
+hash = "9420acb3cbe9095bac02a68028759ea8d98ecf941fb34efbf504b2b8d2497853"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasrocky_mountains.json"
+hash = "e9f6f45784b8d2d752b7772f464e315d31e1a944a5b40d35a0f30f7a8a334250"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idassavannas.json"
+hash = "1c953819b0c41fca19b18abe5c61e4152ce52a9351128a40645be11167680632"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idassnowy_forests.json"
+hash = "d06aa408b17ba9e0ea843c3e6fd55752cdc6599b2d3eb8739d166d1a98269d96"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idassnowy_mountains.json"
+hash = "f5dbafdc8251171aedc2af45e9a5edde8f1672840b181ab0295e9100ddd13372"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idassnowy_plains.json"
+hash = "f2334ef489d49116d5591397ef47f5f3e685a343a0b9771b18cb5c38f89fd410"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasspooky_forests.json"
+hash = "1671e7baab7ef08ba5978a48b55bedd7d298e50f8fa7d4fbc3b1c39fb2d533aa"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasstony_shores.json"
+hash = "cd25396a5aae8a5fb8f017977d6a48ae1b3a852eb441b76cacd2666e613bffc9"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idasswamps.json"
+hash = "1b9fa9e8bcdb54f8879e817d2d6329e73760f63767265eee9e14554d9469c25f"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/collections/idastaigas.json"
+hash = "ae21cde293c0d664caf0cad88ab289f192eaed1e41449a295555a6011fe7bded"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/abandonedhouse_biomes.json"
+hash = "557612ccea60a10f6e6ab24aa200fec4e0578bda1060e86328834c69a5a1415a"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/ancient_mines_biomes.json"
+hash = "6aa8cc1c26cbd0a67ca5ee5277034075b8b1198067222990f6cd27c08ce23861"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/bearclaw_inn_biomes.json"
+hash = "0ee994b3efd6713ea42cd11da0e9eba17c166796168d8c6ea09520040135a941"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/hauntedhouse_biomes.json"
+hash = "05923f1a43e481254c63ae5f855668236641fdd0605fa6529f91b8420ae95d74"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/hunters_cabin_biomes.json"
+hash = "0ee994b3efd6713ea42cd11da0e9eba17c166796168d8c6ea09520040135a941"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/labyrinth_biomes.json"
+hash = "3005d0c5f5482f4c86db43eb13d782c3a89139c3f917b036bc791f9cae999481"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/pillager_fortress_biomes.json"
+hash = "af882e47d82471b0759dea8814b8887adbcc8afcdebefc976c09327723a06b4f"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/sunken_ship_biomes.json"
+hash = "c86d6bb60824cb000f1c1c17dd6d126f09b2c8106681737e017df62e07b054c1"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/sunken_ship_coral_biomes.json"
+hash = "c280f9d46d6b36ee792b23468ca4e7ee1331524e542d1b5ea97f6575117183cb"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/biome/has_structure/wizardtower_biomes.json"
+hash = "292bbda404942fd997a630cbd6f9ac4a551d705974bf6bb5c88f753aaaf88fe2"
+
+[[files]]
+file = "kubejs/data/idas/tags/worldgen/configured_structure_feature/idas_structures.json"
+hash = "aa07b4d86c60be0159c7f217b1deec306a49bc7c395f795fafc57cd3719e505e"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/abandonedhouse.json"
+hash = "f8f1ae9b1f74dc5312b7e36bdedce43f169b5c4590ebe7f8d4b56a37e05a9405"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/ancient_mines.json"
+hash = "a3f3e32b3d655793e5117e4b5224d58f744f37cedf5722cb2638a8132f8cb3f0"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/bearclaw_inn.json"
+hash = "75e4e04f1075601b5f838b2642345dffce98d66719ef5a869e3d6c0eb004ffe5"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/brickhouse.json"
+hash = "f5a63d3181092e07769c7bd303dfb178170d8b992eeb071f3751cec5f9115acb"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/castle.json"
+hash = "cd0138a65ae8d28d629d580a2e22728d7577bce9d7a605f10adb841f8e99ac37"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/cottage.json"
+hash = "bc74de954527ee942224a399a0dde5433e84d580c0e9e21d15fe76180460c86c"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/enchantingtower.json"
+hash = "30d4467119f8181543e62211c1fcafce17cdd7d13c01ccaaa75ad90569a58e8e"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/hauntedhouse.json"
+hash = "c475aaeba019ce1ad7943c3282a926f34e415f0b6ba909f108ea4eaff1611f5e"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/hunters_cabin.json"
+hash = "85da00e9d0d3ae57c04212dc6d0bc1f187d1cb51e6b5053414a1ef68e2aa4d75"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/labyrinth.json"
+hash = "195643efa41c239ee34aac5a4b693871bc5ecf894db5a730e19c2c8064589ade"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/pillager_fortress.json"
+hash = "15339ecebac7e1edd5392ee394ab46e358e5e41b2d22122996521fb4c427955a"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/sunken_ship.json"
+hash = "da07833e94f934749552b76b67d6d82566c971040ac64c8d5967d18039ec9681"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/sunken_ship_coral.json"
+hash = "4006ec38f83b944a57b1f527823c6f57a54e247eb661834f4ae29779482b5099"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/configured_structure_feature/wizardtower.json"
+hash = "37b09abd9edc97a8f649cee124df79638808a57d2172f20a90e425ee6452fb2d"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/processor_list/waterlogging_fix_processor.json"
+hash = "62dc9064e90f61168b7ce1dbecfe89e6d7c7984b83948faa92c477dc75ef2c72"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/structure_set/abandonedhouse.json"
+hash = "8245a334a76a9e9ec6a628a101a61654022bb705e5cceea63a86f8634edb096d"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/structure_set/ancient_mines.json"
+hash = "489e282d2555202a0fc21142f063e55c5fe3edf28effec8fc8d721985ec01cbc"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/structure_set/bearclaw_inn.json"
+hash = "31ee5a4c099826ff169c64d14b0b71b9eb5f9f2c6b0471a51db0867346f0115f"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/structure_set/brickhouse.json"
+hash = "182249aa9c1a0341d3a9279a89c7af1e3799b7ea862d874b73a7b9c710c9a3eb"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/structure_set/castle.json"
+hash = "31e4fe21f8f08cdd202d447ae49dbb8c8a17c20044de7c63e13a65e9e6de8d93"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/structure_set/cottage.json"
+hash = "cef95b25045b22c36366b4630bbcd1152b13087a0b15e3d5184693af59b43275"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/structure_set/enchantingtower.json"
+hash = "7eab731c1762bd42244613fbc49fbda1adfbde9fa9935ac8ba2466e4ea35d55a"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/structure_set/hauntedhouse.json"
+hash = "b4eaf027c7348ff845435baa57967ef08d34beadd9252c999849182220dd1137"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/structure_set/hunters_cabin.json"
+hash = "50a03d7b462bcb926adeee9558b644f8f5db088ea5850d2223b7d39535d000dc"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/structure_set/labyrinth.json"
+hash = "cd7da38dc0d4cd564d75749969778f3d4f9f9c289031fdb2df9ec416bffe8264"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/structure_set/pillager_fortress.json"
+hash = "c173ca5c1fcf87da840492c56effa5149cec4897be3112b18973f130ea28314d"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/structure_set/sunken_ship.json"
+hash = "84f1a186831154cc914b1c6bc372b6786948c847e81593d4aa5b5100f5f743d2"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/structure_set/wizardtower.json"
+hash = "e833075d1dfeb10f857bb41e2dd6b4b7b8fa3c0550ed98e3f43a33f21aeb0021"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/abandonedhouse.json"
+hash = "6db8416a01ec0dd6fc480d24e31b140dd11b0143060f59ce92f3ca937673bc83"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_entrance.json"
+hash = "611f7ff52fc0d9c10fb0825757c114ff3941e4ee29bf3dc253a7a56b669f19a5"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_hall1.json"
+hash = "6493bad99e86d86ecfdb6b006fc548525f4702b7ad0015c0a09d091a023f5722"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_hall2.json"
+hash = "c141cc258b3834932ba92c4b8ec1860bf08a98537dd9818c6473c05b74047675"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_hall3.json"
+hash = "ef53b4fa2e5d975f1aa5c7900c8d1e4828f54258fdb983744526d390bf220969"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_hall4.json"
+hash = "e398e3e12d66ddf8b454f7fa804d64486d800b836a8d6700615f84163bf62189"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_hall5.json"
+hash = "a08d47c805e3c13dea21e38102d9fa762c604316d8f04881190b2322581a2a94"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_hall6.json"
+hash = "f59fff990ec66206c4be0be4492519371c353d27532d8ddcfd0915c166a1467f"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_hall7.json"
+hash = "b16852fe42ad122bf4ae08825336b6f518cbfbe20d1c6bf50fe0a154439a544a"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_hall8.json"
+hash = "fc75cc2d527f59a9b36cefdc63c79e797a72869fa56f882d121263436c89af80"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_hall9.json"
+hash = "57d4f65b76b5958c7c3337d3a8d5747190cc7c963f5c04f5dac73cc4b2146bb8"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_room1.json"
+hash = "1c2c6d4808cc3446a47eb28dbf8b572f9f54c636477d762d398a333509f8ad99"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_room2.json"
+hash = "b9919bed2f4b83afad06b31c894e31fc025823b5970986f9b0cb6a8cb6bd6b29"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_room3.json"
+hash = "7123e0ce22c4e4d1b85dec80b404f7a80c3ef938e39ea8aeb6ce66aa8a91cf6d"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_room4.json"
+hash = "f41cc128ce1a3ba4aa18cde8b6f29aecd1feadb13296b0168c9f6fd9977c1fd9"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_room5.json"
+hash = "e50bb96d322f3f0b09f88f00d13f5acfd07452ead97c97c1592cc215515f511e"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_room6.json"
+hash = "9fba87ad3fef4d85d2734867d6c0bdc8ea7282d9f6a85e890b8f2493d9feefe8"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_room7.json"
+hash = "3ad305e9f7e22b30c599dfd16e75504f031479f676c710751ae3ae8be87763df"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_room8.json"
+hash = "b5bbf5e7b951cee162b73ee88809902214ad6de26745f1618c8f345f0fde0395"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/ancient_mines/ancient_mines_room9.json"
+hash = "f455e84de8d5a791d42000fa529c32dceaba3161023b3057f4193a40d72a08e9"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/bearclaw_inn/bearclaw_inn_lodge.json"
+hash = "8e33bc685010c607f0ddcaa4dce77013e6decab4cb07eb801c22c0bea21aef63"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/bearclaw_inn/bearclaw_inn_path.json"
+hash = "638e6ca803f952902c695382dce5698dfbd2a88793ddd1ee28d5cac98a11d139"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/bearclaw_inn/bearclaw_inn_stables.json"
+hash = "0b86b88bae90b12e7682cbba8f7347ca4d618cf7b386862f1fc5249758e47da1"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/bophauntedhouse.json"
+hash = "b4766ec5e10d0caf04b0da7983b7aace5c94d0cc21a52001d16144acb43e68f1"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/brickhouse/brickhouse.json"
+hash = "1e66d042d5c1cb21ea10312f379d023603b0b075a87ee312101bfc431acec0c1"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/brickhouse/brickhouse_path.json"
+hash = "3ed67cc467f2b78a24db456e8d73986d7faa234514a8f62b4c6face0316ee9e4"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/brickhouse/brickhouse_windmill.json"
+hash = "7ad2e7be3bbea9e9159f61402925238eef0574944c86988649ccc7d9b9bf4253"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/castle.json"
+hash = "9052c134af69a68d9c5a61d1d956c1b77cde2ac3f5e48199aff959955f663244"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/cottage.json"
+hash = "523e222269f32c0f1d9860ca7f6461b5b1791129966bed6ff1b52eb75ca5646f"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/enchantingtower.json"
+hash = "dd9b4f7ebceecf1ebd0630cd700197355b96b23f54d19153bdeccba6b92aade5"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/hauntedhouse.json"
+hash = "672a2b81118cff0a8ba6d218b5808ee9ee7d6cbd3fa3ef3673a6c477fdc588c6"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/hunters_cabin.json"
+hash = "d1e919a16f54ae286df5d1f4e5135138b3a4dc008b4165e248c149968c880490"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/labyrinth/bopfloor1.json"
+hash = "c4ad6e38c0ba59c4f73b595c1b3c4aa80f91a887fffaf2cccf09725301d5ca65"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/labyrinth/bopfloor2.json"
+hash = "84e58b7bea05bed53316142d545a5cb4fb00fcd3057d4cf930552a1e41e484a5"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/labyrinth/boplabyrinth_entrance.json"
+hash = "a59b29ae1e05849f2fdea6e53adc5a90d644bef3dbf004579f196daa2b3dd4d3"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/labyrinth/floor1.json"
+hash = "ceaefcfc7797fedc3dc5cfd30bc50b2d32813ad12216595000c780e12e828de2"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/labyrinth/floor2.json"
+hash = "b332a83bacf31b4cd00547b129d4a750d87bd472f61b44d437d21a35dadf69ea"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/labyrinth/labyrinth_entrance.json"
+hash = "a76d3ed7bc67fd9fc80a80f370fede377dac2951d6d6d24ba2a2d261f2b5fa75"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/labyrinth/tomb.json"
+hash = "a0707dd13e3eb8659e080bd887dcb1fec367a6533857f3cb79c666d16eda0858"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/pillager_fortress/pillager_fortress1.json"
+hash = "35e9857d9c3f7ef43eb181a9b5afddc11cbb4b650af14cd54844f57a136105de"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/pillager_fortress/pillager_fortress2.json"
+hash = "5e8d2acdeb75677a60698a361c34411132bd3c28283c8352c96ecca16aff918b"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/pillager_fortress/pillager_fortress3.json"
+hash = "6f1a9e68b969ec787bf68fbb7b15d5c52e0a39fda63f2d285bf1028002a95889"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/pillager_fortress/pillager_fortress4.json"
+hash = "a3296c75d1d08daf276706113e593b9233b063345c9466a2d66c04866a93f196"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/pillager_fortress/pillager_fortress5.json"
+hash = "68ebcc8d577a07a2fce7c59caeeedcbd3977f3679cc137d6569e2bcbdfc86057"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/pillager_fortress/pillager_fortress6.json"
+hash = "63749b2a56336802378a22c0d1d4c9c66dc6fdbbeb339e9a90d9732ce4e275ff"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/pillager_fortress/pillager_fortress7.json"
+hash = "13f8b7ccb9c4ce3c1d5bafe7dc6819ffaac1fbf2869b5def87706eff195aaba0"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/pillager_fortress/pillager_fortress8.json"
+hash = "956beae46bf9aae2a60e8b10ad807ba90b9290b7a11887cf731c516b0c778cd6"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/sunken_ship/sunken_ship.json"
+hash = "c38053a18fa24c0648dd2c16c21b3120e7a7d40793a43c88dd2f99af689aa6be"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/sunken_ship/sunken_ship_coral.json"
+hash = "1fd3d1ffbd7bb37a008209ff853d35a1d3f284730b354908034bcc2f8a2a508d"
+
+[[files]]
+file = "kubejs/data/idas/worldgen/template_pool/wizardtower.json"
+hash = "426f5db9c01fb93d6a21ea6866b98daf8cf1dbb63efd880178f10a97984cb812"
+
+[[files]]
 file = "kubejs/data/morevillagers/structures/village/badlands/badlands_engineer.nbt"
 hash = "200c5b9dc36cb04118443d290de27bf672755dc4e1dd0927c649cdca6a65f402"
 
@@ -6526,6 +7158,11 @@ metafile = true
 [[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "075a70282743ae2ebd01224012873f178e4088f257969b74e35bb0db579c6611"
+metafile = true
+
+[[files]]
+file = "mods/idas.pw.toml"
+hash = "7506ef21500655873fde5850e2cd42a378e3c1d140f6e7bc390c5faa28342b1c"
 metafile = true
 
 [[files]]
