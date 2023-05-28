@@ -6781,6 +6781,11 @@ file = "kubejs/server_scripts/balance.js"
 hash = "708691ca60b48179e6da406c15b8217598684c46497684c317a8850e6a64071f"
 
 [[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "0186e7f4f8fd2796123df62c8e6ac869b189df6beb7a601f9a5c825f0464292e"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
 metafile = true
