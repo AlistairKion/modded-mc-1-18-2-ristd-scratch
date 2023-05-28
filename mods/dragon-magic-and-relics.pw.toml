@@ -1,13 +1,13 @@
 name = "Dragon Magic And Relics"
-filename = "dragonmagicandrelics-1.18.2-1.1.8.jar"
+filename = "dragonmagicandrelics-1.18.2-1.1.17.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "32413d431696518a7323d0b216a9923b6b129062"
+hash = "1e490307996c204bb030b3d4d040c5621d50aa5a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4417095
+file-id = 4495295
 project-id = 785039
