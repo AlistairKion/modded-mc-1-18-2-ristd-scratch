@@ -7311,6 +7311,11 @@ hash = "280e57676080137109ba49ea3e4cc030955e139924a817e90fbcfe977adb8e7a"
 metafile = true
 
 [[files]]
+file = "mods/mod-name-tooltip.pw.toml"
+hash = "7bfa34ea9ad11fe95d1973cba7fe19925b7946c3f51496f235526c6659bb7c47"
+metafile = true
+
+[[files]]
 file = "mods/more-villagers.pw.toml"
 hash = "1e3256743830fc8970f761e38ec328a3052976cab65ccc15d2c8b73a4ae92136"
 metafile = true
