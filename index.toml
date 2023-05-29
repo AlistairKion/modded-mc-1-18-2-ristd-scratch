@@ -7600,6 +7600,11 @@ hash = "f935cc391b76b95b9e32f549771781422fe0f051c5d3a04b4ac7b2194e534ce0"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "a535eb60e567b0fe64b3a8caccb4b9529c79c2c9c486862d1183750661354656"
+metafile = true
+
+[[files]]
 file = "mods/simple-storage-network.pw.toml"
 hash = "94574626f381bddf5eb7fcad8e0103226d9b4ad92b680ea809acb822c8a36c85"
 metafile = true
