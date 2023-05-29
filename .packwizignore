@@ -9,3 +9,6 @@
 
 # Exclude modJars
 modJars/
+
+# Exclude special folders
+packwiz-ignore/**
