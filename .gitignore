@@ -3,3 +3,16 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+#### Java ####
+# Compiled class file
+*.class
+
+# intellij files
+/shelf/
+
+**/.idea/**
+
+### Gradle ###
+**/.gradle/*
+packwiz-ignore/**/build/
