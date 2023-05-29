@@ -1,6 +1,10 @@
 # Exclude exported CurseForge zip files
 *.zip
 
+# Don't exclude these zip files
+!RISTD Scratch.zip
+!RISTD Scratch Server.zip
+
 # Exclude exported Modrinth modpacks
 *.mrpack
 
