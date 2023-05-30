@@ -7601,7 +7601,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "a535eb60e567b0fe64b3a8caccb4b9529c79c2c9c486862d1183750661354656"
+hash = "1ab8c8f20929761ac7bdd308c47c38e55758e578e70d2265bf19ad692ba1f58c"
 metafile = true
 
 [[files]]
