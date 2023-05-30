@@ -165,6 +165,10 @@ file = "defaultconfigs/immersiveengineering-server.toml"
 hash = "e95335c7cd315114e9facd91d9a2764930a575394abf3092b54d9096c692163a"
 
 [[files]]
+file = "defaultconfigs/tradingpost-server.toml"
+hash = "58d7f5512682ac4ab9e2c04c4f261d9aa848001d4e8faef262ea7dd4e89cf179"
+
+[[files]]
 file = "kubejs/client_scripts/rei.js"
 hash = "c5ead6a97820cad92051608932c86cd3a4ae8a089c6fcf7c940c78622defc0d5"
 
@@ -7147,11 +7151,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "9698d77c462cbf16a5c3db9bc3cea684b36f3a26ef9320683f38c9525c678948"
-metafile = true
-
-[[files]]
-file = "mods/endremastered.pw.toml"
-hash = "201c75733a848fecde779385a89591f1d42a4834c353e5513c73eff08c3a91f8"
 metafile = true
 
 [[files]]
