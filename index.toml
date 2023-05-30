@@ -142,7 +142,7 @@ hash = "b52f115e8dab5faf91e005cbeb3b4d31f9b9b81946311f022d7dd021da66591c"
 
 [[files]]
 file = "config/secondchanceforge-common.toml"
-hash = "7a67ec68bcb6c3b81b3067a98e5392d1ed5cde891091f1592dc569fd848cf6f2"
+hash = "d36ce09442cf7be7010026510f79ca4093210a63ab3fd0307d80ff9a4c68281d"
 
 [[files]]
 file = "config/waystones-common.toml"
