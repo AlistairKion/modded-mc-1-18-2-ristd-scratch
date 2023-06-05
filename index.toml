@@ -7729,11 +7729,6 @@ hash = "3f90e9aa6da9d040d2399745ad290b66ac2904a6e8afe399fb0ad9421f0d3710"
 metafile = true
 
 [[files]]
-file = "mods/trample-stopper.pw.toml"
-hash = "7bee719224c8bcc408ceab5eeddc6376672a91496834fb382cef078d89677f13"
-metafile = true
-
-[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "b05f6b58ef441c7d352d0cef840813c33441f80c70bd04c5c4409fc4f9499726"
 metafile = true
