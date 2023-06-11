@@ -6974,11 +6974,6 @@ hash = "53fb2cfb3988b88b9587a5a0ba4b5612d7f26a989b05c911975f6af7be343364"
 metafile = true
 
 [[files]]
-file = "mods/botania.pw.toml"
-hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
-metafile = true
-
-[[files]]
 file = "mods/brutal-bosses-dungeon.pw.toml"
 hash = "9ce5aaebcca29cbcce4cd03c2215f83f21405ec295af409a338e701288e51c5c"
 metafile = true
@@ -7629,11 +7624,6 @@ hash = "876452c253d68cd71df35dfcb9dd4438ebb5c2470c09b01ed19a16fd37f46436"
 metafile = true
 
 [[files]]
-file = "mods/speedy-ladders.pw.toml"
-hash = "46fd051902a8cf17c040a6045c0f7e50d87eb1c8e37cccb2b1e15b2bdd3c1dac"
-metafile = true
-
-[[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "24cf95c3d275e37fc044713468c2a81918a72b8d91a8d6eee1538dff97f8139c"
 metafile = true
@@ -7726,6 +7716,11 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "3f90e9aa6da9d040d2399745ad290b66ac2904a6e8afe399fb0ad9421f0d3710"
+metafile = true
+
+[[files]]
+file = "mods/trample-stopper.pw.toml"
+hash = "7bee719224c8bcc408ceab5eeddc6376672a91496834fb382cef078d89677f13"
 metafile = true
 
 [[files]]
