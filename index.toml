@@ -7439,11 +7439,6 @@ hash = "b821c236806607b7aa9c314226aa1cdad3b3f623a8a344b2650ec79ef83a3b9d"
 metafile = true
 
 [[files]]
-file = "mods/mini-effects.pw.toml"
-hash = "392cb7e70146adecc0fa18c5197f31c4ab727980acb003e3cd083026b4cafe1b"
-metafile = true
-
-[[files]]
 file = "mods/mob-grinding-utils.pw.toml"
 hash = "280e57676080137109ba49ea3e4cc030955e139924a817e90fbcfe977adb8e7a"
 metafile = true
