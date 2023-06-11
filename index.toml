@@ -6979,6 +6979,11 @@ hash = "9ce5aaebcca29cbcce4cd03c2215f83f21405ec295af409a338e701288e51c5c"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "29f7a1cfbc20432885d12c36245b503103857c068b27865d804cbd06d9b386f9"
+metafile = true
+
+[[files]]
 file = "mods/bygone-nether.pw.toml"
 hash = "ef35270e83bb84b6e0e725b4c945054bc758a0eec1101ccbb3309e38db947d1b"
 metafile = true
@@ -7069,6 +7074,11 @@ hash = "2758d099575738f73fe355773bbd28fee02bcf0033a862c2fbddcf165bbbb122"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "a870f4e08855ee1eb1845baa93c0f941f8b39842e20f6d43e78fa8b212508a87"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "514c0735e7e465faa2d3f1dd58c53467452d3fec2d8eac50307f8c97c8087619"
 metafile = true
@@ -7129,6 +7139,11 @@ hash = "cf91d65cef2c555634892f8413667ed8ce4abd0afdc8bd1f21a08bcbbed41639"
 metafile = true
 
 [[files]]
+file = "mods/easy-piglins.pw.toml"
+hash = "d5cac0f17db3b8d29d1689fa262f1942587f2073e645dc8dea257a25d79f80a7"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "42b7b7c6490705f967a08c5493470e9c5e63a1edbbaaa52b97b69b1059b53375"
 metafile = true
@@ -7146,6 +7161,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "9698d77c462cbf16a5c3db9bc3cea684b36f3a26ef9320683f38c9525c678948"
+metafile = true
+
+[[files]]
+file = "mods/engineers-decor.pw.toml"
+hash = "c0e2bf268b415c2ba72f743e42624aaff4000aa301b597cbf0355adc35594b83"
 metafile = true
 
 [[files]]
@@ -7389,6 +7409,26 @@ hash = "a07ca452fc02b838bb65109e69790a3e76bd65d4801957c8ce305bdc244e7096"
 metafile = true
 
 [[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "d5df32b81d9ddd8863e66c8f02952355428f793cf6b0d5386b7ef1038f9ae333"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-oh-the-biomes-youll-go.pw.toml"
+hash = "23f7ff11f82f1ea91d091cfcfafeb61b6bca6fa22fbf333e9f5918b105cfda18"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "868293df6ca42ae362247416b443eaa134046853bafc4697de150365c27cf45b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "a7ea2f92beff4ce9ad0c9b48bf5ad1f9d98a6270b01251197c17f35b80972cd3"
+metafile = true
+
+[[files]]
 file = "mods/mana-and-artifice.pw.toml"
 hash = "912c22ba96ab5abbbc24fdffa68f95a1f21d9360ac39bb05f4dc5b3777dfc11f"
 metafile = true
@@ -7516,6 +7556,11 @@ metafile = true
 [[files]]
 file = "mods/rebornstorage.pw.toml"
 hash = "3baaa168e8351621ade13a82834cd26d33ad69e538b22e5fa190f148a3f502f2"
+metafile = true
+
+[[files]]
+file = "mods/redstone-gauges-and-switches.pw.toml"
+hash = "f3f73f153c5b479553e86d6e50e969420379ed0019fa8fd83380963c4ca1f384"
 metafile = true
 
 [[files]]
