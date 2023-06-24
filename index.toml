@@ -133,6 +133,10 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "5ee51b74cdadea542a4833ef5efc9f0a861e96bb88d4bf065bc281b9df699bdf"
 
 [[files]]
+file = "config/ores_above_diamonds-1.18.2.toml"
+hash = "f1eaffe782b833507fc036be8f68537e1cf40fe4abb9d8daee6bfed5e1035fc5"
+
+[[files]]
 file = "config/repurposed_structures-forge/dungeons.toml"
 hash = "b157a21df6a0a9146e6f923ce409a806ce4e779a702b69c055b3e9096220d2a4"
 
