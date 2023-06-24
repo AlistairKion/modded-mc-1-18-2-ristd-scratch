@@ -145,6 +145,10 @@ file = "config/secondchanceforge-common.toml"
 hash = "d36ce09442cf7be7010026510f79ca4093210a63ab3fd0307d80ff9a4c68281d"
 
 [[files]]
+file = "config/tombstone-server.toml"
+hash = "9c37fea021e003e3348da7ede62d3ef9a475ed7aee5cf5777823d049022fbd35"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "557ef31ac5cc5cf93057c077a71c4ae764b677f87f4fcda4b80a9b52a6169f7c"
 
@@ -4529,6 +4533,10 @@ file = "kubejs/data/dungeons_arise/structures/wishing_well/wishing_well_effect_4
 hash = "2384bf3864649f5b32dbc43430953c1c273981f96055a6bafd37e5528be5906d"
 
 [[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/thornborn_towers_biomes.json"
+hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+
+[[files]]
 file = "kubejs/data/dungeons_arise/worldgen/configured_structure_feature/abandoned_temple.json"
 hash = "d6c4cffa2bf36660a9cc50b7adc4712a33dc9c82644307d0e81aab8ff700cef2"
 
@@ -7096,11 +7104,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "7c1d958682751676771662814e04d6d7a842e4a1c3634f1ab1747fedbebdb3fa"
-metafile = true
-
-[[files]]
-file = "mods/cyclic.pw.toml"
-hash = "8cc06b1241ffccecf5c6ab9502a6b877cc8437a8a4a7ae955dc52ed7e1b5c860"
 metafile = true
 
 [[files]]
