@@ -111,18 +111,18 @@
 			}]
 		}
 		{
-			title: "Too Many Mobs are Spawning"
+			title: "Void survival"
 			x: 0.0d
 			y: -0.5d
-			subtitle: "How to stop mob spawning in a area"
-			description: ["Torchmaster makes some great items to help stop mobs and even passive mobs from spawning. Craft this guy here, place it down, and you're all set!"]
+			subtitle: "Falling into the void will take you to the next lowest dimension"
+			description: ["End -> Overworld -> Nether -> Death"]
 			dependencies: ["24CA47E19CBB1738"]
 			size: 0.5d
 			id: "53746435C74C767D"
 			tasks: [{
-				id: "7F062C68306017B1"
-				type: "item"
-				item: "torchmaster:megatorch"
+				id: "6553A8606A3B5B08"
+				type: "checkmark"
+				title: "Fall into the void"
 			}]
 			rewards: [{
 				id: "18CFD64814F4F588"
@@ -221,8 +221,8 @@
 		}
 		{
 			title: "Easy Villager Automation"
-			x: 3.5d
-			y: -2.5d
+			x: 3.0d
+			y: -3.5d
 			subtitle: "Auto villager farm :)"
 			description: ["Capture a villager and place it in your Easy Villager block. Note: There are different types of Easy Villager Blocks"]
 			id: "4B5D29232A14E26C"
@@ -333,8 +333,8 @@
 		}
 		{
 			title: "Easy Piglin Automation"
-			x: 4.5d
-			y: -2.5d
+			x: 4.0d
+			y: -3.5d
 			subtitle: "Auto piglin farm :)"
 			description: ["Capture a piglin and place it in your Easy Piglin block"]
 			id: "4783F9CEB3C72468"
@@ -363,6 +363,7 @@
 			y: -6.5d
 			subtitle: "You're evil!"
 			description: ["Sinister Carrots are rarely found as loot in Woodland Mansions. They can be fed to a zombie horse in order to turn it into a skeleton horse. They can also be fed to a tamed rabbit to transform it into a Killer Rabbit, which can attack and is much stronger than a normal rabbit."]
+			dependencies: ["54F9FD20024987C4"]
 			id: "20ECF89A9097CF12"
 			tasks: [{
 				id: "3DF7AEE3AB27BD87"
@@ -379,6 +380,7 @@
 			x: 9.0d
 			y: -6.5d
 			description: ["To tame a rabbit, feed it several carrots. Rabbits only have 3 health by default and usually (see: Sinister Carrot) cannot attack. However, to make them useful rabbits will scare off ravagers"]
+			dependencies: ["5AC39862D04A2295"]
 			id: "54F9FD20024987C4"
 			tasks: [{
 				id: "4C5320D451AFBD74"
@@ -428,6 +430,7 @@
 				""
 				"These collars can then be placed on a tamed pet of yours by interacting with it. To get the enchanted collar back, you can simply swap it with any other collar, including an unenchanted one. You can view a pet's enchants by sneaking and looking at them."
 			]
+			dependencies: ["397E21BCAB6C08F0"]
 			id: "5AC39862D04A2295"
 			tasks: [{
 				id: "44527990CEC5A7C9"
@@ -446,6 +449,7 @@
 			x: 9.0d
 			y: -5.5d
 			description: ["Gone are the days of weirdly holding a tropical fish bucket if you want to use an Axolotl as a companion: These amphibians are now fully tameable! Simply feed a wild axolotl a few tropical fish to tame them. They can be made to sit, wander and follow like all the other tameable mobs. Note that axolotls are by default very slow on land, dry out and have low health - you have been warned. "]
+			dependencies: ["36AB032A061B253C"]
 			id: "2B13A71997DA9C38"
 			tasks: [{
 				id: "300F23E98357BD15"
@@ -465,6 +469,7 @@
 			x: 9.0d
 			y: -4.5d
 			description: ["Trustable mobs have always been somewhat scuffed in implementation. Thankfully, we've made it so that tamed foxes are actually tamed - and can be made to sit, wander and follow like the other pets. To get a tame fox, you need to breed two wild foxes with sweet berries and wait for it to grow up. Note that no matter how tame foxes are, they'll still want to kill any chickens and (untamed) rabbits they can see"]
+			dependencies: ["36AB032A061B253C"]
 			id: "0202D9FBBD57355B"
 			tasks: [{
 				id: "09447106054ED1F6"
@@ -491,6 +496,7 @@
 				""
 				"Mobs can only respawn at dawn, so if your pet dies some other time you will have to wait until then to see it again. Pet enchants are preserved with respawning, but more on that later."
 			]
+			dependencies: ["36AB032A061B253C"]
 			id: "397E21BCAB6C08F0"
 			tasks: [{
 				id: "410A8F0851B57B92"
@@ -541,6 +547,7 @@
 			y: -4.5d
 			subtitle: "Horse into a Zombie Horse?!?"
 			description: ["Rotten Apples have a chance to form if an apple item despawns on the ground. These green, wormy apples can be fed to a horse in order to turn it into a zombie horse. Note that you'll want to make sure the horse is tamed and saddled prior to this action. This zombification process will also preserve the speed and other aspects of the horse. Zombie horses cannot wear armor."]
+			dependencies: ["36AB032A061B253C"]
 			id: "5661F33F8303245B"
 			tasks: [{
 				id: "474BA02D43CCB45C"
@@ -560,6 +567,7 @@
 			y: -5.5d
 			subtitle: "Place any pet bed next to unemployed villager"
 			description: ["Animal Tamers can be found in villages in their own unique houses or can be created with a unemployed villager using a pet bed as a workstation. They trade a variety of items related to animals from both vanilla minecraft and this mod, including unique pet enchants(charisma). Their houses also contain some untamed mobs and sometimes fish tanks."]
+			dependencies: ["397E21BCAB6C08F0"]
 			id: "4A54B78FE47A8AC0"
 			tasks: [{
 				id: "69C28F141D823707"
@@ -576,6 +584,7 @@
 			y: -6.5d
 			subtitle: "Automate commanding groups of mobs via redstone"
 			description: ["When interacted with, the drum will beat and change command modes, whilst ordering all tamed mobs of the user to follow, stay or wander depending on the beat. If given a redstone signal, it will command the mobs of the player that originally placed the block. The block also makes a funny sound if you jump on it."]
+			dependencies: ["5AC39862D04A2295"]
 			id: "1620EE001FF68BD5"
 			tasks: [{
 				id: "42897977E18F99EC"
@@ -594,6 +603,7 @@
 			y: -6.0d
 			subtitle: "Gift your tamed pet to another player"
 			description: ["The Deed of Ownership is an item that can be purchased from the Animal Tamer villager. By right clicking on a tamed pet that you are the owner of, you bind it to the deed. If you give the deed to any other player, and they use it on the bounded animal, then the ownership of the pet will pass onto them, making it effectively as if they were the ones who tamed the animal."]
+			dependencies: ["1620EE001FF68BD5"]
 			id: "06D6D05209C145AD"
 			tasks: [{
 				id: "4084AFDCFF34F6B0"
@@ -622,6 +632,7 @@
 			y: 2.0d
 			subtitle: "Train that doggy"
 			description: ["After crafting the training treat, hold it and right click your pup with it to train the beast and level it up"]
+			dependencies: ["0FE551220093A8BD"]
 			hide: false
 			id: "3CCCD98359F672E5"
 			tasks: [{
@@ -640,6 +651,7 @@
 			x: 5.5d
 			y: 2.0d
 			subtitle: "The next level... to level"
+			dependencies: ["3CCCD98359F672E5"]
 			hide: false
 			id: "1C3A9A727CD05703"
 			tasks: [{
@@ -658,6 +670,7 @@
 			x: 4.0d
 			y: 2.0d
 			subtitle: "This will bring it to its third tier after X amount of levels is reached"
+			dependencies: ["1C3A9A727CD05703"]
 			hide: false
 			id: "0F6FE33A1E0763E8"
 			tasks: [{
@@ -677,6 +690,7 @@
 			y: 2.0d
 			subtitle: "The Dire levels are pretty important"
 			description: ["You can only use the dire treat when your puppy hits a certain level, after all the other bones are used in order."]
+			dependencies: ["0F6FE33A1E0763E8"]
 			hide: false
 			id: "3AE52204A496CF81"
 			tasks: [{
@@ -702,6 +716,7 @@
 			y: 3.5d
 			subtitle: "Your Doggy Trainer Item"
 			description: ["Once leveled, hold out your stick you just crafted and right click the pup to open up the Leveling GUI. Here you can select what skills you want to level up, rename your pup, and select its behavior. "]
+			dependencies: ["3CCCD98359F672E5"]
 			hide: false
 			id: "273325ABEEB91313"
 			tasks: [{
@@ -721,6 +736,7 @@
 			y: 3.5d
 			subtitle: "Lets make that pup huge"
 			description: ["Once crafted, use this on your pup to increase its size. The dog can take 3 large bones from its normal size"]
+			dependencies: ["273325ABEEB91313"]
 			hide: false
 			optional: true
 			id: "386B9DCF3FFE65B7"
@@ -736,6 +752,7 @@
 			y: 3.5d
 			subtitle: "How about a tiny pup?"
 			description: ["Alternatively, you can make the pup really really small, you can use this until its like a inch big"]
+			dependencies: ["386B9DCF3FFE65B7"]
 			hide: false
 			optional: true
 			id: "6DF004491A989DD2"
@@ -750,6 +767,7 @@
 			x: 8.5d
 			y: 5.0d
 			subtitle: "Cut its clothes off, or un-dogify"
+			dependencies: ["273325ABEEB91313"]
 			hide: false
 			id: "476168F8F43B05BE"
 			tasks: [{
@@ -762,6 +780,7 @@
 			x: 7.0d
 			y: 5.0d
 			subtitle: "Lost puppy no more! (Radar collar sold separately)"
+			dependencies: ["273325ABEEB91313"]
 			hide: false
 			id: "29E835D38AB7A5F9"
 			tasks: [{
@@ -775,6 +794,7 @@
 			x: 5.5d
 			y: 5.0d
 			subtitle: "Command your puppy and change its behavior"
+			dependencies: ["273325ABEEB91313"]
 			hide: false
 			id: "1C51B1878A6EA4A8"
 			tasks: [{
@@ -936,6 +956,7 @@
 			x: 11.5d
 			y: -1.0d
 			subtitle: "You can use with your book to zoom in using \"Z\" while equipped"
+			dependencies: ["04DF2D54EC88AB98"]
 			id: "637BA0016448A9B1"
 			tasks: [{
 				id: "6DB1484253A93D92"
@@ -952,6 +973,7 @@
 			x: 12.5d
 			y: -1.5d
 			subtitle: "Place your Book of Shadows on Altar to read"
+			dependencies: ["04DF2D54EC88AB98"]
 			id: "777D2D26246AA6C7"
 			tasks: [{
 				id: "055E4DD57F2D247B"
@@ -1001,7 +1023,7 @@
 			x: -6.5d
 			y: -0.5d
 			subtitle: "Begin your Engimatic Journey"
-			description: ["Be wary, once you do this.. it can't be undone >;)"]
+			description: [""]
 			id: "3D0F991CD79AFA85"
 			tasks: [{
 				id: "0AAF3E1B06A980E7"
@@ -1063,8 +1085,8 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: -9.5d
+			x: 0.0d
+			y: -8.5d
 			subtitle: "Refined Storage add-on adding multi-block crafters and larger disks. Use book for Visual of Mutliblock"
 			description: [
 				"Adds a multiblock pattern crafter. It works just the same as it did back in AE 1. "
@@ -1088,8 +1110,8 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: -8.5d
+			x: -1.0d
+			y: -7.5d
 			subtitle: "Required for the core of your multiblock"
 			description: [
 				"- Adding more CPUs to the multiblock will speed the crafting up."
@@ -1122,38 +1144,14 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: -10.5d
+			x: -1.0d
+			y: -9.5d
 			dependencies: ["10DBD66C494B6432"]
 			id: "2633012B9E58A88D"
 			tasks: [{
 				id: "3CFDFE1D97615FD6"
 				type: "item"
 				item: "rebornstorage:multiblock_frame"
-			}]
-		}
-		{
-			x: -3.0d
-			y: -9.5d
-			id: "2E3410453B06F175"
-			tasks: [{
-				id: "10D5FBB5C7C5AF47"
-				type: "item"
-				item: {
-					id: "rebornstorage:super_wireless_crafting_grid"
-					Count: 1b
-					tag: { }
-				}
-			}]
-		}
-		{
-			x: -2.0d
-			y: -9.5d
-			id: "05DAFDBC63236A85"
-			tasks: [{
-				id: "155A0E7709D1B598"
-				type: "item"
-				item: "rebornstorage:advanced_wireless_transmitter"
 			}]
 		}
 		{
@@ -1209,8 +1207,8 @@
 			}]
 		}
 		{
-			x: 4.0d
-			y: -3.5d
+			x: 5.0d
+			y: -3.0d
 			subtitle: "Keep track of what you ate/need to eat for Hearts"
 			id: "49923817915C33F5"
 			tasks: [{
@@ -1225,7 +1223,7 @@
 			}]
 		}
 		{
-			x: 3.5d
+			x: 4.0d
 			y: -11.0d
 			subtitle: "Refined Cooking to be used with Refined Storage and Cooking for Blockheads"
 			dependencies: [
@@ -1253,8 +1251,8 @@
 		}
 		{
 			title: "Potion Charms"
-			x: 6.0d
-			y: -4.5d
+			x: 6.5d
+			y: -3.5d
 			subtitle: "Any potion effect can be crafted into a temporary charm!"
 			id: "727C56824B299D01"
 			tasks: [{
@@ -1273,6 +1271,7 @@
 		{
 			x: 3.5d
 			y: -0.5d
+			subtitle: "Find any biome"
 			id: "1A84AEF72BB8D59F"
 			tasks: [{
 				id: "23180B8FBF9289F0"
@@ -1287,6 +1286,7 @@
 		{
 			x: 4.5d
 			y: -0.5d
+			subtitle: "Find any structure"
 			id: "366F86C02B00C9D6"
 			tasks: [{
 				id: "501FF5D38D545E1B"
@@ -1335,7 +1335,7 @@
 		}
 		{
 			title: "A full kitchen"
-			x: 5.0d
+			x: 5.5d
 			y: -10.5d
 			id: "6E2E53764EB12F2C"
 			tasks: [
@@ -1466,12 +1466,24 @@
 					type: "item"
 					item: "storagenetwork:request"
 				}
+				{
+					id: "163A490A603E0AFA"
+					type: "item"
+					item: "storagenetwork:kabel"
+					count: 4L
+				}
+				{
+					id: "54086BAF265E68B9"
+					type: "item"
+					item: "storagenetwork:storage_kabel"
+				}
 			]
 		}
 		{
 			title: "Basics of Auto Crafting"
-			x: 1.0d
-			y: -10.0d
+			x: 0.0d
+			y: -9.5d
+			dependencies: ["7D98F3E7D133B8D8"]
 			id: "48C0065A0F3A125C"
 			tasks: [
 				{
@@ -1495,6 +1507,190 @@
 					item: "refinedstorage:crafting_monitor"
 				}
 			]
+		}
+		{
+			title: "Wireless Storage"
+			x: 2.5d
+			y: -10.5d
+			dependencies: ["7D98F3E7D133B8D8"]
+			id: "2F469CBED796660A"
+			tasks: [{
+				id: "098F5F17269DBB62"
+				type: "item"
+				item: "refinedstorage:wireless_transmitter"
+			}]
+			rewards: [{
+				id: "59DC0968A573AD97"
+				type: "item"
+				item: "refinedstorage:range_upgrade"
+				count: 4
+			}]
+		}
+		{
+			x: 2.0d
+			y: -11.5d
+			dependencies: ["2F469CBED796660A"]
+			id: "0FD378C496C150E6"
+			tasks: [{
+				id: "64380446DDB52CBD"
+				type: "item"
+				item: "refinedstorageaddons:wireless_crafting_grid"
+				match_nbt: false
+			}]
+		}
+		{
+			x: 1.5d
+			y: -12.5d
+			dependencies: ["0FD378C496C150E6"]
+			id: "349CE0B337A71A2D"
+			tasks: [{
+				id: "378E08C6F9494EB3"
+				type: "item"
+				item: "universalgrid:wireless_universal_grid"
+				match_nbt: false
+			}]
+		}
+		{
+			x: 1.5d
+			y: -10.0d
+			subtitle: "Lets you keep items perpetually in stock"
+			dependencies: ["7D98F3E7D133B8D8"]
+			id: "5E5E9F799911AE21"
+			tasks: [{
+				id: "50D08F9B64C8F6D6"
+				type: "item"
+				item: "rsrequestify:requester"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -10.5d
+			dependencies: ["5E5E9F799911AE21"]
+			id: "31B5ABBA20F0BE01"
+			tasks: [{
+				id: "339F1AC4DAA1E1BB"
+				type: "item"
+				item: "cabletiers:elite_requester"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -11.0d
+			subtitle: "Infinite range in the same dimension!"
+			dependencies: ["2F469CBED796660A"]
+			id: "63B89D3C134A2A6C"
+			tasks: [{
+				id: "464149D286C85B2C"
+				type: "item"
+				item: "rsinfinitybooster:infinity_card"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -12.0d
+			subtitle: "Storage everywhere!"
+			dependencies: ["63B89D3C134A2A6C"]
+			id: "324BEB50A5E19DAB"
+			tasks: [{
+				id: "7912647A304B42BB"
+				type: "item"
+				item: "rsinfinitybooster:dimension_card"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -3.5d
+			subtitle: "Store big 'ole stacks of stuff"
+			id: "0701933215E36B52"
+			tasks: [{
+				id: "28B2536BEE38B563"
+				type: "item"
+				item: "functionalstorage:oak_1"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -4.0d
+			dependencies: ["0701933215E36B52"]
+			id: "40C2103D468EA732"
+			tasks: [{
+				id: "5E6E04E620A34B81"
+				type: "item"
+				item: "functionalstorage:fluid_1"
+			}]
+		}
+		{
+			x: -2.7619047619047734d
+			y: -4.666666666666664d
+			subtitle: "Auto-convert between nuggets, etc"
+			dependencies: ["0701933215E36B52"]
+			id: "3F6CF6068EF463D0"
+			tasks: [{
+				id: "2C033C37DA675B82"
+				type: "item"
+				item: "functionalstorage:compacting_drawer"
+			}]
+		}
+		{
+			x: -1.8095238095238244d
+			y: -4.952380952380956d
+			dependencies: ["0701933215E36B52"]
+			id: "7F92781FD872FF06"
+			tasks: [{
+				id: "7DF02B27E758C493"
+				type: "item"
+				item: "functionalstorage:copper_upgrade"
+			}]
+		}
+		{
+			title: "Trash Cans"
+			x: 3.5d
+			y: -2.5d
+			subtitle: "Trash yo stuff"
+			id: "577521A3C9A13711"
+			tasks: [
+				{
+					id: "207586CB04BD7DC7"
+					type: "item"
+					item: "trashcans:item_trash_can"
+				}
+				{
+					id: "721602CEE2F5D071"
+					type: "item"
+					item: "trashcans:liquid_trash_can"
+				}
+				{
+					id: "6F558D29272505AC"
+					type: "item"
+					item: "trashcans:energy_trash_can"
+				}
+			]
+		}
+		{
+			title: "How to show light levels"
+			x: 0.75d
+			y: -0.75d
+			subtitle: "Press f7 to toggle showing light levels"
+			dependencies: ["24CA47E19CBB1738"]
+			size: 0.5d
+			id: "30F65FE5B5E20D29"
+			tasks: [{
+				id: "14291E35B6F6FC51"
+				type: "checkmark"
+				title: "Show light levels"
+			}]
+		}
+		{
+			x: 5.625d
+			y: -2.25d
+			subtitle: "Get your seeds here! Cheep seeds!"
+			size: 0.75d
+			id: "2849644538FCBC16"
+			tasks: [{
+				id: "3CDF3DEC6A4A0699"
+				type: "item"
+				item: "farmingforblockheads:market"
+			}]
 		}
 	]
 	quest_links: [ ]

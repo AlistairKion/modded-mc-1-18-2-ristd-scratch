@@ -50,7 +50,7 @@ hash = "8b28df2efad1e9f12842ba3b09cac5d5bacdf1f2e8e5bfcb1f35349d411eafae"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/starting_out.snbt"
-hash = "d24acc54c019a648158837e6eace4bb59a5105ca92efe1da962d0337b4739140"
+hash = "137cb0ecb3c78b39bfd36488974920eeb725a469b512d68aba7901936fc31e30"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
