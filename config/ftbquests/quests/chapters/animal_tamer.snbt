@@ -1,7 +1,7 @@
 {
 	id: "67EC7FC0F24E1E23"
 	group: "357818B443F9748C"
-	order_index: 2
+	order_index: 1
 	filename: "animal_tamer"
 	title: "Animal Tamer"
 	default_quest_shape: ""
@@ -101,11 +101,6 @@
 				timer: 100L
 				observe_type: 5
 				to_observe: "alexsmobs:cosmaw"
-			}]
-			rewards: [{
-				id: "7B23C6D2C3046BD1"
-				type: "random"
-				table_id: 2573245064785096990L
 			}]
 		}
 	]

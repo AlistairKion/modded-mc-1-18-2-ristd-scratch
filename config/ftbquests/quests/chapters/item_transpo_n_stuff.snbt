@@ -1,16 +1,16 @@
 {
-	id: "0F373DCA0FF90BD9"
-	group: "2BDFA6283B227A86"
+	id: "203CEF3EEA2AECD9"
+	group: "0FAB4A14717CC291"
 	order_index: 1
-	filename: "misc"
-	title: "Contraptions on Trains and Water"
+	filename: "item_transpo_n_stuff"
+	title: "Trains, boats, and rails"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
 			disable_toast: true
-			x: -1.5d
-			y: 2.0d
+			x: 0.0d
+			y: 1.0d
 			subtitle: "Floating or Rail Contraptions, including Create mod"
 			id: "33DABB81377680AF"
 			tasks: [{
@@ -26,8 +26,8 @@
 			}]
 		}
 		{
-			x: 0.5d
-			y: 0.0d
+			x: 2.0d
+			y: -1.0d
 			description: ["Vessels are the core of this mod. There are two types of vessels: Barges (that can do all sorts of useful things), and Tugs (that drag the barges). If vessels get stuck, they can be moved slightly using fishing rods (just like other entities). Tugs can also be dragged with leads, right click on the hook at the back of the boat to attach.Transport your items and fluids, or fish automatically using any existing natural waterways or create your own!"]
 			dependencies: ["2CB030EC47B87DF5"]
 			id: "53D1F618BD80B934"
@@ -38,8 +38,8 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: 0.0d
+			x: 0.0d
+			y: -1.0d
 			subtitle: "Tugs pull Barges, Barges do the fun automated transport stuff... on boats in water!"
 			dependencies: ["33DABB81377680AF"]
 			id: "2CB030EC47B87DF5"
@@ -55,8 +55,8 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: -0.5d
+			x: -1.0d
+			y: -1.5d
 			subtitle: "Recommended to read guide for this dock  as it contains too much to write"
 			dependencies: ["2CB030EC47B87DF5"]
 			size: 0.6d
@@ -74,8 +74,8 @@
 			}]
 		}
 		{
-			x: 0.5d
-			y: 2.0d
+			x: 2.0d
+			y: 1.0d
 			subtitle: "Used for inputs/outputs on barges"
 			description: ["Place a hopper underneath the barges path to have it pull resources"]
 			dependencies: ["53D1F618BD80B934"]
@@ -92,8 +92,8 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: 0.5d
+			x: -1.0d
+			y: -0.5d
 			subtitle: "Forces a path for a tug. Place on highest layer under water"
 			description: ["Shift+Right Click block once placed to rotate"]
 			dependencies: ["2CB030EC47B87DF5"]
@@ -112,8 +112,8 @@
 			}]
 		}
 		{
-			x: 0.6d
-			y: -1.2d
+			x: 2.0999999999999996d
+			y: -2.2d
 			subtitle: "Ride your locamotive "
 			dependencies: ["53D1F618BD80B934"]
 			size: 0.6d
@@ -131,8 +131,8 @@
 			}]
 		}
 		{
-			x: -3.5d
-			y: 6.0d
+			x: -2.0d
+			y: 5.0d
 			subtitle: "Used to connect Create Contraptions on top of Little Logistic Train Cars"
 			dependencies: ["68B7CBAC0900DC7E"]
 			id: "5825383A9A9254AE"
@@ -148,8 +148,8 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: 6.0d
+			x: 0.0d
+			y: 5.0d
 			subtitle: "Powered by Rails,. connect Little Logistics to your train for automated transportation on land instead of water"
 			dependencies: ["4149C4FB6F309B7B"]
 			id: "68B7CBAC0900DC7E"
@@ -167,8 +167,8 @@
 			}]
 		}
 		{
-			x: -4.5d
-			y: 4.0d
+			x: -3.0d
+			y: 3.0d
 			subtitle: "For Docking your Train"
 			description: ["This is to be used after the locomotive docking rail"]
 			dependencies: ["6E54565305595353"]
@@ -180,8 +180,8 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: 4.0d
+			x: 0.0d
+			y: 3.0d
 			dependencies: ["33DABB81377680AF"]
 			id: "4149C4FB6F309B7B"
 			tasks: [{
@@ -191,8 +191,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: -1.2d
+			x: 3.0d
+			y: -2.2d
 			subtitle: "Chunk load your barge in a 3x3 area"
 			dependencies: ["53D1F618BD80B934"]
 			size: 0.6d
@@ -209,8 +209,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: -0.3d
+			x: 3.0d
+			y: -1.2999999999999998d
 			subtitle: "Auto fish on your long routes in deep water"
 			description: ["Needs to be in open water for nets to be deployed. Avoid shallow waters otherwise overfishing could happen."]
 			dependencies: ["53D1F618BD80B934"]
@@ -228,8 +228,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: 0.6d
+			x: 3.0d
+			y: -0.40000000000000036d
 			subtitle: "Transports Fluids, can be loaded with Fluid Hopper"
 			dependencies: ["53D1F618BD80B934"]
 			size: 0.6d
@@ -246,8 +246,8 @@
 			}]
 		}
 		{
-			x: -3.5d
-			y: 2.0d
+			x: -2.0d
+			y: 1.0d
 			subtitle: "Used to Link Together your Tugs, Carts, Barges"
 			dependencies: ["33DABB81377680AF"]
 			id: "7F63ED080D31340C"
@@ -258,8 +258,8 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: -2.5d
+			x: 0.0d
+			y: -3.5d
 			subtitle: "Used to store Forge Energy for your energy tug and locomotive"
 			description: ["Can recharge when docked in a vehicle charger. Comes with an extra slot for a capacitor"]
 			dependencies: ["2CB030EC47B87DF5"]
@@ -276,8 +276,8 @@
 			}]
 		}
 		{
-			x: -3.0d
-			y: 0.0d
+			x: -1.5d
+			y: -1.0d
 			subtitle: "Used to store and set Tugs route"
 			description: ["Read about this in the Little Contraption guide"]
 			dependencies: ["2CB030EC47B87DF5"]
@@ -296,8 +296,8 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: 6.0d
+			x: 1.0d
+			y: 5.0d
 			subtitle: "Transport items"
 			dependencies: ["68B7CBAC0900DC7E"]
 			size: 0.6d
@@ -314,8 +314,8 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: 7.0d
+			x: 0.0d
+			y: 6.0d
 			subtitle: "Stores fluid for transportation. can be loaded with a Fluid hopper"
 			dependencies: ["68B7CBAC0900DC7E"]
 			size: 0.6d
@@ -332,8 +332,8 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: 7.0d
+			x: 1.0d
+			y: 6.0d
 			subtitle: "Chunkload your train route. This is a small chunk load, 3x3."
 			dependencies: ["68B7CBAC0900DC7E"]
 			size: 0.6d
@@ -350,8 +350,8 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: -4.0d
+			x: -1.0d
+			y: -5.0d
 			subtitle: "Similar to the Energy Tug, stores energy for your train."
 			dependencies: ["64ADFE52311B7D2A"]
 			id: "3E6D3E7757D0A3D5"
@@ -368,8 +368,8 @@
 			}]
 		}
 		{
-			x: -3.5d
-			y: 4.0d
+			x: -2.0d
+			y: 3.0d
 			subtitle: "Used to dock locomotives"
 			description: ["This should be in any rail setup for docking, the train car docking rail comes after this in a straight line."]
 			dependencies: ["4149C4FB6F309B7B"]
@@ -381,8 +381,8 @@
 			}]
 		}
 		{
-			x: -5.5d
-			y: 4.0d
+			x: -4.0d
+			y: 3.0d
 			subtitle: "All available little rails work with vanilla rails"
 			dependencies: ["2D4A0FC89E9ED458"]
 			id: "3113B9858E22674A"
@@ -420,8 +420,8 @@
 			}]
 		}
 		{
-			x: -0.5d
-			y: -4.0d
+			x: 1.0d
+			y: -5.0d
 			dependencies: ["64ADFE52311B7D2A"]
 			id: "19C8AE144788CB72"
 			tasks: [{
@@ -437,8 +437,8 @@
 			}]
 		}
 		{
-			x: 0.5d
-			y: 4.0d
+			x: 2.0d
+			y: 3.0d
 			subtitle: "Store and set routes for your train"
 			description: ["Recommended to read the Little Logistics guide on how to use this item"]
 			dependencies: ["4149C4FB6F309B7B"]
@@ -455,8 +455,8 @@
 			}]
 		}
 		{
-			x: -4.5d
-			y: 2.5d
+			x: -3.0d
+			y: 1.5d
 			dependencies: ["33DABB81377680AF"]
 			id: "0963911C3A9992FA"
 			tasks: [{
@@ -471,8 +471,8 @@
 			}]
 		}
 		{
-			x: -2.4d
-			y: 4.8d
+			x: -0.8999999999999999d
+			y: 3.8000000000000007d
 			subtitle: "Rotate vanilla and little logistic rails"
 			dependencies: ["4149C4FB6F309B7B"]
 			size: 0.6d
@@ -489,8 +489,8 @@
 			}]
 		}
 		{
-			x: -4.5d
-			y: 1.5d
+			x: -3.0d
+			y: 0.5d
 			dependencies: ["33DABB81377680AF"]
 			id: "1B379AD0F9934688"
 			tasks: [{

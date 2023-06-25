@@ -30,67 +30,27 @@ hash = "3179fae689777a95853935397c303ba8908b7c4df959d542801c550444b647fc"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "3b307c1fa61bbf485b24c22f4b93cc500b1a44674b2a7015c14f48902d709b73"
+hash = "51d0f4b345b5a8e75f1d1a5c9bab2a8a51b1757d5ad17ff275aa7879b41a24f0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/animal_tamer.snbt"
-hash = "c238e6185d905383f2090f70af487da7fb1962534edc4a33d58cf39933acb0f3"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/bosses.snbt"
-hash = "74ae5239cfce46d01534c589069aec7e13c142ba13f8b5dd4a171947d6844d52"
+hash = "79fe670ff00b6625c0f5438b24212a619db53f3c8536de491b9c66d54aa45fac"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/cables_and_disks.snbt"
-hash = "a445aeb2cdb93394973c1784c1a17b959c18736b05e25a2c9f92ae78e0012998"
+hash = "1cc216d2047d723e32a397b9deeff120d7f00e2977663f377a3b6dc0f533369d"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/decor.snbt"
-hash = "6e3f6107c286877d9d163ba57b0c0ad3324a58a3b3a5d88138a3e989860aa422"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/dungeons.snbt"
-hash = "fd697ac8d90f2d67ec5d5e2b224ac2dc17971173f4527d595711de2f6e79be7a"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/food_time.snbt"
-hash = "1c356b07811c81104302db9df09768295795cfb65aac59bc2f768a10a6884548"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/magic.snbt"
-hash = "799e9006375de13047ac193feddfe883c77fd6af321ec07d4dd85592463c65a4"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/misc.snbt"
-hash = "0287448e07fb01bd63a183e0123dcda9dbfdffce70d1c51388bd95bcd982f889"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/multiblock_crafter.snbt"
-hash = "bc59a016c5396b0d3073e6b494356fae668bc1440fab6b29c966f50293f4e445"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/random_beginnings.snbt"
-hash = "c79892c307094a2ea7903a59e896b455c404990414c2238997a316162ee63838"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/regretful_journey.snbt"
-hash = "43fb1d2a7994d21c195c8c2fcd848f48d94f1b4dc283885de71db6db6da9dd87"
+file = "config/ftbquests/quests/chapters/item_transpo_n_stuff.snbt"
+hash = "10a7e9645ea04cdf4ff22d72076c7df72f41da9176bde6e821acbe6a0ce49661"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/slay_em.snbt"
-hash = "e6a87c7bce8686e5ea81898cfc6c80060538f346764d4eda079780b294821575"
+hash = "8b28df2efad1e9f12842ba3b09cac5d5bacdf1f2e8e5bfcb1f35349d411eafae"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/starting_out.snbt"
-hash = "c059dbbdc81a5f8c41f4d82dbc05200ef47f945e5934fd88db87de1b05d0787a"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/the_big_3.snbt"
-hash = "93cb2a94583dd34a3d7b5e28f05f03f2af1afd9e4a648ad525ad9ec4c84686d1"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/youre_a_gardener.snbt"
-hash = "e9172393a2d9e70e1e52d3278c2b0edfd334c1fd7ee1180226c335f3fd15455f"
+hash = "d24acc54c019a648158837e6eace4bb59a5105ca92efe1da962d0337b4739140"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"

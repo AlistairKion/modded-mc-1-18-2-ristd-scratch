@@ -3,18 +3,17 @@
 	group: "0FAB4A14717CC291"
 	order_index: 0
 	filename: "starting_out"
-	title: "Starting Out"
+	title: "All the things!"
 	subtitle: ["Oh no, my knowledge. It's Broken."]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
 			title: "Look at what I made!"
-			x: 1.5d
-			y: 0.0d
+			x: 3.0d
+			y: -1.5d
 			subtitle: "A better table"
 			description: ["This neat little crafting tab allows on the go crafting."]
-			size: 0.75d
 			id: "54626924CE9BD31F"
 			tasks: [{
 				id: "1B1562FE78356B61"
@@ -30,8 +29,8 @@
 		}
 		{
 			title: "A larger Storage"
-			x: 3.0d
-			y: 0.0d
+			x: 4.0d
+			y: -1.5d
 			subtitle: "Let me tell how much junk this baby can fit"
 			description: [
 				"These chests are bigger then normal chests and are worth using for various automatic storages/processing."
@@ -39,7 +38,6 @@
 				"You can also stack them vertically!"
 			]
 			hide: true
-			size: 0.75d
 			id: "05F8D5D9AA6FF76D"
 			tasks: [
 				{
@@ -72,8 +70,8 @@
 		}
 		{
 			title: "How to Wall Jump"
-			x: -2.25d
-			y: -0.75d
+			x: -0.75d
+			y: -2.25d
 			subtitle: "Wall Jumping Basics"
 			description: [
 				"Did you know that you can wall jump?"
@@ -99,11 +97,12 @@
 			}]
 		}
 		{
-			title: "Welcome to Another Quality Modpack 3"
-			x: -1.5d
-			y: 0.0d
+			title: "Welcome to RISTD Scratch!"
+			x: 0.0d
+			y: -1.5d
 			subtitle: "Read description <3"
-			description: ["This chapter will go over some of the core mods of the pack and explain how to do certain things. Make sure you complete these quests to unlock other areas like Storage Drawers"]
+			description: ["This chapter will go over some of the core mods of the pack and explain how to do certain things"]
+			size: 0.75d
 			id: "24CA47E19CBB1738"
 			tasks: [{
 				id: "4C95DABF01BFAFD9"
@@ -113,8 +112,8 @@
 		}
 		{
 			title: "Too Many Mobs are Spawning"
-			x: -1.5d
-			y: 1.0d
+			x: 0.0d
+			y: -0.5d
 			subtitle: "How to stop mob spawning in a area"
 			description: ["Torchmaster makes some great items to help stop mobs and even passive mobs from spawning. Craft this guy here, place it down, and you're all set!"]
 			dependencies: ["24CA47E19CBB1738"]
@@ -133,8 +132,8 @@
 			}]
 		}
 		{
-			x: -2.5d
-			y: 0.0d
+			x: -1.0d
+			y: -1.5d
 			subtitle: "How to get free loot from others hard work"
 			description: [
 				"Want to create a party and complete quests together?"
@@ -160,21 +159,9 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: -5.0d
-			subtitle: "I will be adding more quests over time, mainly from a huge quest update all at once."
-			size: 2.0d
-			id: "6515F80F256CBD9E"
-			tasks: [{
-				id: "5766FCA1626E6902"
-				type: "custom"
-				title: "Quests are WIP"
-			}]
-		}
-		{
 			title: "How to Sort"
-			x: -0.5d
-			y: 0.0d
+			x: 1.0d
+			y: -1.5d
 			subtitle: "Click middle mouse button in a empty slot"
 			dependencies: ["24CA47E19CBB1738"]
 			size: 0.5d
@@ -186,14 +173,13 @@
 			}]
 		}
 		{
-			x: 4.5d
-			y: 0.0d
+			x: 5.0d
+			y: -1.5d
 			subtitle: "The first tier of the only backpack type youll need. Add modular upgrades!"
 			description: [
 				""
 				"Make sure you upgrade your backup and craft more components!"
 			]
-			size: 0.75d
 			id: "7DF697E04A754E68"
 			tasks: [{
 				id: "0D729F130ABA4B8A"
@@ -220,8 +206,8 @@
 			]
 		}
 		{
-			x: -0.75d
-			y: -0.75d
+			x: 0.75d
+			y: -2.25d
 			subtitle: "press \"a + c\" to open Inventory Plus config menu"
 			description: ["Great config options are here like auto fill, auto swap low durability, sorting rules, etc."]
 			dependencies: ["24CA47E19CBB1738"]
@@ -235,11 +221,10 @@
 		}
 		{
 			title: "Easy Villager Automation"
-			x: 1.5d
-			y: -1.5d
+			x: 3.5d
+			y: -2.5d
 			subtitle: "Auto villager farm :)"
 			description: ["Capture a villager and place it in your Easy Villager block. Note: There are different types of Easy Villager Blocks"]
-			size: 0.75d
 			id: "4B5D29232A14E26C"
 			tasks: [{
 				id: "3C9D62305B08ADA4"
@@ -253,10 +238,11 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: -2.5d
+			x: 0.75d
+			y: -3.75d
 			subtitle: "Place this bad boy down to get a free house! On Servers, be kind, dont generate by spawn."
 			description: ["You've done it. You have played AQM3 for 5+ Minutes and earned a starter house. Prefab features tons of pre-built structures that you can use, but for the other prefab's youll need to upgrade your PMMO attributes like building. "]
+			size: 0.75d
 			id: "20278054010EE5B1"
 			tasks: [{
 				id: "33298B38990CBE5E"
@@ -271,7 +257,7 @@
 			}]
 		}
 		{
-			title: "Dynamic Trees Note - Important Please Read!"
+			title: "Felling Trees Note"
 			icon: {
 				id: "minecraft:stone_axe"
 				Count: 1b
@@ -279,27 +265,1236 @@
 					Damage: 0
 				}
 			}
-			x: 1.0d
-			y: -3.5d
-			subtitle: "Tree chopping mods are not compat with Dynamic Trees. Only Tree Chop (Sneak + Click) on regular logs."
+			x: -0.75d
+			y: -0.375d
+			subtitle: "Sneak+click on tree to chop every log 1 by 1"
+			dependencies: ["24CA47E19CBB1738"]
+			size: 0.75d
 			id: "69CE4EDC9A14C592"
-			tasks: [
-				{
-					id: "26F678D99E0F3C27"
-					type: "checkmark"
-					title: "I understand"
-				}
-				{
-					id: "0ECF5553CEC20CE8"
-					type: "custom"
-					title: "You cannot use Sneak + Click on Dynamic Trees"
-				}
-			]
+			tasks: [{
+				id: "26F678D99E0F3C27"
+				type: "checkmark"
+				title: "I understand"
+			}]
 			rewards: [{
 				id: "7AC27194BFA329BD"
 				type: "xp_levels"
 				xp_levels: 1
 			}]
+		}
+		{
+			x: 7.5d
+			y: -2.0d
+			subtitle: "Copy enchanted books!"
+			description: [""]
+			id: "14F3B2DE79DE768D"
+			tasks: [{
+				id: "4ABDC8A480D6CA16"
+				type: "item"
+				item: "scribetable:scribe_table"
+			}]
+		}
+		{
+			title: "Compact Machines"
+			x: -3.5d
+			y: -2.0d
+			id: "7FFD7B15A8E154F1"
+			tasks: [{
+				id: "527005DDE19AE274"
+				type: "item"
+				item: "compactmachines:machine_normal"
+				match_nbt: false
+			}]
+			rewards: [{
+				id: "5ACDA2F29E6DD187"
+				type: "item"
+				item: "compactmachines:personal_shrinking_device"
+			}]
+		}
+		{
+			x: -4.5d
+			y: -2.625d
+			dependencies: ["7FFD7B15A8E154F1"]
+			size: 0.75d
+			id: "2C827ED9DCCF2323"
+			tasks: [{
+				id: "542D412241BA5927"
+				type: "item"
+				item: {
+					id: "compactmachines:chunkloader_upgrade"
+					Count: 1b
+					tag: {
+						upgrade_info: {
+							key: "compactmachines:chunkloader"
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "Easy Piglin Automation"
+			x: 4.5d
+			y: -2.5d
+			subtitle: "Auto piglin farm :)"
+			description: ["Capture a piglin and place it in your Easy Piglin block"]
+			id: "4783F9CEB3C72468"
+			tasks: [{
+				id: "7FC337B8956C88E2"
+				type: "item"
+				item: "easy_piglins:barterer"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.5d
+			subtitle: "Use a silk touch pick on a spawner to pick it up!"
+			description: [""]
+			dependencies: ["24CA47E19CBB1738"]
+			size: 0.5d
+			id: "7503009532FBA676"
+			tasks: [{
+				id: "64CB3E327665FDB5"
+				type: "checkmark"
+				title: "Silk touch spawners with your silk touch pick"
+			}]
+		}
+		{
+			x: 8.0d
+			y: -6.5d
+			subtitle: "You're evil!"
+			description: ["Sinister Carrots are rarely found as loot in Woodland Mansions. They can be fed to a zombie horse in order to turn it into a skeleton horse. They can also be fed to a tamed rabbit to transform it into a Killer Rabbit, which can attack and is much stronger than a normal rabbit."]
+			id: "20ECF89A9097CF12"
+			tasks: [{
+				id: "3DF7AEE3AB27BD87"
+				type: "item"
+				item: "domesticationinnovation:sinister_carrot"
+			}]
+			rewards: [{
+				id: "1376D3D92AD16C8C"
+				type: "item"
+				item: "minecraft:carrot"
+			}]
+		}
+		{
+			x: 9.0d
+			y: -6.5d
+			description: ["To tame a rabbit, feed it several carrots. Rabbits only have 3 health by default and usually (see: Sinister Carrot) cannot attack. However, to make them useful rabbits will scare off ravagers"]
+			id: "54F9FD20024987C4"
+			tasks: [{
+				id: "4C5320D451AFBD74"
+				type: "observation"
+				title: "How to Tame Rabbit"
+				icon: "minecraft:rabbit_spawn_egg"
+				timer: 10L
+				observe_type: 0
+				to_observe: "minecraft:rabbit"
+			}]
+			rewards: [{
+				id: "5C3CD77466992942"
+				type: "item"
+				item: "minecraft:carrot"
+				count: 3
+			}]
+		}
+		{
+			x: 10.5d
+			y: -7.0d
+			subtitle: "All Enchantments"
+			description: ["View all the enchantments this mod offers for your pets by using JEI and searching @Domest"]
+			id: "7CCDA7AEC7B34724"
+			tasks: [{
+				id: "798ED7C74F827085"
+				type: "custom"
+				icon: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							lvl: 1s
+							id: "minecraft:protection"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: 10.5d
+			y: -6.0d
+			subtitle: "You'll want this for Enchantments"
+			description: [
+				"Like a nametag, these collar tags can be renamed in an anvil and used on a mob to rename it (unlike a nametag, this is only for animals that are your pets). However, their real use is that they can be enchanted"
+				""
+				"Pets can be enchanted by applying enchants to a collar tag in either an anvil or an enchanting table."
+				""
+				"These collars can then be placed on a tamed pet of yours by interacting with it. To get the enchanted collar back, you can simply swap it with any other collar, including an unenchanted one. You can view a pet's enchants by sneaking and looking at them."
+			]
+			id: "5AC39862D04A2295"
+			tasks: [{
+				id: "44527990CEC5A7C9"
+				type: "item"
+				item: "domesticationinnovation:collar_tag"
+			}]
+			rewards: [{
+				id: "65AF271227D012A8"
+				type: "item"
+				item: "minecraft:oak_planks"
+				count: 3
+			}]
+		}
+		{
+			icon: "minecraft:axolotl_bucket"
+			x: 9.0d
+			y: -5.5d
+			description: ["Gone are the days of weirdly holding a tropical fish bucket if you want to use an Axolotl as a companion: These amphibians are now fully tameable! Simply feed a wild axolotl a few tropical fish to tame them. They can be made to sit, wander and follow like all the other tameable mobs. Note that axolotls are by default very slow on land, dry out and have low health - you have been warned. "]
+			id: "2B13A71997DA9C38"
+			tasks: [{
+				id: "300F23E98357BD15"
+				type: "observation"
+				title: "How to Tame Axolotl"
+				timer: 10L
+				observe_type: 0
+				to_observe: "minecraft:axolotl"
+			}]
+			rewards: [{
+				id: "569B100EE406F407"
+				type: "item"
+				item: "minecraft:tropical_fish"
+			}]
+		}
+		{
+			x: 9.0d
+			y: -4.5d
+			description: ["Trustable mobs have always been somewhat scuffed in implementation. Thankfully, we've made it so that tamed foxes are actually tamed - and can be made to sit, wander and follow like the other pets. To get a tame fox, you need to breed two wild foxes with sweet berries and wait for it to grow up. Note that no matter how tame foxes are, they'll still want to kill any chickens and (untamed) rabbits they can see"]
+			id: "0202D9FBBD57355B"
+			tasks: [{
+				id: "09447106054ED1F6"
+				type: "observation"
+				title: "How to Tame Fox"
+				icon: "minecraft:fox_spawn_egg"
+				timer: 10L
+				observe_type: 5
+				to_observe: "minecraft:fox"
+			}]
+			rewards: [{
+				id: "1F483217D8696D96"
+				type: "item"
+				item: "minecraft:sweet_berries"
+				count: 3
+			}]
+		}
+		{
+			x: 10.5d
+			y: -5.0d
+			subtitle: "Set your pets Respawn Point"
+			description: [
+				"By moving one of your tamed mobs onto a pet bed, you enable it to respawn there the next morning if it somehow dies. The visual indication for this is if you see a bunch of ZZZ particles appear above your pet's head: this means it has set its respawn point. To remove the respawn point, simply break the bed block."
+				""
+				"Mobs can only respawn at dawn, so if your pet dies some other time you will have to wait until then to see it again. Pet enchants are preserved with respawning, but more on that later."
+			]
+			id: "397E21BCAB6C08F0"
+			tasks: [{
+				id: "410A8F0851B57B92"
+				type: "item"
+				title: "Any #domesticationinnovation:pet_beds"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "domesticationinnovation:pet_beds"
+					}
+				}
+			}]
+		}
+		{
+			title: "Tame other mobs using Domestication Innovation"
+			x: 10.5d
+			y: -4.0d
+			subtitle: "Tame other mobs and have them battle with Enchantments"
+			description: [
+				"You can command tame Axolotls, Parrots, Foxes, Rabbits, and of course wolves. With this mod, which differs from doggy talents, your pets can be enchanted with 37 different enchantments, be commanded by you or a drum, and will also make your pets not get hurt when you swing at a mob and they are in front of your weapon."
+				""
+				"Wander, Stay, and Follow - Right clicking on your mob will make them follow one of these commands. Later on we will discuss other items that can do this for you"
+				""
+				"Feather on a Stick: When used, this will send out a feather on a string in front of you. The closest pet of yours will then try to move onto the feather to play with it. This tool is useful for getting your mob out of places it shouldn't be, like if it's stuck in a doorway or on top of a chest. It's also useful for moving a pet onto its bed so you can set its respawn point."
+			]
+			id: "36AB032A061B253C"
+			tasks: [{
+				id: "6CBB8A4812239F94"
+				type: "item"
+				item: {
+					id: "domesticationinnovation:feather_on_a_stick"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "5FF013B95A591CD8"
+				type: "item"
+				item: "minecraft:wheat"
+				count: 16
+			}]
+		}
+		{
+			x: 12.0d
+			y: -4.5d
+			subtitle: "Horse into a Zombie Horse?!?"
+			description: ["Rotten Apples have a chance to form if an apple item despawns on the ground. These green, wormy apples can be fed to a horse in order to turn it into a zombie horse. Note that you'll want to make sure the horse is tamed and saddled prior to this action. This zombification process will also preserve the speed and other aspects of the horse. Zombie horses cannot wear armor."]
+			id: "5661F33F8303245B"
+			tasks: [{
+				id: "474BA02D43CCB45C"
+				type: "item"
+				item: "domesticationinnovation:rotten_apple"
+			}]
+			rewards: [{
+				id: "3C87B6C0107A0571"
+				type: "item"
+				item: "minecraft:sugar"
+				count: 4
+			}]
+		}
+		{
+			icon: "domesticationinnovation:pet_bed_white"
+			x: 12.0d
+			y: -5.5d
+			subtitle: "Place any pet bed next to unemployed villager"
+			description: ["Animal Tamers can be found in villages in their own unique houses or can be created with a unemployed villager using a pet bed as a workstation. They trade a variety of items related to animals from both vanilla minecraft and this mod, including unique pet enchants(charisma). Their houses also contain some untamed mobs and sometimes fish tanks."]
+			id: "4A54B78FE47A8AC0"
+			tasks: [{
+				id: "69C28F141D823707"
+				type: "observation"
+				title: "Employ a Animal Tamer"
+				icon: "domesticationinnovation:pet_bed_white"
+				timer: 0L
+				observe_type: 0
+				to_observe: "minecraft:dirt"
+			}]
+		}
+		{
+			x: 12.0d
+			y: -6.5d
+			subtitle: "Automate commanding groups of mobs via redstone"
+			description: ["When interacted with, the drum will beat and change command modes, whilst ordering all tamed mobs of the user to follow, stay or wander depending on the beat. If given a redstone signal, it will command the mobs of the player that originally placed the block. The block also makes a funny sound if you jump on it."]
+			id: "1620EE001FF68BD5"
+			tasks: [{
+				id: "42897977E18F99EC"
+				type: "item"
+				item: "domesticationinnovation:drum"
+			}]
+			rewards: [{
+				id: "056502718435B9F4"
+				type: "item"
+				item: "minecraft:redstone"
+				count: 2
+			}]
+		}
+		{
+			x: 13.5d
+			y: -6.0d
+			subtitle: "Gift your tamed pet to another player"
+			description: ["The Deed of Ownership is an item that can be purchased from the Animal Tamer villager. By right clicking on a tamed pet that you are the owner of, you bind it to the deed. If you give the deed to any other player, and they use it on the bounded animal, then the ownership of the pet will pass onto them, making it effectively as if they were the ones who tamed the animal."]
+			id: "06D6D05209C145AD"
+			tasks: [{
+				id: "4084AFDCFF34F6B0"
+				type: "item"
+				item: "domesticationinnovation:deed_of_ownership"
+			}]
+		}
+		{
+			x: 7.0d
+			y: 0.5d
+			subtitle: "Get your Doggy Dog on"
+			description: ["Time for Doggy Talents mod! Go tame a dog, and then use your reward, the training treat on it to level it up."]
+			id: "0FE551220093A8BD"
+			tasks: [{
+				id: "176BEC686AA7BFF4"
+				type: "observation"
+				title: "Tame a Dog"
+				icon: "doggytalents:doggy_charm"
+				timer: 0L
+				observe_type: 0
+				to_observe: "minecraft:dirt"
+			}]
+		}
+		{
+			x: 7.0d
+			y: 2.0d
+			subtitle: "Train that doggy"
+			description: ["After crafting the training treat, hold it and right click your pup with it to train the beast and level it up"]
+			hide: false
+			id: "3CCCD98359F672E5"
+			tasks: [{
+				id: "2CC4628E32FEEBA3"
+				type: "item"
+				item: "doggytalents:training_treat"
+				only_from_crafting: true
+			}]
+			rewards: [{
+				id: "2EA42381FEA1A4FB"
+				type: "item"
+				item: "doggytalents:training_treat"
+			}]
+		}
+		{
+			x: 5.5d
+			y: 2.0d
+			subtitle: "The next level... to level"
+			hide: false
+			id: "1C3A9A727CD05703"
+			tasks: [{
+				id: "646A31CA2C87439D"
+				type: "item"
+				item: "doggytalents:super_treat"
+				only_from_crafting: true
+			}]
+			rewards: [{
+				id: "12537BFAC8EEA04B"
+				type: "item"
+				item: "doggytalents:super_treat"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 2.0d
+			subtitle: "This will bring it to its third tier after X amount of levels is reached"
+			hide: false
+			id: "0F6FE33A1E0763E8"
+			tasks: [{
+				id: "7B8B39C5B1665918"
+				type: "item"
+				item: "doggytalents:master_treat"
+				only_from_crafting: true
+			}]
+			rewards: [{
+				id: "3335473214FB0ADC"
+				type: "item"
+				item: "doggytalents:master_treat"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 2.0d
+			subtitle: "The Dire levels are pretty important"
+			description: ["You can only use the dire treat when your puppy hits a certain level, after all the other bones are used in order."]
+			hide: false
+			id: "3AE52204A496CF81"
+			tasks: [{
+				id: "07EB2BB079132C12"
+				type: "item"
+				item: "doggytalents:dire_treat"
+			}]
+			rewards: [
+				{
+					id: "74D2E65BA01A2B98"
+					type: "item"
+					item: "doggytalents:dire_treat"
+				}
+				{
+					id: "07BDD40146FA0ECA"
+					type: "item"
+					item: "cyclic:heart"
+				}
+			]
+		}
+		{
+			x: 7.0d
+			y: 3.5d
+			subtitle: "Your Doggy Trainer Item"
+			description: ["Once leveled, hold out your stick you just crafted and right click the pup to open up the Leveling GUI. Here you can select what skills you want to level up, rename your pup, and select its behavior. "]
+			hide: false
+			id: "273325ABEEB91313"
+			tasks: [{
+				id: "6D7FB10EC25812A3"
+				type: "item"
+				item: "minecraft:stick"
+				only_from_crafting: true
+			}]
+			rewards: [{
+				id: "26EBA6EBF9F4CDFA"
+				type: "item"
+				item: "doggytalents:sunglasses"
+			}]
+		}
+		{
+			x: 8.5d
+			y: 3.5d
+			subtitle: "Lets make that pup huge"
+			description: ["Once crafted, use this on your pup to increase its size. The dog can take 3 large bones from its normal size"]
+			hide: false
+			optional: true
+			id: "386B9DCF3FFE65B7"
+			tasks: [{
+				id: "20E52BD517E914E2"
+				type: "item"
+				item: "doggytalents:big_bone"
+				only_from_crafting: true
+			}]
+		}
+		{
+			x: 10.0d
+			y: 3.5d
+			subtitle: "How about a tiny pup?"
+			description: ["Alternatively, you can make the pup really really small, you can use this until its like a inch big"]
+			hide: false
+			optional: true
+			id: "6DF004491A989DD2"
+			tasks: [{
+				id: "2B2EFCA5B993C82A"
+				type: "item"
+				item: "doggytalents:tiny_bone"
+				only_from_crafting: true
+			}]
+		}
+		{
+			x: 8.5d
+			y: 5.0d
+			subtitle: "Cut its clothes off, or un-dogify"
+			hide: false
+			id: "476168F8F43B05BE"
+			tasks: [{
+				id: "4AD9C5C809AEFD64"
+				type: "item"
+				item: "doggytalents:collar_shears"
+			}]
+		}
+		{
+			x: 7.0d
+			y: 5.0d
+			subtitle: "Lost puppy no more! (Radar collar sold separately)"
+			hide: false
+			id: "29E835D38AB7A5F9"
+			tasks: [{
+				id: "5FEE047A29689926"
+				type: "item"
+				item: "doggytalents:radar"
+				only_from_crafting: true
+			}]
+		}
+		{
+			x: 5.5d
+			y: 5.0d
+			subtitle: "Command your puppy and change its behavior"
+			hide: false
+			id: "1C51B1878A6EA4A8"
+			tasks: [{
+				id: "2B4A19B057193222"
+				type: "item"
+				item: "doggytalents:whistle"
+			}]
+		}
+		{
+			title: "Ancient Fire"
+			x: -4.5d
+			y: 3.5d
+			subtitle: "Stalwart Dungeons - Kill Nether Mini Boss"
+			description: ["But.... how do you get there?"]
+			id: "4162A707CBB030CB"
+			tasks: [
+				{
+					id: "56942737B21D9174"
+					type: "item"
+					item: {
+						id: "stalwart_dungeons:ancient_fire"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "35D17EB8AA8A934E"
+					type: "kill"
+					title: "Kill Nether Keeper"
+					icon: "minecraft:endermite_spawn_egg"
+					disable_toast: true
+					entity: "stalwart_dungeons:nether_keeper"
+					value: 1L
+				}
+			]
+			rewards: [
+				{
+					id: "7A8A1B1F0D57643B"
+					type: "item"
+					item: "stalwart_dungeons:blaze_armor_scrap"
+					count: 2
+				}
+				{
+					id: "42DDDF4362990BB0"
+					type: "random"
+					table_id: 5396437845961881468L
+				}
+			]
+		}
+		{
+			x: -4.5d
+			y: 2.5d
+			subtitle: "Stalwart Dungeons - Kill Nether Boss"
+			id: "504372AE02F10D96"
+			tasks: [
+				{
+					id: "56841BBC7BF068F3"
+					type: "item"
+					item: "stalwart_dungeons:awful_crystal"
+				}
+				{
+					id: "2898AC7881C71120"
+					type: "kill"
+					title: "Kill Awful Ghast"
+					icon: {
+						id: "reliquary:mob_charm"
+						Count: 1b
+						tag: {
+							Damage: 0
+							entity: "stalwart_dungeons:awful_ghast"
+						}
+					}
+					entity: "stalwart_dungeons:awful_ghast"
+					value: 1L
+				}
+			]
+			rewards: [{
+				id: "75EE379AF1D571C0"
+				type: "item"
+				auto: "invisible"
+				item: "stalwart_dungeons:raw_tungsten"
+				count: 3
+			}]
+		}
+		{
+			x: -4.5d
+			y: 1.5d
+			subtitle: "Stalwart Dungeon - Kill End Boss"
+			id: "37E4EF5D09C0B4B5"
+			tasks: [
+				{
+					id: "49CC6D52F7F0D65D"
+					type: "item"
+					item: "stalwart_dungeons:void_crystal"
+				}
+				{
+					id: "60683AC0FFA885D6"
+					type: "kill"
+					title: "Kill Shelterer"
+					icon: "minecraft:creeper_spawn_egg"
+					entity: "stalwart_dungeons:shelterer"
+					value: 1L
+				}
+			]
+			rewards: [{
+				id: "3BA004AC6AB5D334"
+				type: "custom"
+				title: "3 Combat Levels"
+			}]
+		}
+		{
+			x: 15.5d
+			y: 0.0d
+			subtitle: "EvilCraft"
+			description: ["In the future when its created, obtaining this book will unlock a chapter for this mod"]
+			id: "4C79F69448D69ED3"
+			tasks: [{
+				id: "70663574899D6EC5"
+				type: "item"
+				item: "evilcraft:origins_of_darkness"
+			}]
+		}
+		{
+			x: 14.0d
+			y: 0.0d
+			subtitle: "Mana and Artifice (Fork of Ars) - Learning the Basics"
+			description: [
+				"The book of tell. You need to buy this from the Mana and Artifice Villager using the Magician Workbench to convert the Villager."
+				""
+				"In the future when its created, obtaining this book will unlock a chapter for this mod"
+			]
+			id: "176E1F8A247F33F7"
+			tasks: [{
+				id: "51511C78C385DAD5"
+				type: "item"
+				item: "mna:guide_book"
+			}]
+		}
+		{
+			x: 12.5d
+			y: 0.0d
+			subtitle: "Hexerei"
+			description: ["Craft the Altar after to place your book on it to read"]
+			id: "04DF2D54EC88AB98"
+			tasks: [{
+				id: "07EB69C6A402ECB3"
+				type: "item"
+				disable_toast: true
+				item: {
+					id: "hexerei:book_of_shadows"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 11.5d
+			y: -1.0d
+			subtitle: "You can use with your book to zoom in using \"Z\" while equipped"
+			id: "637BA0016448A9B1"
+			tasks: [{
+				id: "6DB1484253A93D92"
+				type: "item"
+				item: "hexerei:reading_glasses"
+			}]
+			rewards: [{
+				id: "52AB805F1C323F53"
+				type: "item"
+				item: "hexerei:willow_vines"
+			}]
+		}
+		{
+			x: 12.5d
+			y: -1.5d
+			subtitle: "Place your Book of Shadows on Altar to read"
+			id: "777D2D26246AA6C7"
+			tasks: [{
+				id: "055E4DD57F2D247B"
+				type: "item"
+				item: "hexerei:book_of_shadows_altar"
+			}]
+			rewards: [{
+				id: "67E270625C295191"
+				type: "item"
+				item: "hexerei:mahogany_leaves"
+			}]
+		}
+		{
+			title: "Block Carpentry: Framed Blocks"
+			x: -1.5d
+			y: 4.0d
+			subtitle: "Place a frame and have it take form of any block"
+			description: [
+				"Once you craft a frame block and place it, you can then hold out a different block, like a furnace, and right click the frame block. It will now look like a furnace."
+				""
+				"Using the tools for Blocked Carpentry, You can change textures, rotation, designs, colors, and more."
+			]
+			id: "3BDB4B9FA2B6B50C"
+			tasks: [{
+				id: "10A7D0753A3C3F16"
+				type: "item"
+				item: "blockcarpentry:frameblock"
+			}]
+			rewards: [{
+				id: "03AAC38FC65D0F77"
+				type: "item"
+				item: "blockcarpentry:hammer"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 5.5d
+			subtitle: "Use this to reset the frame"
+			id: "19EB7B7BAE31F277"
+			tasks: [{
+				id: "7682FDE5104C587A"
+				type: "item"
+				item: "blockcarpentry:hammer"
+			}]
+		}
+		{
+			x: -6.5d
+			y: -0.5d
+			subtitle: "Begin your Engimatic Journey"
+			description: ["Be wary, once you do this.. it can't be undone >;)"]
+			id: "3D0F991CD79AFA85"
+			tasks: [{
+				id: "0AAF3E1B06A980E7"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:architect_eye"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			disable_toast: true
+			x: 14.0d
+			y: 4.0d
+			shape: "gear"
+			id: "546835A04A79AE3A"
+			tasks: [{
+				id: "3F4D334FC4B0457A"
+				type: "item"
+				item: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "thermal:guidebook"
+					}
+				}
+			}]
+		}
+		{
+			disable_toast: true
+			x: 13.5d
+			y: 3.0d
+			shape: "gear"
+			id: "2D17485357629208"
+			tasks: [{
+				id: "23164BA437FB3798"
+				type: "item"
+				item: "immersiveengineering:manual"
+			}]
+		}
+		{
+			disable_toast: true
+			x: 13.0d
+			y: 4.0d
+			shape: "gear"
+			subtitle: "LaserIO is like an alternative to Pipes to transfer point to point energy, fluid, and items"
+			id: "79DE793538809948"
+			tasks: [{
+				id: "151A61E1C6258F5E"
+				type: "item"
+				item: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "laserio:laseriobook"
+					}
+				}
+			}]
+		}
+		{
+			x: -0.5d
+			y: -9.5d
+			subtitle: "Refined Storage add-on adding multi-block crafters and larger disks. Use book for Visual of Mutliblock"
+			description: [
+				"Adds a multiblock pattern crafter. It works just the same as it did back in AE 1. "
+				"The max size is 16x16 and it must have at least one CPU and one storage block."
+				""
+				"- Adding more CPUs to the multiblock will speed the crafting up."
+				"- Adding more storage blocks will allow you to store more patterns."
+			]
+			dependencies: ["7D98F3E7D133B8D8"]
+			id: "10DBD66C494B6432"
+			tasks: [{
+				id: "449557006ABDA53D"
+				type: "item"
+				item: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "rebornstorage:rs_book"
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -8.5d
+			subtitle: "Required for the core of your multiblock"
+			description: [
+				"- Adding more CPUs to the multiblock will speed the crafting up."
+				"- Adding more storage blocks will allow you to store more patterns."
+				""
+				"Yes, you can mix them up."
+			]
+			dependencies: ["10DBD66C494B6432"]
+			id: "611383C7AB761B75"
+			tasks: [{
+				id: "40A678235B2FDBA4"
+				type: "item"
+				title: "Craft CPU or Storage"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								id: "rebornstorage:multiblock_storage"
+								Count: 1b
+							}
+							{
+								id: "rebornstorage:multiblock_cpu"
+								Count: 1b
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -10.5d
+			dependencies: ["10DBD66C494B6432"]
+			id: "2633012B9E58A88D"
+			tasks: [{
+				id: "3CFDFE1D97615FD6"
+				type: "item"
+				item: "rebornstorage:multiblock_frame"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -9.5d
+			id: "2E3410453B06F175"
+			tasks: [{
+				id: "10D5FBB5C7C5AF47"
+				type: "item"
+				item: {
+					id: "rebornstorage:super_wireless_crafting_grid"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -9.5d
+			id: "05DAFDBC63236A85"
+			tasks: [{
+				id: "155A0E7709D1B598"
+				type: "item"
+				item: "rebornstorage:advanced_wireless_transmitter"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -7.0d
+			subtitle: "Improves plant growth even faster"
+			id: "3B3BD56AC15B1B8D"
+			tasks: [{
+				id: "2E9E9278E81A96D5"
+				type: "item"
+				item: {
+					id: "thermal:watering_can"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.0d
+			y: -6.0d
+			subtitle: "Right click to fertizile and harvest"
+			description: [
+				"Shift+Scroll to use the other modes (Total of 3). "
+				""
+				"Can hold Bone Meal for fertilizing, Crops for planting, and can be used as a hoe with unlimited durability."
+				""
+				"Read the JEI Information tab for more info."
+			]
+			id: "6E457EC2B9212964"
+			tasks: [{
+				id: "3408CB25B27B4E5E"
+				type: "item"
+				item: {
+					id: "reliquary:harvest_rod"
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							Items: [{
+								filter: {
+									id: "minecraft:bone_meal"
+									Count: 1b
+								}
+								amount: 0
+							}]
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "0075C92A49445AB9"
+				type: "item"
+				item: "cyclic:heart"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -3.5d
+			subtitle: "Keep track of what you ate/need to eat for Hearts"
+			id: "49923817915C33F5"
+			tasks: [{
+				id: "32516FA656AC779A"
+				type: "item"
+				item: "solcarrot:food_book"
+			}]
+			rewards: [{
+				id: "679CD9D5D073EEA9"
+				type: "item"
+				item: "minecraft:carrot"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -11.0d
+			subtitle: "Refined Cooking to be used with Refined Storage and Cooking for Blockheads"
+			dependencies: [
+				"6E2E53764EB12F2C"
+				"7D98F3E7D133B8D8"
+			]
+			id: "017142E7D64A3B59"
+			tasks: [
+				{
+					id: "0F440977C08CEBD3"
+					type: "item"
+					item: "refinedcooking:kitchen_station"
+				}
+				{
+					id: "10F7B4EF7D136D2A"
+					type: "item"
+					item: "refinedcooking:kitchen_access_point"
+				}
+				{
+					id: "4B6AEC66E79FFC57"
+					type: "item"
+					item: "refinedcooking:kitchen_network_card"
+				}
+			]
+		}
+		{
+			title: "Potion Charms"
+			x: 6.0d
+			y: -4.5d
+			subtitle: "Any potion effect can be crafted into a temporary charm!"
+			id: "727C56824B299D01"
+			tasks: [{
+				id: "015A167B6A6584B6"
+				type: "item"
+				item: {
+					id: "apotheosis:potion_charm"
+					Count: 1b
+					tag: {
+						Damage: 0
+						Potion: "minecraft:long_fire_resistance"
+					}
+				}
+			}]
+		}
+		{
+			x: 3.5d
+			y: -0.5d
+			id: "1A84AEF72BB8D59F"
+			tasks: [{
+				id: "23180B8FBF9289F0"
+				type: "item"
+				item: {
+					id: "naturescompass:naturescompass"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.5d
+			y: -0.5d
+			id: "366F86C02B00C9D6"
+			tasks: [{
+				id: "501FF5D38D545E1B"
+				type: "item"
+				item: {
+					id: "explorerscompass:explorerscompass"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 4.5d
+			y: -9.0d
+			subtitle: "Awesome for stripping logs"
+			id: "3890660C8CE56CFE"
+			tasks: [
+				{
+					id: "75EB607CFD01F5EC"
+					type: "item"
+					item: "farmersdelight:cutting_board"
+				}
+				{
+					id: "0ABB3C8637A855A3"
+					type: "item"
+					item: {
+						id: "farmersdelight:iron_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 5.5d
+			y: -9.0d
+			subtitle: "Somebody toucha my spaghet!"
+			id: "02FC5D41B1CF26E3"
+			tasks: [{
+				id: "1060CC62156FB67E"
+				type: "item"
+				item: "farmersdelight:cooking_pot"
+			}]
+		}
+		{
+			title: "A full kitchen"
+			x: 5.0d
+			y: -10.5d
+			id: "6E2E53764EB12F2C"
+			tasks: [
+				{
+					id: "20B7C50453D29ED8"
+					type: "item"
+					item: "cookingforblockheads:oven"
+				}
+				{
+					id: "46CCBEC92EACA346"
+					type: "item"
+					item: "cookingforblockheads:toaster"
+				}
+				{
+					id: "74D8F23116341A02"
+					type: "item"
+					item: "cookingforblockheads:cooking_table"
+				}
+				{
+					id: "643D25CBD3ED5CED"
+					type: "item"
+					item: "cookingforblockheads:fridge"
+					count: 2L
+				}
+				{
+					id: "765A04C1DC6CEBFD"
+					type: "item"
+					item: "cookingforblockheads:sink"
+				}
+				{
+					id: "40961F74901EAB29"
+					type: "item"
+					item: "cookingforblockheads:counter"
+				}
+			]
+		}
+		{
+			title: "Oven and Fridge Upgrades"
+			x: 5.0d
+			y: -12.0d
+			dependencies: ["6E2E53764EB12F2C"]
+			id: "1930BEF2443B4C65"
+			tasks: [
+				{
+					id: "3A7BED4C8C086CE0"
+					type: "item"
+					item: "cookingforblockheads:heating_unit"
+				}
+				{
+					id: "7B53DAAC13E8CC5D"
+					type: "item"
+					item: "cookingforblockheads:preservation_chamber"
+				}
+				{
+					id: "376F4FE3BDE86CC0"
+					type: "item"
+					item: "cookingforblockheads:ice_unit"
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: -12.0d
+			subtitle: "...got milk?"
+			dependencies: ["6E2E53764EB12F2C"]
+			id: "79BB3495419CD2FB"
+			tasks: [{
+				id: "3672597CC6B19B00"
+				type: "item"
+				item: "cookingforblockheads:cow_jar"
+			}]
+		}
+		{
+			title: "Even better storage"
+			icon: "refinedstorage:creative_controller"
+			x: 2.0d
+			y: -9.0d
+			id: "7D98F3E7D133B8D8"
+			tasks: [
+				{
+					id: "224AE83DE427123F"
+					type: "item"
+					item: "refinedstorage:controller"
+					match_nbt: false
+				}
+				{
+					id: "605D4826B4C8B458"
+					type: "item"
+					item: "refinedstorage:crafting_grid"
+				}
+				{
+					id: "6AB6945C0597F293"
+					type: "item"
+					item: "refinedstorage:cable"
+				}
+				{
+					id: "32C5EA4459A4EC67"
+					type: "item"
+					item: "refinedstorage:disk_drive"
+				}
+				{
+					id: "5589325F2BC9DE19"
+					type: "item"
+					item: "storagenetwork:kabel"
+					count: 8L
+				}
+				{
+					id: "2E00712DA2FC0E62"
+					type: "item"
+					item: "storagenetwork:storage_kabel"
+				}
+			]
+		}
+		{
+			title: "Simple storage network"
+			icon: "storagenetwork:request"
+			x: 1.0d
+			y: -6.5d
+			id: "671968112C647301"
+			tasks: [
+				{
+					id: "6DCE0A8390CA7669"
+					type: "item"
+					item: "storagenetwork:master"
+				}
+				{
+					id: "6AF9DFE1D2346C99"
+					type: "item"
+					item: "storagenetwork:request"
+				}
+			]
+		}
+		{
+			title: "Basics of Auto Crafting"
+			x: 1.0d
+			y: -10.0d
+			id: "48C0065A0F3A125C"
+			tasks: [
+				{
+					id: "2A2B448401546B8E"
+					type: "item"
+					item: "refinedstorage:crafter"
+				}
+				{
+					id: "7F7BF2E1C096C613"
+					type: "item"
+					item: "refinedstorage:pattern_grid"
+				}
+				{
+					id: "6319E2E21013911C"
+					type: "item"
+					item: "refinedstorage:crafter_manager"
+				}
+				{
+					id: "615C246D06714C35"
+					type: "item"
+					item: "refinedstorage:crafting_monitor"
+				}
+			]
 		}
 	]
 	quest_links: [ ]
