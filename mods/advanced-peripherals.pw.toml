@@ -1,8 +1,13 @@
 name = "Advanced Peripherals"
-filename = "AdvancedPeripherals-1.18.2-0.7.30r-Dev.jar"
+filename = "AdvancedPeripherals-1.18.2-0.7.30r.jar"
 side = "both"
 
 [download]
-url = "http://mc.risingthunder.info/AdvancedPeripherals-1.18.2-0.7.30r-Dev.jar"
-hash-format = "sha256"
-hash = "8E0D876FA6C002C4F58F3B8C36E56EEB04E5CC713C71DCF503EE69FBA05496DA"
+hash-format = "sha1"
+hash = "a0ae72e86668a8ac0184b2f2ca670c7a6c722881"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4562223
+project-id = 431725
