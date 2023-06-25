@@ -7331,11 +7331,6 @@ hash = "38fbc001be74391f468243701fbde93eef6e067a433cdcd84acb7d0750b7054d"
 metafile = true
 
 [[files]]
-file = "mods/laserio.pw.toml"
-hash = "f34598ec685d32abe98ea14ad6e422332de7ada1e31c35edb14f0c0ab2599b3d"
-metafile = true
-
-[[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
