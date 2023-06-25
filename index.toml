@@ -109,6 +109,14 @@ file = "config/secondchanceforge-common.toml"
 hash = "d36ce09442cf7be7010026510f79ca4093210a63ab3fd0307d80ff9a4c68281d"
 
 [[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "75fdeae053c08959a8e8066bde147bdf66dfa710de62da984740a7f7d70d5a2f"
+
+[[files]]
 file = "config/simplebackups-common.toml"
 hash = "4257d320b9b4523239026db2d5bdd47d3e1338056c7ba9b089c8ead44e8e2672"
 
