@@ -141,6 +141,914 @@ file = "defaultconfigs/tradingpost-server.toml"
 hash = "58d7f5512682ac4ab9e2c04c4f261d9aa848001d4e8faef262ea7dd4e89cf179"
 
 [[files]]
+file = "kubejs/assets/minecraft/blockstates/redstone_wire.json"
+hash = "9396014fad09ef92f3703ebe57c4f172564765f3f3fe5f87738607a5b3162955"
+
+[[files]]
+file = "kubejs/assets/minecraft/blockstates/test.txt"
+hash = "8e742284938e1e62b58abd75eba5a5e30ce08e2ef2e328c19a699e958fa47a73"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/comparator.json"
+hash = "b03c1a5e96a06c815f1ea54604c36794286c0d031b714f1a19ac378dc69d0c55"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/comparator_on.json"
+hash = "be4a4d05e1170b7526a6195686f18942dabb4675e899d351f5b5cba3bb59d9a9"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/comparator_on_subtract.json"
+hash = "9db1957780d5d53723d685d934981491c7925bf296088f094b1cd35ae5e4059f"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/comparator_subtract.json"
+hash = "1bc305407a7dbaba6fe9a2640a44663c9a8848ee0bfbcc217c969cef2b4dc38c"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/comparator.json"
+hash = "efd27e7fb2ca7b57748632546bdd440fbe4dcb4d3c3b6cb77fe63b436fbb7eae"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/comparator_on.json"
+hash = "08f1bbdc2847fe66e2ab6c9a21e4c7b9ed41889470b33fab227dbdb83d2ebc38"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/comparator_on_subtract.json"
+hash = "4d6b8b438ea707f78ffd62ce46948875ebfa2795d3559a17caa23c35f7171cea"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/comparator_subtract.json"
+hash = "430f1a18b050b3a4126ad3a15a1b1877cad6be868ae6ff2283b09e8d418a9cd2"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/daylight_detector.json"
+hash = "d5f2b9e071351956d8322e5228b322395275eb51f0b69c1470540125672df9bd"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/daylight_detector_inverted.json"
+hash = "0f0464d7d85d2f58d64eefb8d5f338d3f49744f0dc6018209b12e430e2fdc033"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/lever.json"
+hash = "a0b8506b825edc4f6c18f3646ea22e91eb757523a56dd3380eda45c7511af77f"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/lever_on.json"
+hash = "0173cb7ed53556a698fcfe662afc8660c4e1de21df36d4aa4be5530284b374b5"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/observer.json"
+hash = "c2b2e116d6ef34f14415f6a1809da45204f121541cf47a2d20474f3adbca32ce"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/observer_on.json"
+hash = "ef84d887b4d49e96d232ffbde7b2ace13b0aad046aa797fe0d2f2e0715c6831e"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/redstone_block.json"
+hash = "ad70aa86b0b82e1b1c21a0dbd32d3131eeb6a4b9575cacb9ec822f81ad39e4c8"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/redstone_dust_dot.json"
+hash = "8ba32aa33f086c0371de871dcc95bf1594117d43e9dceef0097e1469eb04cfb1"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/redstone_dust_side.json"
+hash = "0cbccde021359a0092e5745dd9b6987f0bcc94e0040c2bdecd4736b8d398a757"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/redstone_dust_side0.json"
+hash = "5d3233f59518a349c94890d3ae1120bd9c6d863cceb68bb84bbfa83e5a8cd49c"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/redstone_dust_side1.json"
+hash = "15a496eabb7a92cc91737543042fe496ea4182b6a8fd1efa16b8ef42f0f676f1"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/redstone_dust_side_alt0.json"
+hash = "f5d7c869b54c2b75e11842eb75cd7c629c94c31fe41d148c1a51bb224b5a327e"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/redstone_dust_side_alt1.json"
+hash = "5d3233f59518a349c94890d3ae1120bd9c6d863cceb68bb84bbfa83e5a8cd49c"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/redstone_torch.json"
+hash = "700782ebb927632e493c8c7c60c27ccf1ae088703a75057bb311c3a4ef78eb93"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/redstone_torch_off.json"
+hash = "2484238945c433804e558a9bd4e536c327142617afa8e4877f061a2ca42f9e52"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/redstone_wall_torch.json"
+hash = "9685f642366e66fca75391644b39877066bf73832ce6fc6adc87001b141e5103"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/redstone_wall_torch_off.json"
+hash = "aa8662f97f6f003aa3d39909c2658799eb99e062bcfda65516c3d89077af66c0"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_1tick.json"
+hash = "0c00dcd1c487950af282b720a3eb797521259d4145b610f2b547ac661b6a9392"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_1tick_locked.json"
+hash = "3f33c53d3a07ae8396de271a4df19bd26aa82f22d868105a7d1e9025a3a81d83"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_1tick_on.json"
+hash = "238eb28510f4f64bd137c85edfc6b8f15cc1215044c70a70d5c7b418beac97c1"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_1tick_on_locked.json"
+hash = "10d43fa70ea5cfcef98d83eb4d5978e92a355a8ae710cbd4acfb204a700875af"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_2tick.json"
+hash = "ddd30e2a76a743e0abbac15bb01e622453900ef5ea18c309b9079c42e1212c7b"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_2tick_locked.json"
+hash = "92dc04baeca869b98a498ed6a156a7bb4040f4b502892b6174606f1d6b47efcb"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_2tick_on.json"
+hash = "0d2f63a4d002e58b4e499bf50bfae65357b5eea0f245aa2b6d4b4532f60ed08b"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_2tick_on_locked.json"
+hash = "88c278c6bfc332d1dfe0cc137e982788b4dd729570f75361adb64148aad6b904"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_3tick.json"
+hash = "89f40eee8a7e8ac08a071a65b647c33ae4966c32af400998e4636a1c2f9cf323"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_3tick_locked.json"
+hash = "cd5b973e5cb31e536dd4711dc54f3c0328fedcbc5bc600b45245194be310bd51"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_3tick_on.json"
+hash = "2b6e8a428fb1e7a8c429e9ea884040b097c9870be3ce1eb3b2d21c6552556053"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_3tick_on_locked.json"
+hash = "19cfa8884925cc6663bc58d50e143bb666749f2f95e63f269c2b8ac96bac1c6f"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_4tick.json"
+hash = "239d848151ab454c5496b2cb1160caee8eb1f66cd44668fa518e484639dd5916"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_4tick_locked.json"
+hash = "0a63862a4233036baa283c5a8f38a012dc2306fff5d33bcd8b15ae1c282aa7d8"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_4tick_on.json"
+hash = "0596e48238cd2c983cb399208ce2100feeff73641746a394ba380d69b91a3fb5"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone/repeater_4tick_on_locked.json"
+hash = "ebfab625a59de366b4de2f46ed2306f1d3bfc35440f4352a4ad756b202b93497"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_0.json"
+hash = "5cb047d742f36341da3b6e7b7d347e22a3863452797c3c29873a1bff5418dd9a"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_1.json"
+hash = "6a36d2abbd62d38261d09a3852410783384f579a4cfde3a6e0cf4cba9ce32936"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_10.json"
+hash = "a85560d963f157dd63e68c42095c2eeeba9a223aab5d6d663dc84f670657349a"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_11.json"
+hash = "c664f9773ab09aa51fbcd0561e59cde3f0a05ead63cf88ab08f6c365691e0f3a"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_12.json"
+hash = "0dd08a56a7305b767055886a823becff972cd116634c3756ec3e52f2370f65aa"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_13.json"
+hash = "31cc26734600fe7212893c1677db56125cc0afee2c6d358350d726e8a8a4460d"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_14.json"
+hash = "400da353fc7f78ad594009726fc5c49c8ac73de081593ef1177367ba6def0af7"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_15.json"
+hash = "b19f51fc06d31cbea8d76d6771f9e69d04289c4fc0b314d8a70c7f3b401feae1"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_2.json"
+hash = "2f451c4af0722f689b80f5499ece6f61a2f200fd7701c8aeca25a1b6304306c6"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_3.json"
+hash = "6ab1c704fbd701165ba1e53f6c2a0efbf3fb46b9d4ccb2ecda6804d1c41d0f6c"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_4.json"
+hash = "1b48f63a45354ef4e5493c0d8b7c7e5654752b858566d8d21f692530e43067cd"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_5.json"
+hash = "0d313a354df27a4f8d503cd397092e983e27b7b2fecdcbfe6b30c6a74c081bf1"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_6.json"
+hash = "d6baadd3bd24f435dcdb3f63af69bfff2aed786b1ca1fc195c354c181274665e"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_7.json"
+hash = "f7efff7788f669b1feeed170fd59c65e9fc2dfb649b652e94293defdd8f698b0"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_8.json"
+hash = "34308e88f212331e36ee3b07c62f6e57943817f9a73a0a11068e8f7a5d778a54"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_bridge_9.json"
+hash = "3292c25064b40238dfe20474d321d321c48c4de1f8372d2389330763352ae841"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_0.json"
+hash = "71b71a5b0b67763faad7bca03a4397d2b4ea38454504611272496ebc56cf8c58"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_1.json"
+hash = "26782afe84df28f03c93adb7f3b5053d8148cd1f3a901b2ce96a8d56ca1d0ea8"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_10.json"
+hash = "a21d91a0006f8462581cf64cb5267f6c5bd49b71a360a99554f01d92cf445bec"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_11.json"
+hash = "f76f860b44641a0747fcac3be5eaf0d32b3b69578d83698736364f7cdedb51a4"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_12.json"
+hash = "b1c1ba6984239ffaf72f85630b5dc4f7a05afee9ff3aacd6d40406c0669dc994"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_13.json"
+hash = "ef98ce5a6f7f9bd1e41412901e606f3a641a0aaf0235985ce0fab5739dbdb8fa"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_14.json"
+hash = "71ea7992dba2c39aefd00f611fbb4bcd3e7c3ae81a032a63cac66d3e884c85a5"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_15.json"
+hash = "b1c1ba6984239ffaf72f85630b5dc4f7a05afee9ff3aacd6d40406c0669dc994"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_2.json"
+hash = "b12f1f4a04c9c6bd301fecd6cee9a74e0aab4a78392024ba3e88bffa83fce0bb"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_3.json"
+hash = "850c33340238a01ee733fae71a63659a6a169f4a1a64dab3c36c3ac94f740dd4"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_4.json"
+hash = "a9e9dde9ad800a08b9cf9b0007783769e5f0ee066b2bbe5e78343240e6a47ea0"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_5.json"
+hash = "b3c110fa6262b84b5c499cc30ca00c57c76100d105a9fc27220323912d5dcf83"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_6.json"
+hash = "a7a15389d950fdea3850e15b1c48e19647dd3e1e167964fb9aad6a008c373d47"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_7.json"
+hash = "7366d8c24e51749211ee238577980afcbb9b05c1cb6db69c2fd123a97704eb99"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_8.json"
+hash = "346c6048edd676f9bb7d9209037854eb607e917528a05b636962d61aa5969f90"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_corner_9.json"
+hash = "3afec7f3b3bf76d18d8c2a5459514a1e4c08e50bcb38d8f2d266cf654d061098"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_0.json"
+hash = "9e28522586a439fb3c1a005e7e11ec70a1d517e3ab596a7e0af580cfc25634e3"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_1.json"
+hash = "c621cce47016ec3a86efce269ac0cb90ffa9dada5c519f9edc17f917127aef53"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_10.json"
+hash = "df08aa48ea134387bab2c21c3031e48a962c2648c8d8c47280da87372dd3b531"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_11.json"
+hash = "d466d5262beb2283faba88aacc1ee30de292dcf1b800e141acf8cc9613c825a2"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_12.json"
+hash = "87b134c76e9d3399d39a70d3daa3f4249cc8b0f872b5ca56bbe0e0947fcde121"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_13.json"
+hash = "c7c2df405ae708ea2ecda437a2e589426f84c5d61c5541f99d4bea77ff643ceb"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_14.json"
+hash = "c91629e032765b53cfaa20e69defa1dfb7e71d5617fcec1a5089265fff279c35"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_15.json"
+hash = "286479706b13e4a1dee4ca5be719ebc4d8ca611a989991a004e07098fc650286"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_2.json"
+hash = "7fe2c34cd90eeb44053c61362e4a8241b27cafee9e24e7dbb2383c3830573970"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_3.json"
+hash = "d1a5e6417cf73b9b2a5611fe7e57510ccd81444b05f7f258efd19287815aa32d"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_4.json"
+hash = "e42d7c5298ecfd86239e529bd254e23901ce1ed29d5ef7712587b9dc6fce6342"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_5.json"
+hash = "d233be078aefd30e2c6e8a84e6b1ed109649472325d33ca30d34d110e5445221"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_6.json"
+hash = "9357245620b295cc6b4281f3e8d372a212a7289834166045d1e15f364af324cf"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_7.json"
+hash = "03285487ca7c306f823f97be82f0f5a7aec06f98cd6567d1ae9e103ad1de1ae3"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_8.json"
+hash = "be6b435b2188764d20a45c5fd79f0dd5e3927d116114c02795558428f707406f"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_cross_9.json"
+hash = "b4f736f7dc0388cbc3055e388dfabde10770f3f56231f57650f480fb98eb81f1"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_dot.json"
+hash = "90202244fb87a26f3d60b458191d14ff698f52d8728055d18683a1403670c366"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_0.json"
+hash = "dcd6292e42bf1912fc6b1158e6a3610c27cf2ad4dbeaa337f79d30ad20818e98"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_1.json"
+hash = "17b31fb77a14d2acbdc8f456928b01713b45baa231dfe80ac8d96468284dabe7"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_10.json"
+hash = "7036bd00efeefa863eba9b8c93e3c8ca0e2ab95b0476921bd480e786ef4a17aa"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_11.json"
+hash = "4590f9595148cee8fea49b040ac76e64d5e5271d9bece69324617ff55d82a331"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_12.json"
+hash = "b1534be7be609c07b7750ea0838558027a2d6bfe7c95d349f3324827a140ba7f"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_13.json"
+hash = "282500cccad7493eb9b6ea0261741abd4f5974270dda3c965aa56d0b9a59aef6"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_14.json"
+hash = "bb8fc6c669353bb7a90ca0dc16231756bbf92bf6e256d333f718e3d1c09d1f41"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_15.json"
+hash = "f8f5714acdebedd0e86b4b41b27da5d5e499eabe8fd7dbdd8d56e7317d24afd4"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_2.json"
+hash = "45fa8d6b8fdeac35eb26efd3e141d476ae330a3206d508ca757ef6e66e2ed02c"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_3.json"
+hash = "b1716fc0fd849c077c9855e2be295d24389b6628aeb96a98cb7458d5181cdfbd"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_4.json"
+hash = "bd7c926d240c4405d4a4a1d72aad7dd5a7cd9b6ee465cdb04f369fe24c9bb268"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_5.json"
+hash = "1b294ef4c570be9ae4bc9bff15bbf699d00c32b19b4e90268724b1b3ac5917b1"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_6.json"
+hash = "032265d1faf7250a39971a51abbd3bc1caaab568ce9ea6a6d4f5713aa7b75028"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_7.json"
+hash = "e5897597eb81afc06b251ec4ff25ba03e41fc53f6d181fbc1bd61ae0db65c252"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_8.json"
+hash = "c40caf46c19070fbfde507ac3e3dc809a492da1dd8006e79fe59b093c373ff45"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_line_9.json"
+hash = "fbf335c3e90834b2e61ca9b39d8d09e3bfe872e307932c6f4e06e96a677f26ed"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_0.json"
+hash = "77bad11abff11ada756dcdf9a0b40efc2c16499e9f0dde004f73ea2c229f1586"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_1.json"
+hash = "c619c64dbf86230005d8346af9adfa8aabd20d2039e4382ec1fa794972e6203f"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_10.json"
+hash = "bd5affe77918fe36458d68478ae0b4e215334b51716c2922e9a3e2b88768bfc4"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_11.json"
+hash = "4dddc40ed7a46d8b9552a706b7122b1733685d0ed874db9e4d15730dd9a15ac5"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_12.json"
+hash = "b94193fa3574e137105f9a5acf541929d892e9f757790907dc07c6c7d3aeefe4"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_13.json"
+hash = "3bd5622bf99167ac7594238668fd950ed44a1c30d2c9c8bb96ea69c218fc3d50"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_14.json"
+hash = "58eccea79a1b6ea09a48e329d6d39c8bf47ce32c564edbf2dfd991442f31c922"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_15.json"
+hash = "bba79a1cebd573318f18968ec6de9f7af837a03897bebc653e59ecad3113b86b"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_2.json"
+hash = "8025ae9a95a3a9b6bec0e476b62c1c9f63909ea51ad0adb2d735c539283a4d9f"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_3.json"
+hash = "6929818dbb8e3725e23359cc824bfd007f6ccc2dc933d74ff1d884dc69042672"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_4.json"
+hash = "4bd8949c4f7eb48769c427de24cb25d1f579f19a1934db4476fe19ca56fd07e3"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_5.json"
+hash = "a039017cad2b46822ee6a5708e3d4c196368c3491350b02d67a0f1b04e74453e"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_6.json"
+hash = "5e88cb30b9b43efb114f8f64eaf36a4e4e5836675a0bbbc62a540664503928c4"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_7.json"
+hash = "e35b19c5d17218978038553557c38c9cceb34dd2847a9ed8b24aa29705a1c85a"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_8.json"
+hash = "3d60d7e5410c85b01cfc4593e60fdefa568a31c319b498ac1bc4ab469ebf427c"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineup_9.json"
+hash = "e7e807f8c15202636d7cf9af94b47b8dfc7af36a99165f5882e59c66594dfde4"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_0.json"
+hash = "d75ce3324f173de294ac387f46226d94f90e5aee474a09dbae2d287672118296"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_1.json"
+hash = "1f7b00e66f1ec5f68421c74fed1be5e4a89d9029b662d9f9c6b60a0b728a570c"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_10.json"
+hash = "62b31f5dbf0c4821f8f704b9cb8cbb6605d0c2dc358ee9f19facc4fa90251f36"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_11.json"
+hash = "6a4535d83652cde94ad7aa167e352bbe97d6b01c69ba8dce10d9763afbcfd8c9"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_12.json"
+hash = "ce4dd727238ac56aa406f128d8cf5480e4fab9cffeaf0921cbdbf3dbf7ab25ea"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_13.json"
+hash = "fc223ac9988f5171bfebd6a481fb8d0b740b89e331113f542e48993f08b1262e"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_14.json"
+hash = "9f89305e174f1e1ab07505233fdac0b2da100d74e0a23a8e57a317aade600839"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_15.json"
+hash = "72ea5119b09eddedb05a92234a7abf98e03c6f5f5e8338e1adf7dc489f4323aa"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_2.json"
+hash = "a98ed0fe237d759f40fc3a75e7db6d944e50245761900b85edef3da6e9a8df5a"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_3.json"
+hash = "6bc22b91ba36b15653e2f57dea632deb34845aef67e5ea0b0f1137fa04e68da4"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_4.json"
+hash = "cad5c2d93aa38e8597802d4a0cead27bf38b87ca7d9a9fde5cd52cfd4e52be4c"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_5.json"
+hash = "8965616e8d0044dc45797627fb3c93162212372da668d78febee7346f2630b09"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_6.json"
+hash = "4621b76b4b2259bcdd9341e80199e802fdc7ba6450a4ad1fbf134cf2516611af"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_7.json"
+hash = "899845d988482374f40779268c3252af90693ba63c74253eeb2c8dd1dc7136b7"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_8.json"
+hash = "3e7dc9a5a0569fc8b12fbf864cad074b7eb65d8cdf6d54c9ddbaaee62ecb23bc"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_lineupside_9.json"
+hash = "b29dc9ea67d72f25764ed1f4f17f7fb7db01e19db193902eafa1b937be5978e0"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_0.json"
+hash = "14440341eefe8d6601d372bcd04b4b78f803e372c8c60052607a1033c1eb70fa"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_1.json"
+hash = "ab1837c6e62450b7b1db09d58130a56de1c6971558e0fdfa311742bfaeb0dacd"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_10.json"
+hash = "5ac50c556bb70c40d12a57053b5a197199b4261f945610372c4a03fff70d44f3"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_11.json"
+hash = "edbfe9a6e94b392a7060f437372f2c82afa0b10d291e8b7f6a53479f616108d7"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_12.json"
+hash = "aac8dc0946ff0fc6dffdd168ebc4c7bb654e837044fe9e9b72d11d8b598cb118"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_13.json"
+hash = "830ab5e1983ecad33d41d0fdef3cac7b1931ffcafaa205520ae6902fa26a5dfb"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_14.json"
+hash = "4dfaf4b0ebff9e3a10a49ea1a177dd2aa6d6084a1618339dc98371196f3cd2f6"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_15.json"
+hash = "d6e29082bdd90a2911795b8cf7b7dedc757ea55c6a0523b997fc2c05f341a70e"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_2.json"
+hash = "980a03e6d06d48f38bb035beb7962b224d92ca6f91414c7d16e5f3e97992d584"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_3.json"
+hash = "4f37bd0d5f6ceea12fe3783d6259242ba43f1317c1faa50ffde5d4d12e94f96a"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_4.json"
+hash = "1a02e74c186277000f1d85dc803a9750e50fa3dc85c064ae8ef891b4009ff949"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_5.json"
+hash = "496eb0c6f7e412879466d464f3aac2bde82dd86415e70c3ad38b99d1488ed9ee"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_6.json"
+hash = "426fcc539aa9effbf974a4354db799289a3f52441ddb5a66c35acf7b4934351b"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_7.json"
+hash = "f998631f76db6c2b5f0ee1a61af8e06575d33eca7df13f94d876529a992f8cee"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_8.json"
+hash = "6780e3fa297c404ae66ef549b5e984c771ab85566d37f06c7d1f313b2b93f7c6"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/redstone_t_9.json"
+hash = "1968696e96db3e168d6f170afab55f70f4a1a16e78bb183f9fec9c94304bf9aa"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_1tick.json"
+hash = "fa9701467b7f23397227d23e0d9c965322e7a191bb42895676b29c59ac88770a"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_1tick_locked.json"
+hash = "35519fabc72e7469e46966075d946f4aaa90ab16b0e39d25fe70e069dae8e0f8"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_1tick_on.json"
+hash = "730cfbbce67482486f2f48799a673b5cfdd16e7e0134d06eaa9c71fd6af24202"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_1tick_on_locked.json"
+hash = "ccfe79357551e65dc56c19708be26c85b5927d38b8c87e53db6a0dd27673d138"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_2tick.json"
+hash = "9f60fc7d1f9a52e74165e4d927d5469e90f8a65613dbdce79b30138ba3016128"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_2tick_locked.json"
+hash = "baa840d5a6ecde4642f37ae345eb4835e24495bdb9060a3b310db0fbfc0470ee"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_2tick_on.json"
+hash = "83dae3c6e29e0d7453ddca0ad9355969dd3bfce663aece37852a53360e8f1347"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_2tick_on_locked.json"
+hash = "f0b436c54c8795c74fdb6b4e8365f34cbf02f03a606ab85bdc088fbe30cd30f0"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_3tick.json"
+hash = "f4b5cfdbafe70431c61421be70b6f7c017e4128271f720741cf8a1718e5fd228"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_3tick_locked.json"
+hash = "1ab6955812884850580f8873fa1e6bb265782c544cde1fbe03b5026703567250"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_3tick_on.json"
+hash = "27aef558088c12b5841a9d3d0a6e37852d4bd9e4ac008992ee4aca860d577e51"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_3tick_on_locked.json"
+hash = "bc5149d3d99d71344b0dc3a976c0dcc704e61186d5dddb0eb7943661223689b3"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_4tick.json"
+hash = "be9dd78cf203831e23cf636b9bcc1ad291d8f186182af5a79ce8b3700588cd87"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_4tick_locked.json"
+hash = "fd754df3601d5a8deb049856ccd19448c073bdb95572d0c9f880526a6919620e"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_4tick_on.json"
+hash = "4aa9e0e42f773a2a2161946491015b9a206fd1f23020a7c84ac94a53ebfefa01"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/repeater_4tick_on_locked.json"
+hash = "f6d71f15bd34049cbcf1fe54003a7a2bb318bb1b706f93e95965f5b78d7bdd65"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/saved/redstone_corner.json"
+hash = "0bc27208dc6f0af2b3b5f5d9e7c7e83c71bac88f4bc724bb5758e0231081b890"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/saved/redstone_cross.json"
+hash = "88c204eda7b5f1a69ec9be0f5de5527a340246a54f8f4be70b20bf30a455833c"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/saved/redstone_dot.json"
+hash = "4e27962f9cf088298a4c56c73efdbc6058d7c63bedf5a9c754f9965389e7efad"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/saved/redstone_line.json"
+hash = "5d45832482260deec0649d2363c2c3f4739c0a1621da925ad026ce9d4feea7e2"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/saved/redstone_line_up.json"
+hash = "3404692aad55cf70fbcd9e43fdc0488ab26d44e257c7aec29c8ce9a51d1320c3"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/block/saved/redstone_line_upside.json"
+hash = "807ed62f948a03c1502b87265371fc9b08e1944c0c290bf37865df4e48f7820a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/back.png"
+hash = "b678c0f866e569b25a9f4a6e70e1dc41864e33d681c6669defd61e3cb7d9a308"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/back2.png"
+hash = "31ba345425a66cfcb08c2f689b901758d626f8de40f04a7c20203464d694febd"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_0.png"
+hash = "34675ee1e9080bcfc8668e4e8a503c3a21cc1487ba51cfcf9f17ae435be770fa"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_1.png"
+hash = "d0cd7394d44c2e061d0ba5bfb857838d26c73733c64113912e44f749a01aa450"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_1.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_10.png"
+hash = "9c5e02571df8a276d8b0ea06ceeb5853feb89e20135f6b2752c6736440255f40"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_10.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_11.png"
+hash = "e27d7a85eb74e1897720669cc32412cb56b4643c80b0f87fd2b2050d1aa4eeb5"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_11.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_12.png"
+hash = "a79ed470999d1e34b0bb85f2155d682e649d88dcc6989a13067d4932efa366ac"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_12.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_13.png"
+hash = "858381bc13d37cf00bdb1c1119378e35693f7d467da559ed9ae812c06a32a4fe"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_13.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_14.png"
+hash = "329e2e42f86b93a36d000dbaa3f916eb00bf7ddf78c987c053d30c0e36e5938f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_14.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_15.png"
+hash = "a2aba9d4ca67ac453def3b1b60495d0c36545eeec572cf78d787a228865b10b2"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_15.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_2.png"
+hash = "95dd9cd8e736c1422fad81f2c063bdcc2d3e512480e6d63c4380381be962d30e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_2.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_3.png"
+hash = "6a1652e893f979d02b25dffa1f671e0f3262a7a2751cefd15dafdba489443e36"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_3.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_4.png"
+hash = "e01541fc73ff50ecd4f81fd5c1def3087ad6f5990d4534d974ef4e672d5ceedd"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_4.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_5.png"
+hash = "3a96087c62abe7875e70c328a54166a0e933a91822430fc584d676ee6fff1d4b"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_5.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_6.png"
+hash = "6124024d0118687d94c931d48a794263da9cde67b5ff52c0d10584b50e3508cb"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_6.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_7.png"
+hash = "7939d4b21e0da2262fb390a4d2c3a0f23085e8798ef2ba90e00320064f214ece"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_7.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_8.png"
+hash = "06ac793984528b6ee85372a13eac7cefde41a93535fd2307d2397e5c57f0cbb0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_8.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_9.png"
+hash = "928fd4d6ac881579cdce2a61f5a98b2c905efe6912d9690214f9c5f072f847d5"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cable_9.png.mcmeta"
+hash = "d771c375e7fab559329845b38d52ffb4d68b49ce288d6d7e7a4d1cfcae3cb41f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/cables1.png"
+hash = "4ddf212c09155cc63f30bb7920e513a6bdce17fd4f7fc5c8cdafffe7cc659374"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/comparator.png"
+hash = "621f4b222a40fe5a0efa3d6fef2145e352702f06dcf74f2b05217258d402cbb2"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/comparator_on.png"
+hash = "d90b4cca8b9486034cc402d02c27f3508d77e711fb547cfe827a43bc6ae01fbd"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/numbers.png"
+hash = "b24addbb557e5049d667596636f24836b862b49f906ca52940dcea7bff5cadc7"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/betterwiring/relay.png"
+hash = "2ea42edfb6003bad68537053024be5e6f645ce52a9fba2b41e953ec674b9706a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/comparator.png"
+hash = "18bc74257742cab99c93bf11d7206c5f5b976462000a3a4fab7a94f7b9d36023"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/comparator_on.png"
+hash = "19162310175d2975b8202929cb98cd4435031a98d82e0c5b83dd858e9bd02fd9"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/redstone_dust_dot.png"
+hash = "2af126f8cbbecee1adcb0f39e1389651b17a8ddfd5f20191181eb2343288a543"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/redstone_dust_line0.png"
+hash = "1d20106910b0413f8f4bc0fba0bf0041c88c4530e01bb5ee49a3dae25430c18a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/redstone_dust_line1.png"
+hash = "30182562f5e50c56908a9e2d5effa5baa349d4957d2b1362d6b1276501ddc21a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/redstone_dust_overlay.png"
+hash = "8de639b48b4c9290bdda201eba48c5d00ef96a0cd558b391d0e8833da6f6be92"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/redstone_torch.png"
+hash = "51a5b27b4572409b377fb253d80429ffae6a924fa61d7d8796ddce3c6af452be"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/redstone_torch_off.png"
+hash = "b37d7c758987039434f942e8b139e8e5dc6e52e45c7d3f595f9d54a101a3fea1"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/repeater.png"
+hash = "9527282396bb1bf9bcc2ef2fcee1d856120a9143e80e047c06eaa349806fd6b0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/repeater_on.png"
+hash = "ad6f1411fe1072aa172eb5c5595e5c3275d8be52bd15f93e6345241767249dfe"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/smooth_stone.png"
+hash = "6a5d8da0a0e67fea182f698c3cfc8ade529763c9166b1836fa6eec6710329aeb"
+
+[[files]]
 file = "kubejs/client_scripts/rei.js"
 hash = "c5ead6a97820cad92051608932c86cd3a4ae8a089c6fcf7c940c78622defc0d5"
 
