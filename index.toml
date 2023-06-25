@@ -109,6 +109,10 @@ file = "config/secondchanceforge-common.toml"
 hash = "d36ce09442cf7be7010026510f79ca4093210a63ab3fd0307d80ff9a4c68281d"
 
 [[files]]
+file = "config/simplebackups-common.toml"
+hash = "4257d320b9b4523239026db2d5bdd47d3e1338056c7ba9b089c8ead44e8e2672"
+
+[[files]]
 file = "config/tombstone-server.toml"
 hash = "9c37fea021e003e3348da7ede62d3ef9a475ed7aee5cf5777823d049022fbd35"
 
