@@ -8,5 +8,5 @@ onEvent('recipes', event => {
 	event.remove({ output: "projecte:rm_katar" })
 })
 onEvent('recipes', event => {
-	event.remove({ output: "projecte::rm_sword" })
+	event.remove({ output: "projecte:rm_sword" })
 })

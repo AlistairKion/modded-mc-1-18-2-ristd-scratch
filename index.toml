@@ -8262,7 +8262,7 @@ hash = "61b6471a03d5f9d9e4c3ce2b3581ff37470703a5d7ce2d1dd4e16e5cb479e617"
 
 [[files]]
 file = "kubejs/server_scripts/balance.js"
-hash = "ac34753ea7598fdc508c431da909986a112f66dbeea8c709ff971e5025add3ce"
+hash = "46633e8b9facfe978d30b3bdb38844c0ae8cfa96c231fcc1e8ac66bc9a496ead"
 
 [[files]]
 file = "kubejs/server_scripts/unify.js"
