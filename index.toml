@@ -5893,6 +5893,10 @@ file = "kubejs/data/dungeons_arise/structures/wishing_well/wishing_well_effect_4
 hash = "2384bf3864649f5b32dbc43430953c1c273981f96055a6bafd37e5528be5906d"
 
 [[files]]
+file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/bandit_towers_biomes.json"
+hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+
+[[files]]
 file = "kubejs/data/dungeons_arise/tags/worldgen/biome/has_structure/thornborn_towers_biomes.json"
 hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
 
