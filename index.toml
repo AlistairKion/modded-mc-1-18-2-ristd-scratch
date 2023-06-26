@@ -50,7 +50,7 @@ hash = "8b28df2efad1e9f12842ba3b09cac5d5bacdf1f2e8e5bfcb1f35349d411eafae"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/starting_out.snbt"
-hash = "137cb0ecb3c78b39bfd36488974920eeb725a469b512d68aba7901936fc31e30"
+hash = "dd81fa2e7a41b4458dcfec8a248e304e991ddc0e8eee7ced8b13786909b5168b"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -87,6 +87,10 @@ hash = "9507983e968ab245164f7077aebef245168f52d5b3d5134fd401c787519f089b"
 [[files]]
 file = "config/ftbquests/quests/reward_tables/storage_drawer_3.snbt"
 hash = "ebb7e086d23aa83e2c2419c88c16ef9d17d22ea472cc820663f0821d692e79ec"
+
+[[files]]
+file = "config/iceandfire-common.toml"
+hash = "fb0fd0a5b486a5650e9957562e6b75a543690c92140e43c3643934db6997ea50"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"

@@ -132,11 +132,12 @@
 			}]
 		}
 		{
+			title: "Getting a Second Chance"
 			x: -1.0d
 			y: -1.5d
-			subtitle: "How to get free loot from others hard work"
+			subtitle: "How to not die from a hit that would kill you"
 			description: [
-				"Want to create a party and complete quests together?"
+				"If you are at 7 or higher hearts, and get hit with something that would otherwise kill you, you will not die."
 				""
 				"Accept the reward and we will run the command for you :) or hover over reward to see the actual command"
 				"/ftbteams party create"
@@ -149,13 +150,7 @@
 			tasks: [{
 				id: "1909BA37A8AD287F"
 				type: "checkmark"
-				title: "Create a Party"
-			}]
-			rewards: [{
-				id: "2B6869175B5BCE93"
-				type: "command"
-				command: "/ftbteams party create"
-				player_command: true
+				title: "Second chance at life"
 			}]
 		}
 		{
@@ -238,10 +233,10 @@
 			}]
 		}
 		{
-			x: 0.75d
-			y: -3.75d
+			x: 1.5d
+			y: -3.375d
 			subtitle: "Place this bad boy down to get a free house! On Servers, be kind, dont generate by spawn."
-			description: ["You've done it. You have played AQM3 for 5+ Minutes and earned a starter house. Prefab features tons of pre-built structures that you can use, but for the other prefab's youll need to upgrade your PMMO attributes like building. "]
+			description: ["You've done it. You have played RISTD Scratch for 5+ Minutes and earned a starter house"]
 			size: 0.75d
 			id: "20278054010EE5B1"
 			tasks: [{
@@ -989,7 +984,7 @@
 		{
 			title: "Block Carpentry: Framed Blocks"
 			x: -1.5d
-			y: 4.0d
+			y: 5.5d
 			subtitle: "Place a frame and have it take form of any block"
 			description: [
 				"Once you craft a frame block and place it, you can then hold out a different block, like a furnace, and right click the frame block. It will now look like a furnace."
@@ -1009,9 +1004,10 @@
 			}]
 		}
 		{
-			x: -1.5d
-			y: 5.5d
+			x: -2.0d
+			y: 4.0d
 			subtitle: "Use this to reset the frame"
+			dependencies: ["3BDB4B9FA2B6B50C"]
 			id: "19EB7B7BAE31F277"
 			tasks: [{
 				id: "7682FDE5104C587A"
@@ -1063,25 +1059,6 @@
 				id: "23164BA437FB3798"
 				type: "item"
 				item: "immersiveengineering:manual"
-			}]
-		}
-		{
-			disable_toast: true
-			x: 13.0d
-			y: 4.0d
-			shape: "gear"
-			subtitle: "LaserIO is like an alternative to Pipes to transfer point to point energy, fluid, and items"
-			id: "79DE793538809948"
-			tasks: [{
-				id: "151A61E1C6258F5E"
-				type: "item"
-				item: {
-					id: "patchouli:guide_book"
-					Count: 1b
-					tag: {
-						"patchouli:book": "laserio:laseriobook"
-					}
-				}
 			}]
 		}
 		{
@@ -1199,11 +1176,6 @@
 						}
 					}
 				}
-			}]
-			rewards: [{
-				id: "0075C92A49445AB9"
-				type: "item"
-				item: "cyclic:heart"
 			}]
 		}
 		{
@@ -1690,6 +1662,708 @@
 				id: "3CDF3DEC6A4A0699"
 				type: "item"
 				item: "farmingforblockheads:market"
+			}]
+		}
+		{
+			title: "Automatic XP Farming"
+			icon: "mob_grinding_utils:spikes"
+			x: 12.0d
+			y: 6.0d
+			id: "5974AE65C032478B"
+			tasks: [
+				{
+					id: "3033C3D084D4F560"
+					type: "item"
+					item: "mob_grinding_utils:spikes"
+				}
+				{
+					id: "4D2C074A73597FD9"
+					type: "item"
+					item: "mob_grinding_utils:absorption_hopper"
+				}
+				{
+					id: "4F6AD0499ABFD135"
+					type: "item"
+					item: "mob_grinding_utils:fan"
+				}
+			]
+			rewards: [{
+				id: "558BF6E93A0D655F"
+				type: "item"
+				item: "mob_grinding_utils:tank"
+			}]
+		}
+		{
+			x: 13.0d
+			y: 7.0d
+			subtitle: "Grind 'em even better"
+			dependencies: ["5974AE65C032478B"]
+			id: "17CC77827640F9B8"
+			tasks: [{
+				id: "31E2AEC92C8C6489"
+				type: "item"
+				item: "mob_grinding_utils:saw"
+			}]
+		}
+		{
+			title: "Upgrading the Mob Masher"
+			x: 14.5d
+			y: 7.5d
+			subtitle: "Slice 'em and dice 'em"
+			dependencies: ["17CC77827640F9B8"]
+			id: "5BF383EC320BBEAA"
+			tasks: [
+				{
+					id: "516AD083E76B9541"
+					type: "item"
+					item: "mob_grinding_utils:saw_upgrade_sharpness"
+				}
+				{
+					id: "1917721BD343ABEF"
+					type: "item"
+					item: "mob_grinding_utils:saw_upgrade_looting"
+				}
+			]
+		}
+		{
+			title: "Custom mob spawning"
+			x: 13.0d
+			y: 8.5d
+			subtitle: "Use the mob swab on the mob you want to create, and craft some chicken feed"
+			dependencies: ["17CC77827640F9B8"]
+			id: "1F2D1C25BFA54BB1"
+			tasks: [
+				{
+					id: "4F8F0D356D1CCF60"
+					type: "item"
+					item: "mob_grinding_utils:mob_swab"
+				}
+				{
+					id: "22C9C17B55845A94"
+					type: "item"
+					item: "mob_grinding_utils:gm_chicken_feed"
+				}
+				{
+					id: "78D8690979921D64"
+					type: "item"
+					item: "mob_grinding_utils:entity_spawner"
+				}
+			]
+		}
+		{
+			x: 13.5d
+			y: 6.0d
+			subtitle: "Do enderman farming"
+			dependencies: ["5974AE65C032478B"]
+			id: "709C6550163B038D"
+			tasks: [{
+				id: "12053E18CB220191"
+				type: "item"
+				item: "mob_grinding_utils:ender_inhibitor_off"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 5.0d
+			id: "2BBD3BA1F29A6FCA"
+			tasks: [{
+				id: "374BC1745EB8AE98"
+				type: "item"
+				item: {
+					id: "buildinggadgets:gadget_building"
+					Count: 1b
+					tag: {
+						state: {
+							serializer: "buildinggadgets:dummy_serializer"
+							state: {
+								Name: "minecraft:air"
+							}
+							data: { }
+						}
+					}
+				}
+				match_nbt: false
+			}]
+		}
+		{
+			x: 1.0d
+			y: 5.5d
+			id: "356413799B4AB960"
+			tasks: [{
+				id: "0EE84417D4B4AE1B"
+				type: "item"
+				item: {
+					id: "buildinggadgets:gadget_exchanging"
+					Count: 1b
+					tag: {
+						state: {
+							serializer: "buildinggadgets:dummy_serializer"
+							state: {
+								Name: "minecraft:air"
+							}
+							data: { }
+						}
+					}
+				}
+				match_nbt: false
+			}]
+		}
+		{
+			x: 0.035714285714277594d
+			y: 6.392857142857146d
+			id: "1D41B64332472F30"
+			tasks: [{
+				id: "34C8CD3C7DC04DE3"
+				type: "item"
+				item: "quark:abacus"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 6.0d
+			subtitle: "Auto-build your saved structures!"
+			id: "27EF1ABDF44D8009"
+			tasks: [
+				{
+					id: "1F72266A8850E22C"
+					type: "item"
+					item: "create:schematicannon"
+				}
+				{
+					id: "76D8280312F53D1A"
+					type: "item"
+					item: "create:schematic_table"
+				}
+				{
+					id: "1C3909331ED8B854"
+					type: "item"
+					item: "create:empty_schematic"
+				}
+			]
+			rewards: [{
+				id: "5BBBA98FA0405BE6"
+				type: "item"
+				item: "minecraft:gunpowder"
+				count: 32
+			}]
+		}
+		{
+			title: "Getting started with Create"
+			icon: "create:water_wheel"
+			disable_toast: true
+			x: 14.5d
+			y: 3.0d
+			shape: "gear"
+			subtitle: "Spinny stuff"
+			id: "5F89409068512288"
+			tasks: [
+				{
+					id: "05C9EB8EE25A1406"
+					type: "item"
+					item: "create:water_wheel"
+				}
+				{
+					id: "2D1DB018F756A2D9"
+					type: "item"
+					item: "create:shaft"
+				}
+			]
+		}
+		{
+			x: 5.5d
+			y: -0.5d
+			subtitle: "Become a master of time"
+			id: "59C6B0E95264C7F1"
+			tasks: [{
+				id: "66C0C120C7FA9757"
+				type: "item"
+				item: {
+					id: "tiab:time_in_a_bottle"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: 5.5d
+			id: "48FFE1EE479D4A20"
+			tasks: [{
+				id: "41729EBC6E24AA82"
+				type: "item"
+				item: "supplementaries:hanging_sign_oak"
+			}]
+		}
+		{
+			x: 3.500000000000007d
+			y: -4.321428571428562d
+			subtitle: "Trade with all villagers in range!"
+			size: 0.75d
+			id: "373C522CFD4B12B4"
+			tasks: [{
+				id: "4D1DC20E1EFDEB6D"
+				type: "item"
+				item: "tradingpost:trading_post"
+			}]
+		}
+		{
+			x: 9.0d
+			y: 7.0d
+			subtitle: "Teleport to any known waypoint"
+			id: "27E333A3C3EEC5FE"
+			tasks: [{
+				id: "144113B603E864F0"
+				type: "item"
+				item: "waystones:warp_scroll"
+			}]
+		}
+		{
+			x: 9.5d
+			y: 8.5d
+			subtitle: "Make your own waystone"
+			dependencies: ["27E333A3C3EEC5FE"]
+			id: "6F04EDCECA41EA69"
+			tasks: [
+				{
+					id: "4984D740CBDB4D1A"
+					type: "item"
+					item: "waystones:waystone"
+				}
+				{
+					id: "4CF3149F40BBAAB2"
+					type: "item"
+					item: {
+						id: "waystones:warp_stone"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 10.0d
+			y: 7.5d
+			subtitle: "Anyone can see this location!"
+			dependencies: ["27E333A3C3EEC5FE"]
+			id: "4A9E0D7DD458FC82"
+			tasks: [{
+				id: "28996A0209912918"
+				type: "item"
+				item: "waystones:sharestone"
+			}]
+		}
+		{
+			title: "The Undergarden"
+			x: -3.0d
+			y: 2.0d
+			subtitle: "Make your way to the undergarden dimension..."
+			id: "4E0967EBD65654F5"
+			tasks: [{
+				id: "702CC6BCBDCB9ECA"
+				type: "item"
+				item: "undergarden:catalyst"
+			}]
+		}
+		{
+			x: 5.5d
+			y: 8.5d
+			subtitle: "Only spawns in the nether and end..."
+			id: "2AF2B0CD42A4F78C"
+			tasks: [{
+				id: "22E8D696D1F0D0BB"
+				type: "item"
+				item: "oresabovediamonds:amethyst"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 9.5d
+			subtitle: "Only spawns in the nether and end..."
+			id: "38833A322C60551F"
+			tasks: [{
+				id: "27C6F71E68CB0BF3"
+				type: "item"
+				item: "oresabovediamonds:black_opal"
+			}]
+		}
+		{
+			title: "Special Wither Skeleton Killer"
+			x: 11.785714285714306d
+			y: 7.250000000000007d
+			subtitle: "The precious wither decapitator"
+			id: "208DD38F18EE719F"
+			tasks: [{
+				id: "6AE71974E38ACEC5"
+				type: "item"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								id: "wstweaks:lava_blade"
+								Count: 1b
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								id: "wstweaks:blaze_blade"
+								Count: 1b
+								tag: {
+									Damage: 0
+								}
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			title: "Reactors"
+			disable_toast: true
+			x: 16.0d
+			y: 4.0d
+			shape: "gear"
+			subtitle: "Hope you don't explode! :)"
+			description: [
+				"You can figure the rest out on your own"
+				""
+			]
+			id: "47141763E2AC19B2"
+			tasks: [
+				{
+					id: "47B110BFD2060C8C"
+					type: "item"
+					item: "biggerreactors:reactor_casing"
+				}
+				{
+					id: "66F78A960957A64C"
+					type: "item"
+					item: "biggerreactors:reactor_glass"
+				}
+				{
+					id: "631E5A2617AA2406"
+					type: "item"
+					item: "biggerreactors:reactor_terminal"
+				}
+				{
+					id: "479B436C78933288"
+					type: "item"
+					item: "biggerreactors:reactor_access_port"
+				}
+				{
+					id: "22B836F9E86520BC"
+					type: "item"
+					item: "biggerreactors:reactor_fuel_rod"
+				}
+				{
+					id: "35E9ECEF59EA4675"
+					type: "item"
+					item: "biggerreactors:reactor_control_rod"
+				}
+			]
+		}
+		{
+			x: 14.0d
+			y: 2.0d
+			subtitle: "spin -> energy"
+			dependencies: ["5F89409068512288"]
+			id: "76F57BFB72D93176"
+			tasks: [{
+				id: "38FEA4FDF0309280"
+				type: "item"
+				item: "createaddition:alternator"
+			}]
+		}
+		{
+			x: 15.0d
+			y: 2.0d
+			subtitle: "energy -> spin"
+			dependencies: ["5F89409068512288"]
+			id: "50673DEC0C913658"
+			tasks: [{
+				id: "7BAA5A5D2171EA3D"
+				type: "item"
+				item: "createaddition:electric_motor"
+			}]
+		}
+		{
+			x: 14.0d
+			y: -1.5d
+			subtitle: "Get started with ice and fire"
+			description: ["You can find manuscripts as dungeon loot or through villager trades"]
+			id: "16496BE23631ACAF"
+			tasks: [{
+				id: "245B0BB5B4D78272"
+				type: "item"
+				item: "iceandfire:bestiary"
+			}]
+		}
+		{
+			x: 15.464285714285722d
+			y: -1.25d
+			subtitle: "Upgrade the info in your bestiary!"
+			dependencies: ["16496BE23631ACAF"]
+			id: "2EEBCFD21566D41B"
+			tasks: [
+				{
+					id: "161A49651C40C97A"
+					type: "item"
+					item: "iceandfire:lectern"
+				}
+				{
+					id: "6F42056F34658787"
+					type: "item"
+					item: "iceandfire:manuscript"
+				}
+			]
+			rewards: [{
+				id: "0867ECBEDF0D2D95"
+				type: "item"
+				item: "iceandfire:manuscript"
+				count: 2
+			}]
+		}
+		{
+			x: -3.5d
+			y: 5.5d
+			subtitle: "Fancy fences..."
+			id: "38F98C354309B98F"
+			tasks: [{
+				id: "0946072C1EA43156"
+				type: "item"
+				item: "mcwfences:oak_picket_fence"
+			}]
+		}
+		{
+			title: "Paths and Pavings"
+			x: -4.0d
+			y: 6.5d
+			subtitle: "More path options"
+			id: "3564F54BF8FB36D4"
+			tasks: [
+				{
+					id: "036B21451AA992D3"
+					type: "item"
+					item: "mcwpaths:oak_planks_path"
+				}
+				{
+					id: "678BDE500AA1074D"
+					type: "item"
+					item: "mcwpaths:andesite_square_paving"
+				}
+			]
+		}
+		{
+			x: -3.0d
+			y: 6.5d
+			subtitle: "Let there be light"
+			id: "3E23A5B6396682D7"
+			tasks: [
+				{
+					id: "7D4025EDE60E7B20"
+					type: "item"
+					item: "mcwlights:classic_street_lamp"
+				}
+				{
+					id: "0DB00BE7D32D50EB"
+					type: "item"
+					item: "mcwlights:oak_tiki_torch"
+				}
+			]
+		}
+		{
+			title: "Fancy Guages and Switches"
+			x: -2.0d
+			y: 6.5d
+			subtitle: "Better for factories"
+			id: "3E87820AB56425EC"
+			tasks: [
+				{
+					id: "19FA54307477C270"
+					type: "item"
+					item: "rsgauges:industrial_lever"
+				}
+				{
+					id: "245D431DB799A09A"
+					type: "item"
+					item: "rsgauges:industrial_alarm_lamp"
+				}
+			]
+		}
+		{
+			title: "All the Starting Books"
+			icon: {
+				id: "eccentrictome:tome"
+				Count: 1b
+				tag: {
+					"eccentrictome:mods": { }
+				}
+			}
+			x: 0.0d
+			y: -4.0d
+			subtitle: "Get all the starting books for the cost of a stick!"
+			size: 2.0d
+			can_repeat: true
+			id: "663BCD4A67B7878F"
+			tasks: [{
+				id: "35D86B702E0571E1"
+				type: "item"
+				item: "minecraft:stick"
+			}]
+			rewards: [{
+				id: "271881F5D1FEE31A"
+				type: "item"
+				item: {
+					id: "eccentrictome:tome"
+					Count: 1b
+					tag: {
+						"eccentrictome:mods": {
+							evilcraft: {
+								0: {
+									id: "evilcraft:origins_of_darkness"
+									Count: 1b
+								}
+							}
+							storagenetwork: {
+								0: {
+									id: "patchouli:guide_book"
+									Count: 1b
+									tag: {
+										"patchouli:book": "storagenetwork:network_book"
+									}
+								}
+							}
+							mna: {
+								0: {
+									id: "mna:guide_book"
+									Count: 1b
+								}
+							}
+							rebornstorage: {
+								0: {
+									id: "patchouli:guide_book"
+									Count: 1b
+									tag: {
+										"patchouli:book": "rebornstorage:rs_book"
+									}
+								}
+							}
+							sebastrnlib: {
+								0: {
+									id: "patchouli:guide_book"
+									Count: 1b
+									tag: {
+										"patchouli:book": "sebastrnlib:sebastrn_mods_guide_book"
+									}
+								}
+							}
+							immersiveengineering: {
+								0: {
+									id: "immersiveengineering:manual"
+									Count: 1b
+								}
+							}
+							advancedperipherals: {
+								0: {
+									id: "patchouli:guide_book"
+									Count: 1b
+									tag: {
+										"patchouli:book": "advancedperipherals:manual"
+									}
+								}
+							}
+							thermal: {
+								0: {
+									id: "patchouli:guide_book"
+									Count: 1b
+									tag: {
+										"patchouli:book": "thermal:guidebook"
+									}
+								}
+							}
+							apotheosis: {
+								0: {
+									id: "patchouli:guide_book"
+									Count: 1b
+									tag: {
+										"patchouli:book": "apotheosis:apoth_chronicle"
+									}
+								}
+							}
+							littlelogistics: {
+								0: {
+									id: "patchouli:guide_book"
+									Count: 1b
+									tag: {
+										"patchouli:book": "littlelogistics:guide"
+									}
+								}
+							}
+							engineersdecor: {
+								0: {
+									id: "patchouli:guide_book"
+									Count: 1b
+									tag: {
+										"patchouli:book": "engineersdecor:engineersdecor_manual"
+									}
+								}
+							}
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "Steel catwalk"
+			x: -1.0d
+			y: 6.5d
+			subtitle: "Check out this mod for more factory decor"
+			id: "40E57C461C1561C0"
+			tasks: [
+				{
+					id: "05B65D3A94380C7A"
+					type: "item"
+					item: "engineersdecor:steel_catwalk_stairs"
+				}
+				{
+					id: "0EC7244216BDF6C6"
+					type: "item"
+					item: "engineersdecor:steel_catwalk"
+				}
+			]
+		}
+		{
+			title: "Create Deco"
+			x: -1.5d
+			y: 7.5d
+			subtitle: "Check out this mod for more factory decor"
+			id: "4C34A7F6F67D4D5E"
+			tasks: [
+				{
+					id: "39ACDEA35840E9A3"
+					type: "item"
+					item: "createdeco:brass_door"
+				}
+				{
+					id: "1BB24D6A39870B98"
+					type: "item"
+					item: "createdeco:pearl_bricks"
+				}
+			]
+		}
+		{
+			x: 16.5d
+			y: 2.5d
+			subtitle: "Wireless inventory charging!"
+			id: "0529C6A33DBEDDD9"
+			tasks: [{
+				id: "458BD23452F6B895"
+				type: "item"
+				item: "wirelesschargers:advanced_wireless_player_charger"
 			}]
 		}
 	]
