@@ -2213,6 +2213,7 @@
 				id: "35D86B702E0571E1"
 				type: "item"
 				item: "minecraft:stick"
+				consume_items: true
 			}]
 			rewards: [{
 				id: "271881F5D1FEE31A"
