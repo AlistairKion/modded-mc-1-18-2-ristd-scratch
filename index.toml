@@ -8881,11 +8881,6 @@ hash = "5999f9c35dc54c19d570b20fcbe0551e835236a0dca442b9279fd852590eec68"
 metafile = true
 
 [[files]]
-file = "mods/prefab.pw.toml"
-hash = "c298401510b9070acfef022bf43cfa3aa7ea77c8cae6eda9a68f32c9ed0fbe7b"
-metafile = true
-
-[[files]]
 file = "mods/probejs.pw.toml"
 hash = "b1f1cd08541e4bc1dee1fc3858acce03cfb2184e2abc709f570fdbab6e1a605b"
 metafile = true
@@ -9083,11 +9078,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "93853173512757a92f560d4289d80d0b1b5835b0e0143afbb6b3485163dc5d4f"
-metafile = true
-
-[[files]]
-file = "mods/thermal-dynamics.pw.toml"
-hash = "7dccfa48a4ae6b036dc0e3fe517fae918d5c04b79f6c104d93206f72ce1ac40c"
 metafile = true
 
 [[files]]
