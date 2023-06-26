@@ -9081,6 +9081,16 @@ hash = "93853173512757a92f560d4289d80d0b1b5835b0e0143afbb6b3485163dc5d4f"
 metafile = true
 
 [[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "7dccfa48a4ae6b036dc0e3fe517fae918d5c04b79f6c104d93206f72ce1ac40c"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "79f0f9e40bb05c2234d4603a4a7a1db3f6f8337e2210c5a804d25da29ecad7f2"
+metafile = true
+
+[[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "a740b8e6a629da33df773af554a0439390b016fb42d31a71609be2954cd28668"
 metafile = true
