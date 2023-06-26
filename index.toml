@@ -9,6 +9,10 @@ file = "config/MouseTweaks.cfg"
 hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "d1fe45416c56f734b50582372bbd943708e3deba2d58aaa8aebdc4706a46d99e"
+
+[[files]]
 file = "config/apotheosis/apotheosis.cfg"
 hash = "f4804c6977a83c269763cca4c29d69f9e00251c784fd3d071404fbf46b7ea83e"
 
@@ -1534,7 +1538,7 @@ hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
-hash = "c5ead6a97820cad92051608932c86cd3a4ae8a089c6fcf7c940c78622defc0d5"
+hash = "3099839e273cde85e5bef4d1019dc71e260cf1c7303487ee9233de9117358640"
 
 [[files]]
 file = "kubejs/data/betterdungeons/loot_tables/small_dungeon/chests/end_loot_piles.json"
@@ -8258,7 +8262,7 @@ hash = "61b6471a03d5f9d9e4c3ce2b3581ff37470703a5d7ce2d1dd4e16e5cb479e617"
 
 [[files]]
 file = "kubejs/server_scripts/balance.js"
-hash = "708691ca60b48179e6da406c15b8217598684c46497684c317a8850e6a64071f"
+hash = "ac34753ea7598fdc508c431da909986a112f66dbeea8c709ff971e5025add3ce"
 
 [[files]]
 file = "kubejs/server_scripts/unify.js"
