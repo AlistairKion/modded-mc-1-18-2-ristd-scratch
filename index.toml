@@ -8346,6 +8346,11 @@ hash = "53fb2cfb3988b88b9587a5a0ba4b5612d7f26a989b05c911975f6af7be343364"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
+metafile = true
+
+[[files]]
 file = "mods/brutal-bosses-dungeon.pw.toml"
 hash = "9ce5aaebcca29cbcce4cd03c2215f83f21405ec295af409a338e701288e51c5c"
 metafile = true
