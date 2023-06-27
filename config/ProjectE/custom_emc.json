@@ -1,0 +1,257 @@
+{
+  "entries": [
+    {
+      "item": "oresabovediamonds:amethyst",
+      "emc": 12288
+    },
+    {
+      "item": "oresabovediamonds:black_opal",
+      "emc": 57339
+    },
+    {
+      "item": "extradisks:raw_withering_processor",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:air",
+      "emc": 128
+    },
+    {
+      "item": "rebornstorage:raw_super_advanced_processor",
+      "emc": 0
+    },
+    {
+      "item": "refinedstorage:raw_basic_processor",
+      "emc": 0
+    },
+    {
+      "item": "refinedstorage:raw_improved_processor",
+      "emc": 0
+    },
+    {
+      "item": "refinedstorage:raw_advanced_processor",
+      "emc": 0
+    },
+    {
+      "item": "infernalexp:smooth_glowstone",
+      "emc": 0
+    },
+    {
+      "item": "laserio:logic_chip",
+      "emc": 0
+    },
+    {
+      "item": "botania:livingrock",
+      "emc": 1
+    },
+    {
+      "item": "immersiveengineering:coal_coke",
+      "emc": 256
+    },
+    {
+      "item": "immersivepetroleum:petcoke",
+      "emc": 256
+    },
+    {
+      "item": "#forge:ingots/zinc",
+      "emc": 128
+    },
+    {
+      "item": "#forge:ingots/brass",
+      "emc": 144
+    },
+    {
+      "item": "#forge:ingots/rose_gold",
+      "emc": 608
+    },
+    {
+      "item": "#mna:dusts/vinteum",
+      "emc": 96
+    },
+    {
+      "item": "immersivepetroleum:petcoke_dust",
+      "emc": 256
+    },
+    {
+      "item": "immersiveengineering:dust_coke",
+      "emc": 256
+    },
+    {
+      "item": "thermal:diamond_dust",
+      "emc": 8192
+    },
+    {
+      "item": "createdeco:cast_iron_ingot",
+      "emc": 272
+    },
+    {
+      "item": "botania:manasteel_ingot",
+      "emc": 272
+    },
+    {
+      "item": "botania:mana_diamond",
+      "emc": 8224
+    },
+    {
+      "item": "botania:mana_pearl",
+      "emc": 1040
+    },
+    {
+      "item": "mna:vinteum_dust",
+      "emc": 96
+    },
+    {
+      "item": "create:asurine",
+      "emc": 43
+    },
+    {
+      "item": "create:crimsite",
+      "emc": 114
+    },
+    {
+      "item": "create:limestone",
+      "emc": 16
+    },
+    {
+      "item": "create:ochrum",
+      "emc": 455
+    },
+    {
+      "item": "create:veridium",
+      "emc": 114
+    },
+    {
+      "item": "quark:permafrost",
+      "emc": 1
+    },
+    {
+      "item": "quark:limestone",
+      "emc": 16
+    },
+    {
+      "item": "quark:jasper",
+      "emc": 16
+    },
+    {
+      "item": "quark:myalite",
+      "emc": 16
+    },
+    {
+      "item": "quark:shale",
+      "emc": 16
+    },
+    {
+      "item": "quark:dusky_myalite",
+      "emc": 16
+    },
+    {
+      "item": "quark:red_corundum",
+      "emc": 128
+    },
+    {
+      "item": "quark:orange_corundum",
+      "emc": 128
+    },
+    {
+      "item": "quark:yellow_corundum",
+      "emc": 128
+    },
+    {
+      "item": "quark:green_corundum",
+      "emc": 128
+    },
+    {
+      "item": "quark:blue_corundum",
+      "emc": 128
+    },
+    {
+      "item": "quark:indigo_corundum",
+      "emc": 128
+    },
+    {
+      "item": "quark:violet_corundum",
+      "emc": 128
+    },
+    {
+      "item": "quark:white_corundum",
+      "emc": 128
+    },
+    {
+      "item": "quark:black_corundum",
+      "emc": 128
+    },
+    {
+      "item": "infernalexp:glownuggets",
+      "emc": 32
+    },
+    {
+      "item": "infernalexp:smooth_dimstone",
+      "emc": 0
+    },
+    {
+      "item": "infernalexp:smooth_dullstone",
+      "emc": 0
+    },
+    {
+      "item": "byg:white_sandstone",
+      "emc": 4
+    },
+    {
+      "item": "byg:black_sandstone",
+      "emc": 4
+    },
+    {
+      "item": "byg:black_sand",
+      "emc": 1
+    },
+    {
+      "item": "byg:white_sand",
+      "emc": 1
+    },
+    {
+      "item": "byg:purple_sand",
+      "emc": 1
+    },
+    {
+      "item": "byg:windswept_sandstone",
+      "emc": 4
+    },
+    {
+      "item": "immersiveengineering:slag",
+      "emc": 4
+    },
+    {
+      "item": "immersiveengineering:slag_gravel",
+      "emc": 4
+    },
+    {
+      "item": "immersiveengineering:dust_saltpeter",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:blaze_powder",
+      "emc": 384
+    },
+    {
+      "item": "supplementaries:ash",
+      "emc": 1
+    },
+    {
+      "item": "#forge:ingots/constantan",
+      "emc": 576
+    }
+    ,
+    {
+      "item": "#forge:ingots/electrum",
+      "emc": 1280
+    },
+    {
+      "item": "#minecraft:planks",
+      "emc": 5
+    },
+    {
+      "item": "#forge:ingots/invar",
+      "emc": 682
+    }
+  ]
+}
