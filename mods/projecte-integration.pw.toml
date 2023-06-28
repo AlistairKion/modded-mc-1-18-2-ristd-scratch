@@ -1,0 +1,8 @@
+name = "Project-E Integration"
+filename = "projecte-integration-1.18.2-5.4.6.2.jar"
+side = "both"
+
+[download]
+url = "http://mc.risingthunder.info/projecte-integration-1.18.2-5.4.6.2.jar"
+hash-format = "sha256"
+hash = "47282E9846CA4616C71422B058963538AA1E4E66BF1C1174CCC8E6D7EC93D8FE"
