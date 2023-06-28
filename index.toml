@@ -10,7 +10,7 @@ hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
 
 [[files]]
 file = "config/ProjectE/custom_emc.json"
-hash = "ac3ce6a375a4b0389d0ba767a9ac2ed666943851a105e471a732822ad83d738d"
+hash = "38794efe62c7169fc053b3f344be23d4b9f7e1ee1f8584eb05c97887b7c5f467"
 
 [[files]]
 file = "config/ProjectE/server.toml"
