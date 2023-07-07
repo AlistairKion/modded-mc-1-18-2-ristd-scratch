@@ -9274,3 +9274,15 @@ hash = "814c82c29bc8c04bdafc1348e3e7d2238725c0ea328ae8989967bc6b2ff2acbc"
 [[files]]
 file = "resourcepacks/QuietRain_but_not_thunder__r931643/pack.png"
 hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
+
+[[files]]
+file = "schematics/prefab_staring_cabin_style.nbt"
+hash = "25d9709bbee56d54316fbc0599b5e20794dc869a20b26dfa3a3c55c0205c4943"
+
+[[files]]
+file = "schematics/prefab_starting_izba_style.nbt"
+hash = "3bdc8e75c821b529492869035f4dad895edd24f0e140a04d5d6bfb12e254bfca"
+
+[[files]]
+file = "schematics/prefab_starting_tower_style.nbt"
+hash = "cf918ac4e3fbb74d612fa69d464ff7402714d867823edc1a53314ec4e7d5a145"
