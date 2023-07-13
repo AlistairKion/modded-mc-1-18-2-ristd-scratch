@@ -8907,11 +8907,6 @@ hash = "1e2403bbb9d3016a784f0b06e52bde44733eb527cc0d2e580bd29838e2ebbacc"
 metafile = true
 
 [[files]]
-file = "mods/projecte-integration.pw.toml"
-hash = "a93e182c355b292f846b4006bc4b22e3e31216b3f30f5a4f105c21cfc9f2adc9"
-metafile = true
-
-[[files]]
 file = "mods/projectextended.pw.toml"
 hash = "4113f71e47f384945511ec1555893bde2626878b902db560ce1c699dbb69046a"
 metafile = true
