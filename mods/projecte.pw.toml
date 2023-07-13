@@ -1,13 +1,8 @@
-name = "ProjectE"
-filename = "ProjectE-1.18.2-PE1.0.1.jar"
+name = "ProjectE Universal"
+filename = "projecte-1.0.1.1-universal.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8d462fe04aaaa01a8bb78e8a9ca789f528c92f4c"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3722831
-project-id = 226410
+url = "http://mc.risingthunder.info/projecte-1.0.1.1-universal.jar"
+hash-format = "sha256"
+hash = "5441A53C536140093CEFF0B603F66368A176794F72ED12FC4E107880FD0317D9"
