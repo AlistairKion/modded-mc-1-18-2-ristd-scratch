@@ -10,7 +10,7 @@ hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
 
 [[files]]
 file = "config/ProjectE/custom_emc.json"
-hash = "38794efe62c7169fc053b3f344be23d4b9f7e1ee1f8584eb05c97887b7c5f467"
+hash = "b08712c2ba590cacaa65d4c6bc115574a53452e4265f05cc8f5f02702b0a9986"
 
 [[files]]
 file = "config/ProjectE/server.toml"
@@ -1546,7 +1546,7 @@ hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
 
 [[files]]
 file = "kubejs/client_scripts/rei.js"
-hash = "72612ad3b49b7f339efd8c7fc2fc45a7a66a550e7415dd5d9b447c879646061e"
+hash = "5fd3da809bb434b1062f02aac8107baeb0378210a16f1138900cadc786d392ea"
 
 [[files]]
 file = "kubejs/data/betterdungeons/loot_tables/small_dungeon/chests/end_loot_piles.json"
@@ -8270,7 +8270,7 @@ hash = "61b6471a03d5f9d9e4c3ce2b3581ff37470703a5d7ce2d1dd4e16e5cb479e617"
 
 [[files]]
 file = "kubejs/server_scripts/remove.js"
-hash = "226e829aefef4d39b09b24373bb8b916ca3f6432877853196e15a201c43993ac"
+hash = "7f5594321c4910e951cbd765a645f29011a69e0313e636d858a39d7e08edd97a"
 
 [[files]]
 file = "kubejs/server_scripts/unify.js"

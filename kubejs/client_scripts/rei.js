@@ -19,7 +19,11 @@ const removeJei = [
 	"projecte:life_stone",
 	"projecte:destruction_catalyst",
 	"projecte:hyperkinetic_lens",
-	"projecte:catalytic_lens"
+	"projecte:catalytic_lens",
+	"#projecte:alchemical_bags",
+	"projectextended:dark_matter_trident",
+	"projectextended:red_matter_trident",
+	"botania:alchemy_catalyst"
 ];
 
 onEvent('rei.hide.items', event => {

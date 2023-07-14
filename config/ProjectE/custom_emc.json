@@ -109,6 +109,10 @@
       "emc": 0
     },
     {
+      "item": "#minecraft:planks",
+      "emc": 5
+    },
+    {
       "item": "byg:black_sand",
       "emc": 1
     },
@@ -135,10 +139,6 @@
     {
       "item": "supplementaries:ash",
       "emc": 1
-    },
-    {
-      "item": "#minecraft:planks",
-      "emc": 5
     }
   ]
 }
