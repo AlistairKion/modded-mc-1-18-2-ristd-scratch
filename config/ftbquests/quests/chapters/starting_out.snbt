@@ -233,23 +233,36 @@
 			}]
 		}
 		{
+			title: "Free starting house designs"
 			x: 1.5d
 			y: -3.375d
-			subtitle: "Place this bad boy down to get a free house! On Servers, be kind, dont generate by spawn."
-			description: ["You've done it. You have played RISTD Scratch for 5+ Minutes and earned a starter house"]
+			subtitle: "Fire away and create a cool starting house"
+			description: ["You've done it. You have played RISTD Scratch for 5+ Minutes and earned a schemati-cannon"]
 			size: 0.75d
 			id: "20278054010EE5B1"
 			tasks: [{
 				id: "33298B38990CBE5E"
 				type: "custom"
-				title: "You've won a Free Starting House"
-				icon: "prefab:item_start_house"
+				title: "You've won a Free Set of Starting House Designs"
+				icon: "create:schematicannon"
 			}]
-			rewards: [{
-				id: "22C41A39992D1F85"
-				type: "item"
-				item: "prefab:item_start_house"
-			}]
+			rewards: [
+				{
+					id: "631CCE6545426650"
+					type: "item"
+					item: "create:schematicannon"
+				}
+				{
+					id: "30FD6466E26BF6F7"
+					type: "item"
+					item: "create:empty_schematic"
+				}
+				{
+					id: "4426C76ABF824218"
+					type: "item"
+					item: "create:schematic_table"
+				}
+			]
 		}
 		{
 			title: "Felling Trees Note"
@@ -260,7 +273,7 @@
 					Damage: 0
 				}
 			}
-			x: -0.75d
+			x: -1.125d
 			y: -0.375d
 			subtitle: "Sneak+click on tree to chop every log 1 by 1"
 			dependencies: ["24CA47E19CBB1738"]
@@ -287,6 +300,11 @@
 				id: "4ABDC8A480D6CA16"
 				type: "item"
 				item: "scribetable:scribe_table"
+			}]
+			rewards: [{
+				id: "2E8891F45A8515AB"
+				type: "xp_levels"
+				xp_levels: 25
 			}]
 		}
 		{
@@ -338,6 +356,12 @@
 				type: "item"
 				item: "easy_piglins:barterer"
 			}]
+			rewards: [{
+				id: "35B59A3677EB3B2B"
+				type: "item"
+				item: "minecraft:gold_nugget"
+				count: 8
+			}]
 		}
 		{
 			x: 0.0d
@@ -348,9 +372,18 @@
 			size: 0.5d
 			id: "7503009532FBA676"
 			tasks: [{
-				id: "64CB3E327665FDB5"
-				type: "checkmark"
-				title: "Silk touch spawners with your silk touch pick"
+				id: "732F946BB69699D5"
+				type: "item"
+				item: "minecraft:spawner"
+				consume_items: false
+				only_from_crafting: false
+				match_nbt: false
+			}]
+			rewards: [{
+				id: "7A7E9C8BE027A56E"
+				type: "item"
+				item: "minecraft:tinted_glass"
+				count: 64
 			}]
 		}
 		{
@@ -594,8 +627,8 @@
 			}]
 		}
 		{
-			x: 13.5d
-			y: -6.0d
+			x: 13.0d
+			y: -6.5d
 			subtitle: "Gift your tamed pet to another player"
 			description: ["The Deed of Ownership is an item that can be purchased from the Animal Tamer villager. By right clicking on a tamed pet that you are the owner of, you bind it to the deed. If you give the deed to any other player, and they use it on the bounded animal, then the ownership of the pet will pass onto them, making it effectively as if they were the ones who tamed the animal."]
 			dependencies: ["1620EE001FF68BD5"]
@@ -620,6 +653,11 @@
 				timer: 0L
 				observe_type: 0
 				to_observe: "minecraft:dirt"
+			}]
+			rewards: [{
+				id: "1B659CD4B897CF6A"
+				type: "xp_levels"
+				xp_levels: 5
 			}]
 		}
 		{
@@ -693,18 +731,11 @@
 				type: "item"
 				item: "doggytalents:dire_treat"
 			}]
-			rewards: [
-				{
-					id: "74D2E65BA01A2B98"
-					type: "item"
-					item: "doggytalents:dire_treat"
-				}
-				{
-					id: "07BDD40146FA0ECA"
-					type: "item"
-					item: "cyclic:heart"
-				}
-			]
+			rewards: [{
+				id: "74D2E65BA01A2B98"
+				type: "item"
+				item: "doggytalents:dire_treat"
+			}]
 		}
 		{
 			x: 7.0d
@@ -982,37 +1013,32 @@
 			}]
 		}
 		{
-			title: "Block Carpentry: Framed Blocks"
+			title: "Copycat Blocks"
 			x: -1.5d
 			y: 5.5d
-			subtitle: "Place a frame and have it take form of any block"
+			subtitle: "Place a copycat block and have it take form of any block"
 			description: [
-				"Once you craft a frame block and place it, you can then hold out a different block, like a furnace, and right click the frame block. It will now look like a furnace."
 				""
-				"Using the tools for Blocked Carpentry, You can change textures, rotation, designs, colors, and more."
+				""
+				""
 			]
 			id: "3BDB4B9FA2B6B50C"
-			tasks: [{
-				id: "10A7D0753A3C3F16"
-				type: "item"
-				item: "blockcarpentry:frameblock"
-			}]
+			tasks: [
+				{
+					id: "0243F9138DB7190C"
+					type: "item"
+					item: "create:copycat_step"
+				}
+				{
+					id: "38879E79AB98127F"
+					type: "item"
+					item: "create:copycat_panel"
+				}
+			]
 			rewards: [{
-				id: "03AAC38FC65D0F77"
+				id: "345CDB36B556412D"
 				type: "item"
-				item: "blockcarpentry:hammer"
-			}]
-		}
-		{
-			x: -2.0d
-			y: 4.0d
-			subtitle: "Use this to reset the frame"
-			dependencies: ["3BDB4B9FA2B6B50C"]
-			id: "19EB7B7BAE31F277"
-			tasks: [{
-				id: "7682FDE5104C587A"
-				type: "item"
-				item: "blockcarpentry:hammer"
+				item: "create:wrench"
 			}]
 		}
 		{
@@ -1062,8 +1088,8 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: -8.5d
+			x: -2.0d
+			y: -9.5d
 			subtitle: "Refined Storage add-on adding multi-block crafters and larger disks. Use book for Visual of Mutliblock"
 			description: [
 				"Adds a multiblock pattern crafter. It works just the same as it did back in AE 1. "
@@ -1087,8 +1113,8 @@
 			}]
 		}
 		{
-			x: -1.0d
-			y: -7.5d
+			x: -4.0d
+			y: -8.5d
 			subtitle: "Required for the core of your multiblock"
 			description: [
 				"- Adding more CPUs to the multiblock will speed the crafting up."
@@ -1121,8 +1147,8 @@
 			}]
 		}
 		{
-			x: -1.0d
-			y: -9.5d
+			x: -4.0d
+			y: -10.5d
 			dependencies: ["10DBD66C494B6432"]
 			id: "2633012B9E58A88D"
 			tasks: [{
@@ -1180,7 +1206,7 @@
 		}
 		{
 			x: 5.0d
-			y: -3.0d
+			y: -3.5d
 			subtitle: "Keep track of what you ate/need to eat for Hearts"
 			id: "49923817915C33F5"
 			tasks: [{
@@ -1195,8 +1221,8 @@
 			}]
 		}
 		{
-			x: 4.0d
-			y: -11.0d
+			x: 3.5d
+			y: -11.5d
 			subtitle: "Refined Cooking to be used with Refined Storage and Cooking for Blockheads"
 			dependencies: [
 				"6E2E53764EB12F2C"
@@ -1239,6 +1265,18 @@
 					}
 				}
 			}]
+			rewards: [
+				{
+					id: "00FEFE217A36DDED"
+					type: "item"
+					item: "minecraft:magma_cream"
+				}
+				{
+					id: "334F1E0C26066B88"
+					type: "item"
+					item: "nethersdelight:magma_gelatin"
+				}
+			]
 		}
 		{
 			x: 3.5d
@@ -1254,6 +1292,11 @@
 					tag: { }
 				}
 			}]
+			rewards: [{
+				id: "51E1858BF35C4880"
+				type: "item"
+				item: "byg:palm_sapling"
+			}]
 		}
 		{
 			x: 4.5d
@@ -1268,6 +1311,11 @@
 					Count: 1b
 					tag: { }
 				}
+			}]
+			rewards: [{
+				id: "285C16B3EB0270C4"
+				type: "item"
+				item: "botania:cosmetic_groucho_glasses"
 			}]
 		}
 		{
@@ -1307,8 +1355,8 @@
 		}
 		{
 			title: "A full kitchen"
-			x: 5.5d
-			y: -10.5d
+			x: 6.0d
+			y: -11.5d
 			id: "6E2E53764EB12F2C"
 			tasks: [
 				{
@@ -1346,8 +1394,8 @@
 		}
 		{
 			title: "Oven and Fridge Upgrades"
-			x: 5.0d
-			y: -12.0d
+			x: 6.5d
+			y: -13.5d
 			dependencies: ["6E2E53764EB12F2C"]
 			id: "1930BEF2443B4C65"
 			tasks: [
@@ -1369,7 +1417,7 @@
 			]
 		}
 		{
-			x: 6.0d
+			x: 8.0d
 			y: -12.0d
 			subtitle: "...got milk?"
 			dependencies: ["6E2E53764EB12F2C"]
@@ -1383,8 +1431,8 @@
 		{
 			title: "Even better storage"
 			icon: "refinedstorage:creative_controller"
-			x: 2.0d
-			y: -9.0d
+			x: 1.0d
+			y: -10.0d
 			id: "7D98F3E7D133B8D8"
 			tasks: [
 				{
@@ -1453,8 +1501,8 @@
 		}
 		{
 			title: "Basics of Auto Crafting"
-			x: 0.0d
-			y: -9.5d
+			x: -2.0d
+			y: -11.5d
 			dependencies: ["7D98F3E7D133B8D8"]
 			id: "48C0065A0F3A125C"
 			tasks: [
@@ -1482,8 +1530,8 @@
 		}
 		{
 			title: "Wireless Storage"
-			x: 2.5d
-			y: -10.5d
+			x: 2.0d
+			y: -13.0d
 			dependencies: ["7D98F3E7D133B8D8"]
 			id: "2F469CBED796660A"
 			tasks: [{
@@ -1499,8 +1547,8 @@
 			}]
 		}
 		{
-			x: 2.0d
-			y: -11.5d
+			x: 3.5d
+			y: -14.5d
 			dependencies: ["2F469CBED796660A"]
 			id: "0FD378C496C150E6"
 			tasks: [{
@@ -1511,8 +1559,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: -12.5d
+			x: 4.5d
+			y: -16.0d
 			dependencies: ["0FD378C496C150E6"]
 			id: "349CE0B337A71A2D"
 			tasks: [{
@@ -1523,8 +1571,8 @@
 			}]
 		}
 		{
-			x: 1.5d
-			y: -10.0d
+			x: 0.0d
+			y: -12.5d
 			subtitle: "Lets you keep items perpetually in stock"
 			dependencies: ["7D98F3E7D133B8D8"]
 			id: "5E5E9F799911AE21"
@@ -1535,8 +1583,8 @@
 			}]
 		}
 		{
-			x: 0.0d
-			y: -10.5d
+			x: -1.0d
+			y: -14.5d
 			dependencies: ["5E5E9F799911AE21"]
 			id: "31B5ABBA20F0BE01"
 			tasks: [{
@@ -1546,8 +1594,8 @@
 			}]
 		}
 		{
-			x: 1.0d
-			y: -11.0d
+			x: 1.5d
+			y: -14.5d
 			subtitle: "Infinite range in the same dimension!"
 			dependencies: ["2F469CBED796660A"]
 			id: "63B89D3C134A2A6C"
@@ -1556,10 +1604,16 @@
 				type: "item"
 				item: "rsinfinitybooster:infinity_card"
 			}]
+			rewards: [{
+				id: "2116DA5A9B36E93A"
+				type: "item"
+				item: "minecraft:netherite_ingot"
+				count: 4
+			}]
 		}
 		{
-			x: 0.0d
-			y: -12.0d
+			x: 1.5d
+			y: -16.5d
 			subtitle: "Storage everywhere!"
 			dependencies: ["63B89D3C134A2A6C"]
 			id: "324BEB50A5E19DAB"
@@ -1567,6 +1621,12 @@
 				id: "7912647A304B42BB"
 				type: "item"
 				item: "rsinfinitybooster:dimension_card"
+			}]
+			rewards: [{
+				id: "556830A0405E956B"
+				type: "item"
+				item: "oresabovediamonds:black_opal"
+				count: 4
 			}]
 		}
 		{
@@ -1651,17 +1711,47 @@
 				type: "checkmark"
 				title: "Show light levels"
 			}]
+			rewards: [
+				{
+					id: "31ED987ED9AC1C18"
+					type: "item"
+					item: "minecraft:torch"
+					count: 32
+				}
+				{
+					id: "7F6FE9216CE8FB89"
+					type: "item"
+					item: "minecraft:lantern"
+					count: 16
+				}
+				{
+					id: "46ADB4FA2498D9B8"
+					type: "item"
+					item: "mcwlights:classic_street_lamp"
+					count: 8
+				}
+			]
 		}
 		{
-			x: 5.625d
-			y: -2.25d
+			x: 5.5d
+			y: -2.5d
 			subtitle: "Get your seeds here! Cheep seeds!"
-			size: 0.75d
 			id: "2849644538FCBC16"
 			tasks: [{
 				id: "3CDF3DEC6A4A0699"
 				type: "item"
 				item: "farmingforblockheads:market"
+			}]
+			rewards: [{
+				id: "4102D9AB4C21184F"
+				type: "item"
+				item: {
+					id: "quark:seed_pouch"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
 			}]
 		}
 		{
@@ -1905,6 +1995,12 @@
 				type: "item"
 				item: "tradingpost:trading_post"
 			}]
+			rewards: [{
+				id: "3223A9DCADC7D2B3"
+				type: "item"
+				item: "minecraft:emerald"
+				count: 16
+			}]
 		}
 		{
 			x: 9.0d
@@ -1941,6 +2037,11 @@
 					}
 				}
 			]
+			rewards: [{
+				id: "62979793DC8A5CD8"
+				type: "xp_levels"
+				xp_levels: 30
+			}]
 		}
 		{
 			x: 10.0d
@@ -2019,6 +2120,12 @@
 						]
 					}
 				}
+			}]
+			rewards: [{
+				id: "65A0BE43A09A377C"
+				type: "item"
+				item: "minecraft:wither_skeleton_skull"
+				count: 3
 			}]
 		}
 		{
@@ -2365,6 +2472,127 @@
 				id: "458BD23452F6B895"
 				type: "item"
 				item: "wirelesschargers:advanced_wireless_player_charger"
+			}]
+		}
+		{
+			title: "Extra redstone"
+			x: 2.0d
+			y: 8.5d
+			subtitle: "Tired of building that bulky T-flip flop?"
+			id: "636A12D1B989D320"
+			tasks: [
+				{
+					id: "6A42AF5BFF719AC5"
+					type: "item"
+					item: "create:pulse_repeater"
+				}
+				{
+					id: "1F7A07A35774267C"
+					type: "item"
+					item: "create:pulse_extender"
+				}
+				{
+					id: "7D43E231E1F80CD1"
+					type: "item"
+					item: "create:powered_toggle_latch"
+				}
+				{
+					id: "6F90A3A757D6AE3C"
+					type: "item"
+					item: "create:powered_latch"
+				}
+			]
+			rewards: [
+				{
+					id: "32141B2DE472227A"
+					type: "item"
+					item: "minecraft:redstone"
+					count: 64
+				}
+				{
+					id: "54451D8EB72FCF30"
+					type: "item"
+					item: "minecraft:redstone"
+					count: 64
+				}
+				{
+					id: "782EB3ACFFCAE384"
+					type: "item"
+					item: "minecraft:iron_ingot"
+					count: 16
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: 9.5d
+			subtitle: "Wireless redstone...."
+			id: "50A4C4EA9DC48C45"
+			tasks: [{
+				id: "517E57AB0F71F78D"
+				type: "item"
+				item: "create:redstone_link"
+			}]
+			rewards: [{
+				id: "740CC8E099604807"
+				type: "item"
+				item: "minecraft:ender_pearl"
+				count: 4
+			}]
+		}
+		{
+			x: 2.5d
+			y: 9.5d
+			subtitle: "Display boards"
+			id: "0E02BC32CCFE4C71"
+			tasks: [
+				{
+					id: "0878D54BDFD8C44D"
+					type: "item"
+					item: "create:display_link"
+				}
+				{
+					id: "1D15855C2A3F9DCF"
+					type: "item"
+					item: "create:display_board"
+				}
+			]
+		}
+		{
+			x: 17.0d
+			y: -0.5d
+			subtitle: "Flower power!"
+			id: "6AAB177517438A79"
+			tasks: [{
+				id: "307628EFB3947336"
+				type: "item"
+				item: "botania:lexicon"
+			}]
+			rewards: [{
+				id: "2428843507F9EFF8"
+				type: "item"
+				item: "botania:mana_tablet"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -6.0d
+			dependencies: [
+				"40C2103D468EA732"
+				"7F92781FD872FF06"
+				"3F6CF6068EF463D0"
+			]
+			id: "037C582D504E28C4"
+			tasks: [{
+				id: "47BFFC8CC79DD827"
+				type: "item"
+				item: "functionalstorage:storage_controller"
+			}]
+			rewards: [{
+				id: "5081D74EEFEFFB04"
+				type: "item"
+				item: "functionalstorage:controller_extension"
+				count: 2
 			}]
 		}
 	]

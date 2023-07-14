@@ -58,11 +58,11 @@ hash = "10a7e9645ea04cdf4ff22d72076c7df72f41da9176bde6e821acbe6a0ce49661"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/slay_em.snbt"
-hash = "8b28df2efad1e9f12842ba3b09cac5d5bacdf1f2e8e5bfcb1f35349d411eafae"
+hash = "544f08cb54dba7fce3cca4f6a76026917df52f2c1b3f9ef678e249cb8ef19958"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/starting_out.snbt"
-hash = "df180f97e8d58609740935d1d457b9e8c7b5d7a55a8c6d07c38883a24eb605bc"
+hash = "1f43ebe920517c613f1e44a90674ae69de95e5569ca5e4bd62b0ec0f2c369809"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -82,7 +82,7 @@ hash = "4c0dd13396c014149fa0a3325547f17d51ca38564643a87427483a410852e2e6"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/rare_loot.snbt"
-hash = "7ced7a7eeb62360f9666b381bd8fe1ef9a6d9c5581ee98c7b0ee874e63dfeac6"
+hash = "0c44f99b878a3815182d5541f804ba4e34fabe56fb4a08622e281dc28ea078ec"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/simple_chance_choice.snbt"

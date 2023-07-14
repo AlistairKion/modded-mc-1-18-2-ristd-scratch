@@ -12,8 +12,8 @@
 				Count: 1b
 				tag: {
 					effects: [{
-						name: "reliquary:cure"
 						duration: 500
+						name: "reliquary:cure"
 						potency: 3
 					}]
 				}
@@ -27,8 +27,8 @@
 				Count: 1b
 				tag: {
 					effects: [{
-						name: "minecraft:health_boost"
 						duration: 7500
+						name: "minecraft:health_boost"
 						potency: 2
 					}]
 				}
