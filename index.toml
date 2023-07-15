@@ -8607,11 +8607,6 @@ hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
 metafile = true
 
 [[files]]
-file = "mods/flywheel.pw.toml"
-hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
-metafile = true
-
-[[files]]
 file = "mods/forgiving-world.pw.toml"
 hash = "21bd4576aee1e9a2281d4e368f69e2157787de0833c81f7704783e8f5c4a9a1e"
 metafile = true
