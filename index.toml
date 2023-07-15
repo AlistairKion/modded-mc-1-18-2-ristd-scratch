@@ -14,7 +14,7 @@ hash = "b08712c2ba590cacaa65d4c6bc115574a53452e4265f05cc8f5f02702b0a9986"
 
 [[files]]
 file = "config/ProjectE/server.toml"
-hash = "0aca629f3fdf712d6b1a07f11d3c39e902ce6d508629df2c451b5f8428531935"
+hash = "85df25fcee0590a1151b4643abdc9d2c27e7760ca8b5ded7b642867703934397"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"

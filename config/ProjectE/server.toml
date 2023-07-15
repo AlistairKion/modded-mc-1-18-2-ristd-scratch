@@ -8,11 +8,23 @@
 		#Amount of damage Katar 'C' key deals
 		#Range: 0.0 ~ 2.147483647E9
 		katarDeathAura = 1000.0
-		#Adjusting this ratio changes how much EMC is received when burning a item. For example setting this to 0.5 will return half of the EMC cost.
-		#Range: 0.1 ~ 1.0
-		covalenceLoss = 1.0
-		#How rounding occurs when Covalence Loss results in a burn value less than 1 EMC. If true the value will be rounded up to 1. If false the value will be rounded down to 0.
-		covalenceLossRounding = true
+		#Minimum multiplier to EMC cost when creating items in the transmutation table (can be reached after researching an item)
+		#Range: 1.0 ~ 1.7976931348623157E308
+		minCreationCostMultiplier = 1.2
+		#Maximum (and starting) multiplier to EMC cost when creating items in the transmutation table (can be reduced closer to minimum after researching an item)
+		#Range: 1.0 ~ 1.7976931348623157E308
+		maxCreationCostMultiplier = 10.0
+		#Minimum (and starting) percentage of EMC value received when converting an item to EMC (can be increased closer to maximum after researching an item)
+		#Range: 0.0 ~ 1.0
+		minBurnEfficiency = 0.8
+		#Maximum percentage of EMC value received when converting an item to EMC (can be reached after researching an item)
+		#Range: 0.0 ~ 1.0
+		maxBurnEfficiency = 1.0
+		#How rounding occurs when burn cost results in a burn value less than 1 EMC. If true the value will be rounded up to 1. If false the value will be rounded down to 0.
+		burnCostRounding = false
+		#How many unique research fragments are needed to make EMC transmutation maximally efficient.
+		#Range: 1 ~ 64
+		researchFragmentsPerItem = 48
 
 	[server.items]
 		#Instead of vein mining the ore you right click with your Dark/Red Matter Pick/Star it vein mines all ores in an AOE around you like it did in ProjectE before version 1.4.4.
