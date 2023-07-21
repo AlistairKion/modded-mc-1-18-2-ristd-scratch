@@ -157,8 +157,16 @@ file = "defaultconfigs/champions-ranks.toml"
 hash = "293be7b70378dc89260db97d2ab02161d31aad05357562feac9a3dafe47b3670"
 
 [[files]]
+file = "defaultconfigs/easier_sleeping-server.toml"
+hash = "09a7d1023c67ec17576f100ca58e7a7f52153ad416082692e6c90ad8c24b3238"
+
+[[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
 hash = "e95335c7cd315114e9facd91d9a2764930a575394abf3092b54d9096c692163a"
+
+[[files]]
+file = "defaultconfigs/solcarrot-server.toml"
+hash = "88707fc39056bd27a85a7cd63ddbb58b5abb7c63b476b2c79566fc9e96b8cd14"
 
 [[files]]
 file = "defaultconfigs/tradingpost-server.toml"
