@@ -11,6 +11,7 @@ global["HIDE_UNIFIED_ITEMS"] = false
 
 // Mod priorities
 global["unifypriorities"] = [
+    "minecraft",
     "thermal",
     "immersiveengineering",
     "create",
@@ -28,8 +29,9 @@ global["unifyexclude"] = new Set([
     'thermal:deepslate_sulfur_ore',
     'thermal:deepslate_tin_ore',
     'minecraft:copper_ore',
-    'minecraft:copper_block'
-    
+    'minecraft:copper_block',
+    'immersiveengineering:storage_steel',
+    'thermal:steel_block'
 ])
 
 // Add oredictionary tags here to unify (or use javascript to generate it!). These are also higher priority than tagGen.
