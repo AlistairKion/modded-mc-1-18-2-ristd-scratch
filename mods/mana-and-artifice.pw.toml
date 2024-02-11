@@ -1,13 +1,13 @@
 name = "Mana and Artifice"
-filename = "mna-1.7.2.10.jar"
+filename = "mna-2.0.0.33.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b636f83a0244600f389cd0947f0ddcf7d3fb52ba"
+hash = "72b46f2bf1ec2a8987172a625b839ff85f9443dc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4285099
+file-id = 4918192
 project-id = 406360

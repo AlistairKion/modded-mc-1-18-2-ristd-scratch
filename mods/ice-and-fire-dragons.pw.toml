@@ -1,13 +1,13 @@
 name = "Ice and Fire: Dragons"
-filename = "iceandfire-2.1.12-1.18.2-beta2.jar"
+filename = "iceandfire-2.1.13-1.18.2-beta-3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "dd48195b51a50ef0bcb304adc91dd945b351b678"
+hash = "a4630af26a3220d874af061edd4c4a732d400542"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4503832
+file-id = 5037775
 project-id = 264231
