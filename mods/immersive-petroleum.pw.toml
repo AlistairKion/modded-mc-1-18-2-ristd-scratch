@@ -1,13 +1,13 @@
 name = "Immersive Petroleum"
-filename = "ImmersivePetroleum-1.18.2-4.2.0-25.jar"
+filename = "ImmersivePetroleum-1.18.2-4.1.0-21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "220a09ed90c4409f3d89e68ab9957e8b437ec17f"
+hash = "b6cc1a09133e98f35c49d3ba409672980c051483"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4818720
+file-id = 4526462
 project-id = 268250
